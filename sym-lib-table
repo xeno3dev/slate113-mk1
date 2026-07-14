@@ -1,4 +1,4 @@
 (sym_lib_table
 	(version 7)
-	(lib (name "slate113") (type "KiCad") (uri "\"C:/Users/fernb/slate113-mk1/slate113_libs/slate113.kicad_sym\"") (options "") (descr ""))
+	(lib (name "slate113") (type "KiCad") (uri "${KIPRJMOD}/slate113_libs/slate113.kicad_sym") (options "") (descr ""))
 )

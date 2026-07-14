@@ -414,15 +414,51 @@
         "filename": "slate113.kicad_sch",
         "name": "slate113",
         "uuid": "b288fab6-0839-4a06-8b3c-e75a6365af30"
+      },
+      {
+        "filename": "main_board.kicad_sch",
+        "name": "Main_Board",
+        "uuid": "9f5acde0-c32a-42eb-a9f2-f6cec9b16f5a"
+      },
+      {
+        "filename": "io.kicad_sch",
+        "name": "IO",
+        "uuid": "d9c968d6-de70-422d-aa76-11643c5e786e"
+      },
+      {
+        "filename": "power.kicad_sch",
+        "name": "Power",
+        "uuid": "f616d63f-663d-4b57-85dd-1d83f308499d"
+      },
+      {
+        "filename": "m.2.kicad_sch",
+        "name": "M.2",
+        "uuid": "94414cfb-47f8-4293-934c-b1b4e6e41e9f"
       }
     ],
-    "used_designators": "SW1-2,J1,J4-8,R11-25,C13-19,L3,U9-11,Q9-10,USB1,F1",
+    "used_designators": "U10,FPC1,C18,C20,R30,SIM2,J9,CN1-3",
     "variants": []
   },
   "sheets": [
     [
       "b288fab6-0839-4a06-8b3c-e75a6365af30",
       "slate113"
+    ],
+    [
+      "9f5acde0-c32a-42eb-a9f2-f6cec9b16f5a",
+      "Main_Board"
+    ],
+    [
+      "d9c968d6-de70-422d-aa76-11643c5e786e",
+      "IO"
+    ],
+    [
+      "f616d63f-663d-4b57-85dd-1d83f308499d",
+      "Power"
+    ],
+    [
+      "94414cfb-47f8-4293-934c-b1b4e6e41e9f",
+      "M.2"
     ]
   ],
   "text_variables": {},
