@@ -434,9 +434,14 @@
         "filename": "m.2.kicad_sch",
         "name": "M.2",
         "uuid": "94414cfb-47f8-4293-934c-b1b4e6e41e9f"
+      },
+      {
+        "filename": "tridirectionfpc.kicad_sch",
+        "name": "TriDirectionFPC",
+        "uuid": "ccbe17f0-b217-4fed-9e91-36ec2d8cbd27"
       }
     ],
-    "used_designators": "U10,FPC1,C18,C20,R30,SIM2,J9,CN1-3",
+    "used_designators": "L3,Y2,FB3,U1,U7,U10,U12-15,FPC1-6,C1-2,C18,C20,C22-24,C30-42,USB1,R3-4,R25,R27,R30-37,SIM2,J9,CN1-3",
     "variants": []
   },
   "sheets": [
@@ -459,6 +464,10 @@
     [
       "94414cfb-47f8-4293-934c-b1b4e6e41e9f",
       "M.2"
+    ],
+    [
+      "ccbe17f0-b217-4fed-9e91-36ec2d8cbd27",
+      "TriDirectionFPC"
     ]
   ],
   "text_variables": {},

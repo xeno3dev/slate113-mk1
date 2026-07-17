@@ -85,20 +85,7 @@
   },
   "open_jobsets": [],
   "project": {
-    "files": [
-      {
-        "name": "slate113.kicad_sch",
-        "open": true,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 0,
-          "pos_y": 0,
-          "size_x": 1010,
-          "size_y": 1176
-        }
-      }
-    ]
+    "files": []
   },
   "schematic": {
     "hierarchy_collapsed": [],
