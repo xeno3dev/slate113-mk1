@@ -436,12 +436,22 @@
         "uuid": "94414cfb-47f8-4293-934c-b1b4e6e41e9f"
       },
       {
-        "filename": "tridirectionfpc.kicad_sch",
-        "name": "TriDirectionFPC",
-        "uuid": "ccbe17f0-b217-4fed-9e91-36ec2d8cbd27"
+        "filename": "m.2flex.kicad_sch",
+        "name": "M.2Flex",
+        "uuid": "f307ba30-5fb8-413d-b39f-b3fc9784889c"
+      },
+      {
+        "filename": "ioflex.kicad_sch",
+        "name": "IOFlex",
+        "uuid": "6c6befcf-f225-4414-af92-dd623bb72590"
+      },
+      {
+        "filename": "powerflex.kicad_sch",
+        "name": "PowerFlex",
+        "uuid": "911781d1-2594-482b-972d-6ebe3a608599"
       }
     ],
-    "used_designators": "L3,Y2,FB3,U1,U7,U10,U12-15,FPC1-6,C1-2,C18,C20,C22-24,C30-42,USB1,R3-4,R25,R27,R30-37,SIM2,J9,CN1-3",
+    "used_designators": "L3,Y2,FB3,U1,U7,U10,U12-17,FPC1-6,C1-2,C18,C20,C22-27,C30-56,USB1,R3-4,R24-25,R27,R30-37,SIM2,J9,CN1-13",
     "variants": []
   },
   "sheets": [
@@ -466,8 +476,16 @@
       "M.2"
     ],
     [
-      "ccbe17f0-b217-4fed-9e91-36ec2d8cbd27",
-      "TriDirectionFPC"
+      "911781d1-2594-482b-972d-6ebe3a608599",
+      "PowerFlex"
+    ],
+    [
+      "f307ba30-5fb8-413d-b39f-b3fc9784889c",
+      "M.2Flex"
+    ],
+    [
+      "6c6befcf-f225-4414-af92-dd623bb72590",
+      "IOFlex"
     ]
   ],
   "text_variables": {},
