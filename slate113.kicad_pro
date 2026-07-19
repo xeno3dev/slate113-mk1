@@ -451,7 +451,7 @@
         "uuid": "911781d1-2594-482b-972d-6ebe3a608599"
       }
     ],
-    "used_designators": "L3,Y2,FB3,U1,U7,U10,U12-17,FPC1-6,C1-2,C18,C20,C22-27,C30-56,USB1,R3-4,R24-25,R27,R30-37,SIM2,J9,CN1-13",
+    "used_designators": "#FLG1,#FLG3,#FLG7-10,L3,Y2,FB3,U1,U7,U10,U12-17,FPC1-6,C1-2,C18,C20,C22-27,C30-56,USB1,R3-4,R24-25,R27,R30-37,SIM2,J9,CN1-13",
     "variants": []
   },
   "sheets": [

@@ -88,14 +88,14 @@
     "files": [
       {
         "name": "slate113.kicad_sch",
-        "open": false,
+        "open": true,
         "window": {
-          "display": 0,
+          "display": 1,
           "maximized": false,
           "pos_x": 0,
           "pos_y": 0,
-          "size_x": 2030,
-          "size_y": 1176
+          "size_x": 839,
+          "size_y": 962
         }
       }
     ]
