@@ -1109,6 +1109,54 @@
 			(embedded_fonts no)
 		)
 	)
+	(no_connect
+		(at 172.72 45.72)
+		(uuid "30b863b5-3c1d-4a95-bad4-b1bccee426fe")
+	)
+	(no_connect
+		(at 170.18 45.72)
+		(uuid "37b973d7-44f3-4e68-a9f9-646ed471f728")
+	)
+	(no_connect
+		(at 93.98 68.58)
+		(uuid "4c78bf55-d7f4-40ec-bd4e-da1cfed24f1a")
+	)
+	(no_connect
+		(at 96.52 68.58)
+		(uuid "53ef49a7-e8ac-43d0-8549-016f499f5bd1")
+	)
+	(no_connect
+		(at 170.18 33.02)
+		(uuid "597b2e16-7894-44d7-8de6-d50856e14670")
+	)
+	(no_connect
+		(at 172.72 33.02)
+		(uuid "7180c707-b675-45d7-b046-b27978f229cf")
+	)
+	(no_connect
+		(at 99.06 81.28)
+		(uuid "ac22ce40-24fa-45f0-bb54-2ac52222b4b4")
+	)
+	(no_connect
+		(at 99.06 68.58)
+		(uuid "cb2f79f3-9d56-4ea1-873e-4c082539abe1")
+	)
+	(no_connect
+		(at 167.64 45.72)
+		(uuid "dd3d7428-e324-456b-b71e-84a932f3a58f")
+	)
+	(no_connect
+		(at 96.52 81.28)
+		(uuid "e2c324fc-3d61-41f5-ab92-2bf35c1087eb")
+	)
+	(no_connect
+		(at 167.64 33.02)
+		(uuid "ed168e6b-b659-4097-8cb6-e861ea0d5abc")
+	)
+	(no_connect
+		(at 93.98 81.28)
+		(uuid "f18cdd6b-7692-413a-9193-c7d97c3e5694")
+	)
 	(global_label "SD_CLK"
 		(shape input)
 		(at 60.96 81.28 270)

@@ -5401,6 +5401,10 @@
 		(uuid "078c822d-8a11-4ca3-b362-aad38102de48")
 	)
 	(no_connect
+		(at 247.65 52.07)
+		(uuid "103d8c34-772a-46af-9d3e-02f80c745e14")
+	)
+	(no_connect
 		(at 123.19 44.45)
 		(uuid "17d56390-e5c4-4cfa-832e-681a16678339")
 	)
@@ -5433,8 +5437,16 @@
 		(uuid "37a8b2cd-ff0f-44db-8ba2-55418199b4fc")
 	)
 	(no_connect
+		(at 102.87 49.53)
+		(uuid "3bcb945a-0e78-4c77-b41d-5754c81cad56")
+	)
+	(no_connect
 		(at 66.04 168.91)
 		(uuid "41f90941-2b8d-4f19-98be-4793faa2e796")
+	)
+	(no_connect
+		(at 252.73 34.29)
+		(uuid "5394ec64-202b-45cc-9df4-7adb858d5d8c")
 	)
 	(no_connect
 		(at 123.19 39.37)
@@ -5445,8 +5457,16 @@
 		(uuid "56d294c8-2e9f-4001-b4a7-941cea3eba27")
 	)
 	(no_connect
+		(at 247.65 34.29)
+		(uuid "5c2d2f1c-0f58-4b7b-89d0-04209b8cc6df")
+	)
+	(no_connect
 		(at 43.18 49.53)
 		(uuid "61389094-6f44-4c12-83e4-b260723d29f3")
+	)
+	(no_connect
+		(at 252.73 52.07)
+		(uuid "70f34421-f453-4a95-a7ef-821b09a5e3ee")
 	)
 	(no_connect
 		(at 102.87 170.18)
@@ -5465,6 +5485,10 @@
 		(uuid "816ec808-7f23-423d-bda7-b6d24aaf4e17")
 	)
 	(no_connect
+		(at 250.19 34.29)
+		(uuid "8acad09c-32a8-46a3-9ae9-52cb45d49ca4")
+	)
+	(no_connect
 		(at 187.96 151.13)
 		(uuid "8ca3e72c-ee31-4e2b-8d10-c76b0507b690")
 	)
@@ -5477,6 +5501,10 @@
 		(uuid "98c6b976-4d0b-42be-aa67-1b385347fe0f")
 	)
 	(no_connect
+		(at 245.11 34.29)
+		(uuid "99816d24-4d9f-4868-baa2-c3e841164d13")
+	)
+	(no_connect
 		(at 66.04 171.45)
 		(uuid "a1c6ea4f-25f9-4749-ac86-5d7c5727a6c8")
 	)
@@ -5487,6 +5515,10 @@
 	(no_connect
 		(at 33.02 158.75)
 		(uuid "a9b2b71c-0bea-4c52-a17c-d795935ba026")
+	)
+	(no_connect
+		(at 250.19 52.07)
+		(uuid "ad636079-d692-4806-99e2-d535638b33b9")
 	)
 	(no_connect
 		(at 33.02 161.29)
@@ -5507,6 +5539,10 @@
 	(no_connect
 		(at 97.79 187.96)
 		(uuid "f7ce6b4b-9f20-48f1-8c8d-e46c57d1caed")
+	)
+	(no_connect
+		(at 245.11 52.07)
+		(uuid "f8e26b9d-a45f-4269-a948-314d8a64db57")
 	)
 	(no_connect
 		(at 100.33 187.96)
@@ -9524,7 +9560,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1f1c4e82-9302-4a6a-83e0-54162f11faad")
 		(property "Reference" "#FLG05"
 			(at 66.04 155.575 0)
@@ -9538,7 +9573,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 66.04 158.75 0)
+			(at 72.898 158.75 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
