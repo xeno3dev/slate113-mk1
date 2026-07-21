@@ -449,9 +449,14 @@
         "filename": "powerflex.kicad_sch",
         "name": "PowerFlex",
         "uuid": "911781d1-2594-482b-972d-6ebe3a608599"
+      },
+      {
+        "filename": "radio.kicad_sch",
+        "name": "Radio",
+        "uuid": "5f0cb96f-deec-4f06-b790-14dd96b4fe43"
       }
     ],
-    "used_designators": "#FLG1,#FLG3,#FLG7-21,L3,Y2,FB3,U1,U7,U10,U12-17,FPC1-6,C1-2,C18,C20,C22-27,C30-56,USB1,R3-4,R24-25,R27,R30-37,SIM2,J9,CN1-13",
+    "used_designators": "Y1,Y3,FB4-5,C25,C57-61,R26,R38,L4,U18-23",
     "variants": []
   },
   "sheets": [
@@ -486,6 +491,10 @@
     [
       "6c6befcf-f225-4414-af92-dd623bb72590",
       "IOFlex"
+    ],
+    [
+      "5f0cb96f-deec-4f06-b790-14dd96b4fe43",
+      "Radio"
     ]
   ],
   "text_variables": {},
