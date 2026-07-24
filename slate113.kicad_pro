@@ -456,7 +456,7 @@
         "uuid": "5f0cb96f-deec-4f06-b790-14dd96b4fe43"
       }
     ],
-    "used_designators": "SW3,RF1,Y1,Y3,FB4-5,C25,C28-29,C35,C57-72,USB2,R26,R38-41,L4-7,U18-29",
+    "used_designators": "SW3,RF1,Y1,Y3,FB4-5,C25,C28-29,C35,C57-85,USB2,R26,R38-41,L4-7,U18-29",
     "variants": []
   },
   "sheets": [
