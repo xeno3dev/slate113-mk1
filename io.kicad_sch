@@ -18816,7 +18816,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "slate113:HC-USB3_0-L168-WJ_COPY"
 			(at 33.02 87.63 0)
 			(hide yes)
 			(show_name no)

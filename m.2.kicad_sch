@@ -4157,7 +4157,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "slate113:NGFFM_2BKEY_8_2_COPY"
 			(at 45.72 100.33 0)
 			(hide yes)
 			(show_name no)

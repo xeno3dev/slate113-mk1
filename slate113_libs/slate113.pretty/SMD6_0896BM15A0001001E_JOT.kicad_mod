@@ -212,8 +212,14 @@
 	)
 	(embedded_fonts no)
 	(model "/home/xeno3ra/projects/slate113-mk1/slate113_libs/slate113.3dshapes/SMD6_0896BM15A0001001E_JOT.step"
-		(offset (xyz 0.000 0.000 0.000))
-		(scale (xyz 1 1 1))
-		(rotate (xyz 0 0 0))
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
 	)
 )
