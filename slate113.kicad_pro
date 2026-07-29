@@ -686,9 +686,19 @@
         "filename": "radio.kicad_sch",
         "name": "Radio",
         "uuid": "5f0cb96f-deec-4f06-b790-14dd96b4fe43"
+      },
+      {
+        "filename": "radioflex.kicad_sch",
+        "name": "RadioFlex",
+        "uuid": "43a4e077-05be-4520-a0b4-5cfdc96f90d7"
+      },
+      {
+        "filename": "antennabracket.kicad_sch",
+        "name": "AntennaBracket",
+        "uuid": "91b7b2cb-870f-4b9b-aff7-8953b62455b3"
       }
     ],
-    "used_designators": "#FLG21,SW3,RF1-2,Y1,Y3,FB4-5,D2-4,C25,C28-29,C35,C57-94,USB2,R26,R38-44,L4-8,Q1,U18-32",
+    "used_designators": "C93-94,C99,R45-47,U30,U36-43,J3,J7-8,J10-20,RF3-11,CN20",
     "variants": []
   },
   "sheets": [
@@ -727,6 +737,14 @@
     [
       "5f0cb96f-deec-4f06-b790-14dd96b4fe43",
       "Radio"
+    ],
+    [
+      "43a4e077-05be-4520-a0b4-5cfdc96f90d7",
+      "RadioFlex"
+    ],
+    [
+      "91b7b2cb-870f-4b9b-aff7-8953b62455b3",
+      "AntennaBracket"
     ]
   ],
   "text_variables": {},

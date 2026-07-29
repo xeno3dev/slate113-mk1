@@ -1,0 +1,3219 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "7f7840a1-b96d-44f2-bda4-cdb008b22c5a")
+	(paper "A5")
+	(lib_symbols
+		(symbol "Connector:Conn_Coaxial"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at 0.254 3.048 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_Coaxial"
+				(at 2.921 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "BNC SMA SMB SMC LEMO coaxial connector CINCH RCA MCX MMCX U.FL UMRF"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Conn_Coaxial_0_1"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -0.508 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 1.778 0)
+					(mid 0.222 -1.8079)
+					(end -1.778 -0.508)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -1.778 0.508)
+					(mid 0.2221 1.8084)
+					(end 1.778 0)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 0.508)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy 0 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Conn_Coaxial_1_1"
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "In"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "Ext"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "slate113:CON-SMA-EDGE-S"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "RF"
+				(at 0 12.7 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CON-SMA-EDGE-S"
+				(at 0 -12.7 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "slate113:SMA-SMD_CON-SMA-EDGE-S"
+				(at 0 -15.24 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://www.lcsc.com/datasheet/C5356059.pdf"
+				(at 0 -17.78 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "RF Solutions"
+				(at 0 -20.32 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "CON-SMA-EDGE-S"
+				(at 0 -22.86 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC Part" "C5356059"
+				(at 0 -25.4 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "CON-SMA-EDGE-S_0_1"
+				(rectangle
+					(start -11.43 2.54)
+					(end -2.03 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.03 2.03) (xy 0.51 2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.03 -2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 0.51 2.54)
+					(end 7.37 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(circle
+					(center 3.81 0)
+					(radius 0.51)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.32 0) (xy 6.35 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 6.35 7.62 270)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 11.43 0 180)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 6.35 -7.62 90)
+					(length 5.08)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 1.27 -7.62 90)
+					(length 5.08)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 1.27 7.62 270)
+					(length 5.08)
+					(name "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(junction
+		(at 137.16 50.165)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "00cb921e-b7af-48c6-a903-e6ba48048a02")
+	)
+	(junction
+		(at 41.91 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "15114469-cc15-4db4-b700-f084d1f13de0")
+	)
+	(junction
+		(at 68.58 50.165)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "18c26040-2c8e-40ac-bd16-e7b52814ccbd")
+	)
+	(junction
+		(at 26.67 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2674b4a8-5ace-46db-a02a-2e4a9fb51492")
+	)
+	(junction
+		(at 163.83 45.085)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "328e2e1c-f91b-4a71-846a-875557565fdf")
+	)
+	(junction
+		(at 129.54 45.085)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3679dd06-405b-4dcb-b156-97cc71ab1c60")
+	)
+	(junction
+		(at 76.2 40.005)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "399fc1eb-7384-4c6d-9928-60f5f1ae9137")
+	)
+	(junction
+		(at 179.07 40.005)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "53856047-7478-4c26-b764-0d4b6a478925")
+	)
+	(junction
+		(at 110.49 40.005)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "594e5951-73dc-425d-91aa-fa7f29514de9")
+	)
+	(junction
+		(at 129.54 40.005)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6182ca76-7f74-4af5-8916-c38c0808b371")
+	)
+	(junction
+		(at 60.96 45.085)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6b561c08-7a79-4286-bb3b-cff9d453182b")
+	)
+	(junction
+		(at 171.45 50.165)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6bec3043-18c4-49bf-9358-2b5a7fc2d30e")
+	)
+	(junction
+		(at 34.29 50.165)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "74a448ae-3c92-4562-a1b9-a03675a4ec3b")
+	)
+	(junction
+		(at 102.87 50.165)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "76e53ca1-bf3b-489f-965e-803ae21deb5d")
+	)
+	(junction
+		(at 41.91 40.005)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "771abcff-f7c2-439c-88fa-48265ab25960")
+	)
+	(junction
+		(at 60.96 40.005)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8124d0c9-825e-42f5-8548-57416d96c058")
+	)
+	(junction
+		(at 95.25 40.005)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8ab88813-b4cc-46b4-835f-588508deb2b3")
+	)
+	(junction
+		(at 41.91 45.085)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "924f8166-1e0c-4b28-827c-a832cc705a09")
+	)
+	(junction
+		(at 110.49 45.085)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "96a0a4d9-fc52-4060-8b01-83042d5ea405")
+	)
+	(junction
+		(at 26.67 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "96bc7b2f-815b-43c3-91ec-9b23b72d7dad")
+	)
+	(junction
+		(at 179.07 45.085)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a9ef2ad2-d725-4451-9856-1b0b443f4b9d")
+	)
+	(junction
+		(at 144.78 40.005)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "adf41ea7-06a9-46c0-b746-12daf5c23487")
+	)
+	(junction
+		(at 26.67 45.085)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b5915d11-7c9a-4d2a-bd87-abdd6632484a")
+	)
+	(junction
+		(at 41.91 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b6a710cc-e0b4-4edf-b752-8d69ce7ee6f0")
+	)
+	(junction
+		(at 26.67 40.005)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b6f3aab5-eb1d-4069-baca-73fe4843099c")
+	)
+	(junction
+		(at 144.78 45.085)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c51c4aa0-c3b9-450f-a60e-a9887ab37eef")
+	)
+	(junction
+		(at 76.2 45.085)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d288cb37-4309-4e4f-bd85-6696af12b0d7")
+	)
+	(junction
+		(at 34.29 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dd9b432a-ef4b-4afa-b4b7-815ed784440c")
+	)
+	(junction
+		(at 163.83 40.005)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e0fb07b7-aeea-4531-bbf5-1f8382f39bf6")
+	)
+	(junction
+		(at 95.25 45.085)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f40c8d42-a907-46bc-8f48-39d667c4cc6b")
+	)
+	(wire
+		(pts
+			(xy 76.2 39.37) (xy 76.2 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05c5c8b6-c12a-42c7-85e7-99d6e5e14cf7")
+	)
+	(wire
+		(pts
+			(xy 110.49 44.45) (xy 110.49 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "072caf56-17dc-4c9d-afa0-f36762586911")
+	)
+	(wire
+		(pts
+			(xy 137.16 50.165) (xy 137.16 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "117af9f0-c80c-4149-bd07-9074856c3104")
+	)
+	(wire
+		(pts
+			(xy 163.83 44.45) (xy 163.83 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "127f0dec-3cb2-44a2-8a60-16d50b62dac3")
+	)
+	(wire
+		(pts
+			(xy 137.16 49.53) (xy 137.16 50.165)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "163dae43-8093-4834-b6a6-9b8e576f52ce")
+	)
+	(wire
+		(pts
+			(xy 163.83 39.37) (xy 163.83 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "185dbe52-d819-465d-a191-b06b0bf4577d")
+	)
+	(wire
+		(pts
+			(xy 58.42 45.72) (xy 60.96 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "194db53d-8ac7-4d7e-a6cc-a08878bbddaa")
+	)
+	(wire
+		(pts
+			(xy 171.45 50.165) (xy 171.45 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1be430c1-b521-41f3-966b-502dd12b7c08")
+	)
+	(wire
+		(pts
+			(xy 41.91 88.265) (xy 44.45 88.265)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c346d66-f834-40af-a57b-897a8c60cb11")
+	)
+	(wire
+		(pts
+			(xy 24.13 39.37) (xy 26.67 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a0ab37f-4fbe-4fa9-998b-52a777a8d085")
+	)
+	(wire
+		(pts
+			(xy 26.67 93.345) (xy 26.67 94.615)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2da84de0-ef9c-433e-b6a7-1ba3200dd0ca")
+	)
+	(wire
+		(pts
+			(xy 41.91 88.265) (xy 41.91 89.535)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3026f946-92da-4ed6-8d79-065f559b322d")
+	)
+	(wire
+		(pts
+			(xy 95.25 39.37) (xy 95.25 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "319e5d38-3dd4-496e-86db-999428920e54")
+	)
+	(wire
+		(pts
+			(xy 41.91 45.72) (xy 44.45 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "339b9791-c964-4d6c-9d11-598d75779bdc")
+	)
+	(wire
+		(pts
+			(xy 179.07 45.72) (xy 181.61 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35551e3a-4660-4450-b54c-b45d56954950")
+	)
+	(wire
+		(pts
+			(xy 171.45 49.53) (xy 171.45 50.165)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39d6fb65-716a-465f-b7b1-98f2ff1e76ef")
+	)
+	(wire
+		(pts
+			(xy 127 45.72) (xy 129.54 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40362386-393e-4284-9f0a-9a40f01a1d65")
+	)
+	(wire
+		(pts
+			(xy 26.67 45.085) (xy 26.67 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "467ddfb1-22e5-4eb5-a16b-e44ad8c115b8")
+	)
+	(wire
+		(pts
+			(xy 60.96 39.37) (xy 60.96 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "494d917b-afa4-4b0a-be04-0df5e0df0cf0")
+	)
+	(wire
+		(pts
+			(xy 110.49 39.37) (xy 110.49 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49fa9364-38ac-4082-89eb-ab2d08f9a7a7")
+	)
+	(wire
+		(pts
+			(xy 41.91 40.64) (xy 41.91 40.005)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f22b514-7241-4bf5-8736-c8fd45a3c01d")
+	)
+	(wire
+		(pts
+			(xy 102.87 49.53) (xy 102.87 50.165)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4fc92bf3-2783-4cdc-a355-0a623e912071")
+	)
+	(wire
+		(pts
+			(xy 76.2 44.45) (xy 76.2 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52ec4f2b-ca63-48c3-8f13-2c397c2829ee")
+	)
+	(wire
+		(pts
+			(xy 24.13 88.265) (xy 26.67 88.265)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56c0cd3f-21c1-497a-97fb-52ef53620d2b")
+	)
+	(wire
+		(pts
+			(xy 41.91 39.37) (xy 44.45 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61ba77fa-240f-48e8-8990-fe11551de383")
+	)
+	(wire
+		(pts
+			(xy 34.29 98.425) (xy 34.29 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6242c714-5d8a-48af-92ff-038da541ef96")
+	)
+	(wire
+		(pts
+			(xy 179.07 39.37) (xy 179.07 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63f9db68-ba01-4709-bc41-3ef537dc15e3")
+	)
+	(wire
+		(pts
+			(xy 24.13 94.615) (xy 26.67 94.615)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b088459-c5f1-4423-a493-01cdb6724f9a")
+	)
+	(wire
+		(pts
+			(xy 110.49 39.37) (xy 113.03 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70436700-7021-451d-83b4-ecefa7b834ad")
+	)
+	(wire
+		(pts
+			(xy 68.58 49.53) (xy 68.58 50.165)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "722133f6-114d-4f9b-b704-43d3857b5612")
+	)
+	(wire
+		(pts
+			(xy 34.29 50.165) (xy 34.29 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78ec31ba-1d33-402c-8e0f-4e3b0e1a0725")
+	)
+	(wire
+		(pts
+			(xy 76.2 39.37) (xy 78.74 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c102d13-93dd-42a9-a843-2c9044c3e34d")
+	)
+	(wire
+		(pts
+			(xy 179.07 44.45) (xy 179.07 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c1eae8f-4e5a-4667-aca1-a16dffd438f4")
+	)
+	(wire
+		(pts
+			(xy 26.67 88.265) (xy 26.67 89.535)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ee9bbeb-7f11-4589-84b9-117455acd69f")
+	)
+	(wire
+		(pts
+			(xy 41.91 93.345) (xy 41.91 94.615)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8128bf62-e75a-4822-bc99-d1d32e469b88")
+	)
+	(wire
+		(pts
+			(xy 76.2 45.72) (xy 78.74 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89d1e059-67c9-42e6-9d36-3424c6254846")
+	)
+	(wire
+		(pts
+			(xy 41.91 44.45) (xy 41.91 45.085)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a4915f7-e336-42ac-87c7-52de18a23a62")
+	)
+	(wire
+		(pts
+			(xy 92.71 39.37) (xy 95.25 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a55c441-8fe2-4b6e-aa79-c5cecd54a3aa")
+	)
+	(wire
+		(pts
+			(xy 161.29 39.37) (xy 163.83 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8dfca968-4385-4e7b-8bb5-30b745b8e1d6")
+	)
+	(wire
+		(pts
+			(xy 41.91 94.615) (xy 44.45 94.615)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8eb45d85-ba79-4cc5-846f-1c7583079fc8")
+	)
+	(wire
+		(pts
+			(xy 26.67 39.37) (xy 26.67 40.005)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9105d74b-60b3-40d1-8bba-634529f371e1")
+	)
+	(wire
+		(pts
+			(xy 144.78 45.72) (xy 147.32 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92fc6817-487c-4f31-b04e-d98be7aa2dff")
+	)
+	(wire
+		(pts
+			(xy 110.49 45.72) (xy 113.03 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4b68bc0-c0ae-43cf-b598-641deceb8d7e")
+	)
+	(wire
+		(pts
+			(xy 41.91 45.085) (xy 41.91 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a796cf95-3f14-4d73-b6b5-1a50ade7d65d")
+	)
+	(wire
+		(pts
+			(xy 129.54 44.45) (xy 129.54 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b930bfe6-1bac-48ec-a810-9528a3abdeed")
+	)
+	(wire
+		(pts
+			(xy 129.54 39.37) (xy 129.54 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bff50d94-66b3-4a90-8ae3-5382206cb84d")
+	)
+	(wire
+		(pts
+			(xy 102.87 50.165) (xy 102.87 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c07b95f1-9888-4529-82f1-b736de8fb153")
+	)
+	(wire
+		(pts
+			(xy 41.91 40.005) (xy 41.91 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb516306-a3a7-4a39-b497-0567f1e425ee")
+	)
+	(wire
+		(pts
+			(xy 26.67 40.005) (xy 26.67 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1733a11-5795-4a0b-84a8-c54f7ce9f3ea")
+	)
+	(wire
+		(pts
+			(xy 58.42 39.37) (xy 60.96 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1c02880-9fc3-4986-866e-de8c8fa31849")
+	)
+	(wire
+		(pts
+			(xy 179.07 39.37) (xy 181.61 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3e4c05f-2153-4862-892b-674a889a354f")
+	)
+	(wire
+		(pts
+			(xy 144.78 39.37) (xy 144.78 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4eab16f-133e-4ce0-8fea-e0eaf0548bd2")
+	)
+	(wire
+		(pts
+			(xy 34.29 99.06) (xy 34.29 108.585)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7eecc4c-130e-432b-9874-381d22ce39b3")
+	)
+	(wire
+		(pts
+			(xy 24.13 45.72) (xy 26.67 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d805d690-6402-40b3-b3ef-e3f331ea35a6")
+	)
+	(wire
+		(pts
+			(xy 144.78 39.37) (xy 147.32 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d92de8e8-e7ed-483a-a8e5-802acaa16264")
+	)
+	(wire
+		(pts
+			(xy 26.67 45.72) (xy 26.67 45.085)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da6dd0fc-7ae3-4884-a3e2-bc9518de1205")
+	)
+	(wire
+		(pts
+			(xy 144.78 44.45) (xy 144.78 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd45e1b4-42ee-4789-9dc3-f36285dd53a5")
+	)
+	(wire
+		(pts
+			(xy 95.25 44.45) (xy 95.25 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dec04f1e-7ad4-4bdb-91f6-524be3dd5221")
+	)
+	(wire
+		(pts
+			(xy 68.58 50.165) (xy 68.58 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e447a6b8-da7a-4cf0-98a0-f983891d9266")
+	)
+	(wire
+		(pts
+			(xy 92.71 45.72) (xy 95.25 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7134520-94ae-4d3f-af01-f6e07010d663")
+	)
+	(wire
+		(pts
+			(xy 161.29 45.72) (xy 163.83 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e95d2628-3994-42af-86c6-71ac5c5e61bd")
+	)
+	(wire
+		(pts
+			(xy 60.96 44.45) (xy 60.96 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea1f732b-65b3-4205-8559-37d0aa81d6c8")
+	)
+	(wire
+		(pts
+			(xy 127 39.37) (xy 129.54 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd0508fb-9f50-4dbf-9805-8d4395236032")
+	)
+	(wire
+		(pts
+			(xy 34.29 49.53) (xy 34.29 50.165)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff4a6c72-9a92-4613-a851-2bead3403b55")
+	)
+	(global_label "GND"
+		(shape input)
+		(at 132.08 64.77 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "046c167b-6a1a-492c-a03d-edad6cba4917")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 125.2243 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 147.32 39.37 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "15428f03-7705-4340-be7b-b15d4b47327f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 154.1757 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 127 39.37 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "19d68e0a-52ff-4a84-ad3d-c81cdb226932")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 120.1443 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 44.45 45.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1ab8b44f-a579-4a9e-a2e7-9adc65730eb7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 51.3057 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 127 45.72 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1c7457f4-d2f3-400f-b1cc-2a948a144232")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 120.1443 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 24.13 39.37 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1fd98967-2311-4d31-a269-d3ca294a42a5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 17.2743 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 44.45 39.37 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "25be3717-dc89-4d2b-b5cd-4b32ba07d04d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 51.3057 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 29.21 64.77 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "31a2f684-dda3-4c06-9388-9687f1ce248e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 22.3543 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 24.13 88.265 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3cbfec07-3a7c-4078-8b8e-d23b9c2ecd27")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 17.2743 88.265 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 24.13 94.615 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5162d231-67c2-4460-acc7-9cef157d1e35")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 17.2743 94.615 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 97.79 64.77 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6001a52b-a398-4032-80db-50e8b3ffd432")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 90.9343 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 29.21 113.665 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6698cecb-33b3-4ec9-ae0c-35e292b6c0d9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 22.3543 113.665 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 78.74 45.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7fab1c59-1069-48f0-8847-a6e401a2cd74")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.5957 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 113.03 39.37 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "82d5d233-4bc6-4ab0-b05f-f1aa4e162426")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.8857 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 44.45 88.265 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "92a54247-4ae6-4eb7-999f-1bea3e829ed4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 51.3057 88.265 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 92.71 45.72 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9e6da4ca-0e97-4c02-a9c6-4d7c2147346f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.8543 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 58.42 45.72 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "aae1ba6c-06e3-45b4-b2a0-836267625dc3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 51.5643 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 161.29 39.37 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "adb2d331-7b77-496b-9ade-a7c81e21544a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 154.4343 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 44.45 94.615 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b1a45a36-84f2-4a2d-8201-17942a5308da")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 51.3057 94.615 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 166.37 64.77 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bb12be71-0477-4c1f-90dc-ae9e73e8ee89")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 159.5143 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 63.5 64.77 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bfd4587a-e4d0-477d-8792-727963929363")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 56.6443 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 181.61 39.37 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c204d340-8bed-4df7-951d-98b14db4e366")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 188.4657 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 24.13 45.72 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d87ce29c-5c1c-4e7a-8556-421a032ec84c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 17.2743 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 92.71 39.37 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e343ad1c-5e6f-49a6-b5a1-379e3c2425d5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.8543 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 78.74 39.37 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e69cd2f6-7b72-4350-a9af-72630601bcef")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.5957 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 58.42 39.37 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f128aa4e-fcfd-4590-81f4-f2a343652185")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 51.5643 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 113.03 45.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f6078a4a-bfa9-4772-ab60-bc5593db4888")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.8857 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 147.32 45.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f7f375c7-4ebd-49cd-9127-f03cc2d928a5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 154.1757 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 181.61 45.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f82be56b-f879-4361-b8dd-1cbb82a1f4fa")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 188.4657 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 161.29 45.72 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fdd9ecc9-fd80-4677-8ef2-40e98cd13e47")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 154.4343 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_Coaxial")
+		(at 137.16 64.77 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0ecf8e76-98ed-43c9-9289-8d5bf6f37775")
+		(property "Reference" "J11"
+			(at 140.97 63.1824 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_Coaxial"
+			(at 140.97 65.7224 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 137.16 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+			(at 137.16 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0d88eca3-b7b1-492c-aa1b-7c32459f5705")
+		)
+		(pin "2"
+			(uuid "04bb7640-94ad-401b-acc2-fdc917eeb799")
+		)
+		(instances
+			(project "slate113"
+				(path "/91b7b2cb-870f-4b9b-aff7-8953b62455b3"
+					(reference "J11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "slate113:CON-SMA-EDGE-S")
+		(at 171.45 38.735 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "14e2b65f-5250-4aa4-9569-75699e5d7e8f")
+		(property "Reference" "RF11"
+			(at 171.45 24.765 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CON-SMA-EDGE-S"
+			(at 171.45 22.225 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "slate113:SMA-SMD_CON-SMA-EDGE-S"
+			(at 156.21 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C5356059.pdf"
+			(at 153.67 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 171.45 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "RF Solutions"
+			(at 151.13 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CON-SMA-EDGE-S"
+			(at 148.59 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C5356059"
+			(at 146.05 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2558c9f4-fb76-4454-9d91-59a7f0a74481")
+		)
+		(pin "2"
+			(uuid "6fd43787-aded-49c9-b581-9976bac19512")
+		)
+		(pin "3"
+			(uuid "1af9faa7-5159-4841-9e4b-7b4935adee98")
+		)
+		(pin "4"
+			(uuid "6d331332-1286-4835-8a6c-08cc60f466d5")
+		)
+		(pin "5"
+			(uuid "9086e769-fcfb-41dd-a997-355d521fbdb7")
+		)
+		(instances
+			(project "slate113"
+				(path "/91b7b2cb-870f-4b9b-aff7-8953b62455b3"
+					(reference "RF11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "slate113:CON-SMA-EDGE-S")
+		(at 34.29 38.735 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "16e12b6f-6734-4412-ad78-1e2215d91663")
+		(property "Reference" "RF8"
+			(at 34.29 24.765 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CON-SMA-EDGE-S"
+			(at 34.29 22.225 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "slate113:SMA-SMD_CON-SMA-EDGE-S"
+			(at 19.05 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C5356059.pdf"
+			(at 16.51 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 34.29 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "RF Solutions"
+			(at 13.97 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CON-SMA-EDGE-S"
+			(at 11.43 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C5356059"
+			(at 8.89 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c2f1e41d-ca9c-41c5-8342-20dc343d1aec")
+		)
+		(pin "2"
+			(uuid "0bf0517c-ea3d-48cf-ab58-12187662e9ff")
+		)
+		(pin "3"
+			(uuid "28ed706b-b6ba-4137-8a74-81b371dcdd60")
+		)
+		(pin "4"
+			(uuid "d7cd4ca8-b754-47ef-b20f-ad8a74e3aa53")
+		)
+		(pin "5"
+			(uuid "fb7268c3-9210-41ee-b357-75c53172a109")
+		)
+		(instances
+			(project "slate113"
+				(path "/91b7b2cb-870f-4b9b-aff7-8953b62455b3"
+					(reference "RF8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "slate113:CON-SMA-EDGE-S")
+		(at 68.58 38.735 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4e236890-7f74-4177-bb54-9ce19187c1b5")
+		(property "Reference" "RF6"
+			(at 68.58 24.765 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CON-SMA-EDGE-S"
+			(at 68.58 22.225 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "slate113:SMA-SMD_CON-SMA-EDGE-S"
+			(at 53.34 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C5356059.pdf"
+			(at 50.8 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 68.58 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "RF Solutions"
+			(at 48.26 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CON-SMA-EDGE-S"
+			(at 45.72 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C5356059"
+			(at 43.18 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7e58e65d-65a3-47d3-96df-c5281c05bd58")
+		)
+		(pin "2"
+			(uuid "294bbc2d-98b7-4c0f-9cff-a7cde839062d")
+		)
+		(pin "3"
+			(uuid "cc06def3-7cac-4a44-9f2a-dd65128948a2")
+		)
+		(pin "4"
+			(uuid "28a1c06d-b56f-429d-aa45-eb878e910a51")
+		)
+		(pin "5"
+			(uuid "f04b493f-ba14-4dbc-8a80-08ff15108c13")
+		)
+		(instances
+			(project "slate113"
+				(path "/91b7b2cb-870f-4b9b-aff7-8953b62455b3"
+					(reference "RF6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "slate113:CON-SMA-EDGE-S")
+		(at 102.87 38.735 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5d1485d3-eeaa-4222-a429-6d90449f3532")
+		(property "Reference" "RF9"
+			(at 102.87 24.765 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CON-SMA-EDGE-S"
+			(at 102.87 22.225 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "slate113:SMA-SMD_CON-SMA-EDGE-S"
+			(at 87.63 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C5356059.pdf"
+			(at 85.09 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 102.87 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "RF Solutions"
+			(at 82.55 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CON-SMA-EDGE-S"
+			(at 80.01 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C5356059"
+			(at 77.47 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f302606b-8187-4414-afe2-be93f4c8b1c9")
+		)
+		(pin "2"
+			(uuid "0d33ec7e-1494-49e5-b582-24707763c9a3")
+		)
+		(pin "3"
+			(uuid "82894fd3-9891-456c-8bb9-402c5aac8aa4")
+		)
+		(pin "4"
+			(uuid "e3ece338-702f-43ae-bda7-c133750c5669")
+		)
+		(pin "5"
+			(uuid "19bc2d54-70d0-4908-9b34-fdcde6fa2057")
+		)
+		(instances
+			(project "slate113"
+				(path "/91b7b2cb-870f-4b9b-aff7-8953b62455b3"
+					(reference "RF9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_Coaxial")
+		(at 34.29 64.77 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9234c399-ee95-4229-83e0-353fca4493cd")
+		(property "Reference" "J3"
+			(at 38.1 63.1824 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_Coaxial"
+			(at 38.1 65.7224 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 34.29 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 34.29 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+			(at 34.29 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b782abe7-dcc1-424c-9978-d6515a3b7efe")
+		)
+		(pin "2"
+			(uuid "e000688b-cb89-4ffd-b136-d163364950af")
+		)
+		(instances
+			(project "slate113"
+				(path "/91b7b2cb-870f-4b9b-aff7-8953b62455b3"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "slate113:CON-SMA-EDGE-S")
+		(at 34.29 87.63 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b166c669-a9e4-409a-b10d-deeccbe2e0b1")
+		(property "Reference" "RF7"
+			(at 34.29 73.66 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CON-SMA-EDGE-S"
+			(at 34.29 71.12 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "slate113:SMA-SMD_CON-SMA-EDGE-S"
+			(at 19.05 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C5356059.pdf"
+			(at 16.51 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 34.29 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "RF Solutions"
+			(at 13.97 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CON-SMA-EDGE-S"
+			(at 11.43 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C5356059"
+			(at 8.89 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9ff858fe-f39e-4dc2-a6df-7cfbde8bfa26")
+		)
+		(pin "2"
+			(uuid "167568a9-fb57-497a-b484-198766e21764")
+		)
+		(pin "3"
+			(uuid "97991251-3972-4727-b4ce-9a6e3c9b69f6")
+		)
+		(pin "4"
+			(uuid "e7c37e2d-76c3-4667-9bb0-0d696c107e9c")
+		)
+		(pin "5"
+			(uuid "730f733b-4183-43d1-9d8c-0ac2d303693f")
+		)
+		(instances
+			(project "slate113"
+				(path "/91b7b2cb-870f-4b9b-aff7-8953b62455b3"
+					(reference "RF7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "slate113:CON-SMA-EDGE-S")
+		(at 137.16 38.735 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ba5763cf-a537-48b0-a9ee-9abd0f9dfb29")
+		(property "Reference" "RF10"
+			(at 137.16 24.765 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CON-SMA-EDGE-S"
+			(at 137.16 22.225 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "slate113:SMA-SMD_CON-SMA-EDGE-S"
+			(at 121.92 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C5356059.pdf"
+			(at 119.38 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 137.16 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "RF Solutions"
+			(at 116.84 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CON-SMA-EDGE-S"
+			(at 114.3 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C5356059"
+			(at 111.76 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5675145e-cd63-4064-8d8b-dca51fb71337")
+		)
+		(pin "2"
+			(uuid "caf5a5db-6bc1-440e-949c-7567de98556c")
+		)
+		(pin "3"
+			(uuid "236fdab5-9c27-4ab0-81df-c39a8c1dce19")
+		)
+		(pin "4"
+			(uuid "6ce41630-ea72-4d36-aa5b-726404896f6b")
+		)
+		(pin "5"
+			(uuid "51531d69-5c41-40db-a248-bf71f4290625")
+		)
+		(instances
+			(project "slate113"
+				(path "/91b7b2cb-870f-4b9b-aff7-8953b62455b3"
+					(reference "RF10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_Coaxial")
+		(at 102.87 64.77 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bab6a6a1-5694-43ff-b217-dc7bb97777eb")
+		(property "Reference" "J10"
+			(at 106.68 63.1824 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_Coaxial"
+			(at 106.68 65.7224 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 102.87 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 102.87 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+			(at 102.87 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ec1342f2-5a54-480c-b2c9-314c532291fa")
+		)
+		(pin "2"
+			(uuid "48133863-533e-4f72-81a0-a37cc0ddb814")
+		)
+		(instances
+			(project "slate113"
+				(path "/91b7b2cb-870f-4b9b-aff7-8953b62455b3"
+					(reference "J10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_Coaxial")
+		(at 34.29 113.665 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c2bfe59c-caad-4063-bf3b-b21f4ef91201")
+		(property "Reference" "J7"
+			(at 38.1 112.0774 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_Coaxial"
+			(at 38.1 114.6174 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 34.29 113.665 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 34.29 113.665 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+			(at 34.29 113.665 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f1f4ff68-f65b-4fa3-ae9b-c3260fd39787")
+		)
+		(pin "2"
+			(uuid "518e5c8c-bbf9-4365-a3d8-2960b2c91be5")
+		)
+		(instances
+			(project "slate113"
+				(path "/91b7b2cb-870f-4b9b-aff7-8953b62455b3"
+					(reference "J7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_Coaxial")
+		(at 68.58 64.77 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fb2917ed-0acb-4c26-adb7-d3a82175cf26")
+		(property "Reference" "J8"
+			(at 72.39 63.1824 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_Coaxial"
+			(at 72.39 65.7224 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 68.58 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 68.58 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+			(at 68.58 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4ddc914d-d060-4727-8c9c-9a211c25129a")
+		)
+		(pin "2"
+			(uuid "de27d555-e461-4be3-b3d1-c6a561d92b2b")
+		)
+		(instances
+			(project "slate113"
+				(path "/91b7b2cb-870f-4b9b-aff7-8953b62455b3"
+					(reference "J8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_Coaxial")
+		(at 171.45 64.77 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fdd35bd3-fabe-491c-a149-7d3a5d26b021")
+		(property "Reference" "J12"
+			(at 175.26 63.1824 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_Coaxial"
+			(at 175.26 65.7224 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 171.45 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 171.45 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+			(at 171.45 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "be8c7016-89b4-4dc2-a07e-537cea20e980")
+		)
+		(pin "2"
+			(uuid "b8c301df-5dba-4fd3-8cb8-1cae93661d0a")
+		)
+		(instances
+			(project "slate113"
+				(path "/91b7b2cb-870f-4b9b-aff7-8953b62455b3"
+					(reference "J12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "11")
+		)
+	)
+)
