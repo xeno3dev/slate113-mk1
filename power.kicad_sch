@@ -5377,13 +5377,13 @@
 		(uuid "3f59ba2a-bac0-4e5c-979a-3f6ca4b646ce")
 	)
 	(junction
-		(at 176.53 55.88)
+		(at 209.55 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7acf1007-853f-466d-ab60-221266ad9592")
 	)
 	(junction
-		(at 176.53 50.8)
+		(at 209.55 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b9e6f60f-1e7c-41e4-9b69-782c9ad1f110")
@@ -5570,7 +5570,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 50.8) (xy 176.53 55.88)
+			(xy 209.55 62.23) (xy 209.55 67.31)
 		)
 		(stroke
 			(width 0)
@@ -5690,7 +5690,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 50.8) (xy 176.53 50.8)
+			(xy 208.28 62.23) (xy 209.55 62.23)
 		)
 		(stroke
 			(width 0)
@@ -5810,7 +5810,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 55.88) (xy 176.53 60.96)
+			(xy 209.55 67.31) (xy 209.55 72.39)
 		)
 		(stroke
 			(width 0)
@@ -6382,7 +6382,7 @@
 	)
 	(global_label "COMP"
 		(shape input)
-		(at 175.26 50.8 180)
+		(at 208.28 62.23 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6392,7 +6392,7 @@
 		)
 		(uuid "39c6c8af-d550-474e-b2db-64ca655974ef")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 166.9529 50.8 0)
+			(at 199.9729 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7510,7 +7510,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 181.61 60.96 0)
+		(at 214.63 72.39 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7520,7 +7520,7 @@
 		)
 		(uuid "928a318a-c033-48d2-9ec9-fef7fa2f5b45")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 188.4657 60.96 0)
+			(at 221.4857 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8134,7 +8134,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 181.61 50.8 0)
+		(at 214.63 62.23 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8144,7 +8144,7 @@
 		)
 		(uuid "bea8a384-ba34-4d58-9e6a-12bf92c29db6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 188.4657 50.8 0)
+			(at 221.4857 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8950,7 +8950,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 181.61 55.88 0)
+		(at 214.63 67.31 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8960,7 +8960,7 @@
 		)
 		(uuid "fdf43437-00df-4d1d-827f-6c51fc20bbb1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 188.4657 55.88 0)
+			(at 221.4857 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9902,7 +9902,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 179.07 50.8 90)
+		(at 212.09 62.23 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9913,7 +9913,7 @@
 		(fields_autoplaced yes)
 		(uuid "27ea4888-c12d-47cc-9795-bbf0c760215d")
 		(property "Reference" "R16"
-			(at 179.07 45.72 90)
+			(at 212.09 57.15 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9923,7 +9923,7 @@
 			)
 		)
 		(property "Value" "12.1kΩ"
-			(at 179.07 48.26 90)
+			(at 212.09 59.69 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9933,7 +9933,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 179.07 50.8 0)
+			(at 212.09 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9944,7 +9944,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 179.07 50.8 0)
+			(at 212.09 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9955,7 +9955,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 179.07 50.8 0)
+			(at 212.09 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10220,7 +10220,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 179.07 60.96 90)
+		(at 212.09 72.39 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10230,7 +10230,7 @@
 		(dnp no)
 		(uuid "3c3448f0-1782-42d9-a381-8ba66199cbec")
 		(property "Reference" "C17"
-			(at 172.212 59.69 90)
+			(at 205.232 71.12 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10240,7 +10240,7 @@
 			)
 		)
 		(property "Value" "68pF"
-			(at 172.212 62.23 90)
+			(at 205.232 73.66 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10250,7 +10250,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 179.07 60.96 0)
+			(at 212.09 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10261,7 +10261,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 179.07 60.96 0)
+			(at 212.09 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10272,7 +10272,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 179.07 60.96 0)
+			(at 212.09 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12188,7 +12188,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 179.07 55.88 90)
+		(at 212.09 67.31 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12198,7 +12198,7 @@
 		(dnp no)
 		(uuid "b61ad082-771a-454f-8f21-685b7f5abd85")
 		(property "Reference" "C16"
-			(at 172.212 54.61 90)
+			(at 205.232 66.04 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12208,7 +12208,7 @@
 			)
 		)
 		(property "Value" "1nF"
-			(at 172.212 57.15 90)
+			(at 205.232 68.58 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12218,7 +12218,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 179.07 55.88 0)
+			(at 212.09 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12229,7 +12229,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 179.07 55.88 0)
+			(at 212.09 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12240,7 +12240,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 179.07 55.88 0)
+			(at 212.09 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
