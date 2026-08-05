@@ -33,6 +33,10 @@ fp-info-cache
 *.xml
 *.csv
 
+# Generated audit exports and reversible schematic writeback snapshots
+work/
+writeback-backups/
+
 # Archived Backups (KiCad 6.0)
 **/*-backups/*.zip
 

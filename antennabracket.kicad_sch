@@ -2021,7 +2021,17 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "MPN" "U.FL-R-SMT-1(10)"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1(10)"
 			(at 137.16 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -2054,6 +2064,26 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Hirose"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0d88eca3-b7b1-492c-aa1b-7c32459f5705")
 		)
@@ -2065,6 +2095,16 @@
 				(path "/91b7b2cb-870f-4b9b-aff7-8953b62455b3"
 					(reference "J11")
 					(unit 1)
+				)
+			)
+		)
+		(property "MPN" "U.FL-R-SMT-1(10)"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -2161,6 +2201,16 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2289,6 +2339,16 @@
 				)
 			)
 		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c2f1e41d-ca9c-41c5-8342-20dc343d1aec")
 		)
@@ -2405,6 +2465,16 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2533,6 +2603,16 @@
 				)
 			)
 		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f302606b-8187-4414-afe2-be93f4c8b1c9")
 		)
@@ -2591,7 +2671,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1(10)"
 			(at 34.29 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -2624,6 +2704,36 @@
 				)
 			)
 		)
+		(property "MPN" "U.FL-R-SMT-1(10)"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Hirose"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b782abe7-dcc1-424c-9978-d6515a3b7efe")
 		)
@@ -2638,6 +2748,8 @@
 				)
 			)
 		)
+	
+	
 	)
 	(symbol
 		(lib_id "slate113:CON-SMA-EDGE-S")
@@ -2731,6 +2843,16 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2859,6 +2981,16 @@
 				)
 			)
 		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5675145e-cd63-4064-8d8b-dca51fb71337")
 		)
@@ -2917,7 +3049,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1(10)"
 			(at 102.87 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -2944,6 +3076,36 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "U.FL-R-SMT-1(10)"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Hirose"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2999,7 +3161,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1(10)"
 			(at 34.29 113.665 0)
 			(hide yes)
 			(show_name no)
@@ -3032,6 +3194,36 @@
 				)
 			)
 		)
+		(property "MPN" "U.FL-R-SMT-1(10)"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Hirose"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f1f4ff68-f65b-4fa3-ae9b-c3260fd39787")
 		)
@@ -3046,6 +3238,8 @@
 				)
 			)
 		)
+	
+	
 	)
 	(symbol
 		(lib_id "Connector:Conn_Coaxial")
@@ -3081,7 +3275,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1(10)"
 			(at 68.58 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -3108,6 +3302,36 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "U.FL-R-SMT-1(10)"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Hirose"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3163,7 +3387,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1(10)"
 			(at 171.45 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -3196,6 +3420,36 @@
 				)
 			)
 		)
+		(property "MPN" "U.FL-R-SMT-1(10)"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Hirose"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "be8c7016-89b4-4dc2-a07e-537cea20e980")
 		)
@@ -3210,6 +3464,8 @@
 				)
 			)
 		)
+	
+	
 	)
 	(sheet_instances
 		(path "/"

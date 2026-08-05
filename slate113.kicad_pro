@@ -636,6 +636,14 @@
     "meta": {
       "version": 1
     },
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "reuse_designators": true,
@@ -696,9 +704,24 @@
         "filename": "antennabracket.kicad_sch",
         "name": "AntennaBracket",
         "uuid": "91b7b2cb-870f-4b9b-aff7-8953b62455b3"
+      },
+      {
+        "filename": "slateconnect.kicad_sch",
+        "name": "SlateConnect",
+        "uuid": "45225493-9b42-42d2-b0ee-1bf1204de834"
+      },
+      {
+        "filename": "ledbar.kicad_sch",
+        "name": "LEDBar",
+        "uuid": "9144d9eb-e8ae-422f-a98d-7eba2889072a"
+      },
+      {
+        "filename": "slateconnectflex.kicad_sch",
+        "name": "SlateConnectFlex",
+        "uuid": "0f372028-524b-4273-acdc-7aa2b492ee5d"
       }
     ],
-    "used_designators": "FB10,CN4,CN6,CN9-10",
+    "used_designators": "FB10-11,CN3-4,CN6-11,CN13-23,J6,J21,U8,U10,U28,U55-61,U63-69,Q2-4,F2,D5-52,C18,C20,C143-219,FPC1-2,R30,R77-109",
     "variants": []
   },
   "sheets": [
@@ -745,6 +768,18 @@
     [
       "91b7b2cb-870f-4b9b-aff7-8953b62455b3",
       "AntennaBracket"
+    ],
+    [
+      "45225493-9b42-42d2-b0ee-1bf1204de834",
+      "SlateConnect"
+    ],
+    [
+      "9144d9eb-e8ae-422f-a98d-7eba2889072a",
+      "LEDBar"
+    ],
+    [
+      "0f372028-524b-4273-acdc-7aa2b492ee5d",
+      "SlateConnectFlex"
     ]
   ],
   "text_variables": {},

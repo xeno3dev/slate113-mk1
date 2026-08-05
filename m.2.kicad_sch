@@ -8562,7 +8562,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 132.08 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -8589,6 +8589,36 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0603FR-0710KL"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8702,6 +8732,16 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8881,7 +8921,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 66.04 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -8908,6 +8948,36 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0603FR-0722RL"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8996,6 +9066,16 @@
 				)
 			)
 		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f4778200-355c-4873-98c4-727f38370cd0")
 		)
@@ -9043,7 +9123,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 114.3 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -9070,6 +9150,36 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0603FR-074K7L"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9158,6 +9268,16 @@
 				)
 			)
 		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4cc962d0-9559-426a-b5ed-e445066c5140")
 		)
@@ -9204,7 +9324,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 90.17 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -9231,6 +9351,36 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10C220JB8NNNC"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9319,6 +9469,16 @@
 				)
 			)
 		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "32f92ec3-5b01-434a-9a51-8aa500db1c3f")
 		)
@@ -9394,6 +9554,36 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "KP15TL-SF(800)"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "LCSC"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9531,8 +9721,28 @@
 				)
 				(justify left)
 			)
+		)		(property "MPN" "CL10B225KA8NNNC"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
-		(property "Footprint" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 69.85 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -9559,6 +9769,16 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9612,7 +9832,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 43.18 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -9639,6 +9859,36 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0603FR-0722RL"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9752,6 +10002,16 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9889,6 +10149,16 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10044,7 +10314,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 45.72 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -10071,6 +10341,36 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10C220JB8NNNC"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10123,7 +10423,27 @@
 					(size 1.27 1.27)
 				)
 			)
+		)		(property "MPN" "SiP32508DT"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
+		(property "Manufacturer" "LCSC"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+
 		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-6"
 			(at 77.47 160.02 0)
 			(hide yes)
@@ -10151,6 +10471,16 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10218,7 +10548,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 264.16 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -10245,6 +10575,36 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0603FR-0747KL"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10330,6 +10690,16 @@
 				)
 			)
 		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "49267904-c61a-45ba-8e47-e37aebd47352")
 		)
@@ -10377,7 +10747,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 101.6 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -10404,6 +10774,36 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0603FR-074K7L"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10492,6 +10892,16 @@
 				)
 			)
 		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "746a5220-2f19-4c9d-af17-e22a7529e82a")
 		)
@@ -10540,7 +10950,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 85.09 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -10567,6 +10977,36 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10700,7 +11140,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 215.9 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -10727,6 +11167,36 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0603FR-0747KL"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10813,6 +11283,16 @@
 				)
 			)
 		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "fba51165-dda8-4fda-baef-2b138de2890d")
 		)
@@ -10860,7 +11340,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 87.63 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -10887,6 +11367,36 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0603FR-0722RL"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10975,6 +11485,16 @@
 				)
 			)
 		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "636659cb-d26d-44bf-acbc-317c27fa1ed2")
 		)
@@ -11051,6 +11571,36 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "Bus_M.2_Socket_B"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "LCSC"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11331,6 +11881,16 @@
 				)
 			)
 		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ea0907db-d637-4a99-be66-e9574d48b558")
 		)
@@ -11444,6 +12004,16 @@
 				)
 			)
 		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "226b7e5f-7aae-4384-af85-864dc1a61aa8")
 		)
@@ -11542,6 +12112,16 @@
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
 			(effects
 				(font
 					(size 1.27 1.27)
