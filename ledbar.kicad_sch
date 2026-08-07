@@ -9053,6 +9053,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9063,6 +9064,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9073,6 +9075,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9198,6 +9201,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9335,6 +9339,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9472,6 +9477,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9576,6 +9582,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9586,6 +9593,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9596,6 +9604,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9719,6 +9728,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9880,6 +9890,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9984,6 +9995,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9994,6 +10006,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10004,6 +10017,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10024,8 +10038,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "slate113:SK9822-EC20")
@@ -10131,6 +10143,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10268,6 +10281,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10405,6 +10419,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10509,6 +10524,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10519,6 +10535,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10529,6 +10546,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10549,8 +10567,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "slate113:SK9822-EC20")
@@ -10656,6 +10672,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10793,6 +10810,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10930,6 +10948,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11034,6 +11053,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11044,6 +11064,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11054,6 +11075,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11074,8 +11096,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -11148,6 +11168,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11158,6 +11179,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11168,6 +11190,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11293,6 +11316,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11397,6 +11421,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11407,6 +11432,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11417,6 +11443,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11542,6 +11569,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11646,6 +11674,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11656,6 +11685,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11666,6 +11696,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11758,6 +11789,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11768,6 +11800,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11778,6 +11811,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11798,8 +11832,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "slate113:SK9822-EC20")
@@ -11905,6 +11937,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12042,6 +12075,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12146,6 +12180,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12156,6 +12191,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12166,6 +12202,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12258,6 +12295,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12268,6 +12306,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12278,6 +12317,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12298,8 +12338,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "slate113:SK9822-EC20")
@@ -12405,6 +12443,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12509,6 +12548,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12519,6 +12559,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12529,6 +12570,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12549,8 +12591,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -12623,6 +12663,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12633,6 +12674,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12643,6 +12685,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12735,6 +12778,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12745,6 +12789,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12755,6 +12800,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12775,8 +12821,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -12849,6 +12893,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12859,6 +12904,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12869,6 +12915,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12994,6 +13041,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13131,6 +13179,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13235,6 +13284,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13245,6 +13295,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13255,6 +13306,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13275,8 +13327,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -13349,6 +13399,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13359,6 +13410,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13369,6 +13421,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13494,6 +13547,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13631,6 +13685,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13768,6 +13823,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13872,6 +13928,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13882,6 +13939,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13892,6 +13950,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13984,6 +14043,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13994,6 +14054,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14004,6 +14065,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14024,8 +14086,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -14098,6 +14158,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14108,6 +14169,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14118,6 +14180,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14210,6 +14273,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14220,6 +14284,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14230,6 +14295,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14250,8 +14316,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "slate113:SK9822-EC20")
@@ -14357,6 +14421,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14461,6 +14526,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14471,6 +14537,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14481,6 +14548,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14501,8 +14569,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "slate113:SK9822-EC20")
@@ -14608,6 +14674,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14712,6 +14779,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14722,6 +14790,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14732,6 +14801,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14752,8 +14822,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "slate113:SK9822-EC20")
@@ -14859,6 +14927,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14963,6 +15032,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14973,6 +15043,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14983,6 +15054,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15003,8 +15075,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -15077,6 +15147,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15087,6 +15158,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15097,6 +15169,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15189,6 +15262,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15199,6 +15273,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15209,6 +15284,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15229,8 +15305,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "slate113:SK9822-EC20")
@@ -15336,6 +15410,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15473,6 +15548,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15577,6 +15653,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15587,6 +15664,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15597,6 +15675,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15689,6 +15768,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15699,6 +15779,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15709,6 +15790,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15729,8 +15811,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "slate113:SK9822-EC20")
@@ -15836,6 +15916,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15940,6 +16021,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15950,6 +16032,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15960,6 +16043,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15980,8 +16064,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -16054,6 +16136,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16064,6 +16147,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16074,6 +16158,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16166,6 +16251,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16176,6 +16262,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16186,6 +16273,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16206,8 +16294,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "slate113:SK9822-EC20")
@@ -16313,6 +16399,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16450,6 +16537,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16554,6 +16642,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16564,6 +16653,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16574,6 +16664,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16699,6 +16790,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16836,6 +16928,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16940,6 +17033,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16950,6 +17044,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16960,6 +17055,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16980,8 +17076,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "slate113:SK9822-EC20")
@@ -17087,6 +17181,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17224,6 +17319,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17328,6 +17424,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17338,6 +17435,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17348,6 +17446,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17473,6 +17572,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17610,6 +17710,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17714,6 +17815,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17724,6 +17826,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17734,6 +17837,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17754,8 +17858,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "slate113:SK9822-EC20")
@@ -17861,6 +17963,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17965,6 +18068,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17975,6 +18079,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17985,6 +18090,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18005,8 +18111,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "slate113:SK9822-EC20")
@@ -18112,6 +18216,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18249,6 +18354,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18353,6 +18459,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18363,6 +18470,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18373,6 +18481,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18498,6 +18607,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18602,6 +18712,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18612,6 +18723,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18622,6 +18734,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18714,6 +18827,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18724,6 +18838,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18734,6 +18849,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18754,8 +18870,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "slate113:SK9822-EC20")
@@ -18861,6 +18975,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18965,6 +19080,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18975,6 +19091,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18985,6 +19102,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19005,8 +19123,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -19079,6 +19195,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19089,6 +19206,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19099,6 +19217,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19224,6 +19343,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19361,6 +19481,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19498,6 +19619,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19635,6 +19757,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19739,6 +19862,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19749,6 +19873,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19759,6 +19884,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19779,8 +19905,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -19853,6 +19977,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19863,6 +19988,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19873,6 +19999,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19998,6 +20125,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20102,6 +20230,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20112,6 +20241,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20122,6 +20252,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20247,6 +20378,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20351,6 +20483,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20361,6 +20494,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20371,6 +20505,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20391,8 +20526,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(sheet_instances
 		(path "/"

@@ -1823,6 +1823,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2014,6 +2015,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -8687,6 +8687,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8787,6 +8788,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8797,6 +8799,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8807,6 +8810,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8827,8 +8831,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "Device:R_Small")
@@ -8898,6 +8900,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8908,6 +8911,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8918,6 +8922,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9008,6 +9013,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9018,6 +9024,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9028,6 +9035,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9048,8 +9056,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "slate113:TPS259470ARPWR")
@@ -9153,6 +9159,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9270,6 +9277,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9280,6 +9288,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9290,6 +9299,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9310,8 +9320,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "slate113:TPS259470ARPWR")
@@ -9415,6 +9423,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9562,6 +9571,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9679,6 +9689,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9689,6 +9700,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9699,6 +9711,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9789,6 +9802,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9799,6 +9813,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9809,6 +9824,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9829,8 +9845,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "slate113:SMF5.0A_C151296")
@@ -9934,6 +9948,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10023,6 +10038,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10033,6 +10049,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10043,6 +10060,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10063,8 +10081,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "slate113:TCA9534APWR")
@@ -10167,6 +10183,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10262,27 +10279,7 @@
 				)
 				(justify left)
 			)
-		)		(property "MPN" "CL10B105KA8NNNC"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 229.87 88.9 0)
 			(hide yes)
@@ -10316,10 +10313,33 @@
 				)
 			)
 		)
+		(property "MPN" "CL10B105KA8NNNC"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "DigiKey Part" ""
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10409,6 +10429,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10419,6 +10440,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10429,6 +10451,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10519,6 +10542,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10529,6 +10553,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10539,6 +10564,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10559,8 +10585,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "Device:R_Small")
@@ -10631,6 +10655,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10641,6 +10666,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10651,6 +10677,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10774,6 +10801,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10876,6 +10904,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10886,6 +10915,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10896,6 +10926,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10986,6 +11017,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10996,6 +11028,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11006,6 +11039,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11026,8 +11060,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "slate113:TCA9534APWR")
@@ -11130,6 +11162,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11263,6 +11296,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11273,6 +11307,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11283,6 +11318,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11303,8 +11339,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -11376,6 +11410,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11386,6 +11421,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11396,6 +11432,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11486,6 +11523,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11496,6 +11534,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11506,6 +11545,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11526,8 +11566,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -11601,6 +11639,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11611,6 +11650,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11621,6 +11661,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11713,6 +11754,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11723,6 +11765,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11733,6 +11776,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11753,8 +11797,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "slate113:TS3A24159DGSR")
@@ -11858,6 +11900,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11935,46 +11978,6 @@
 				)
 			)
 		)
-		(property "MPN" "395-016-520-202"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "EDAC"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)		(property "MPN" "EDAC 395-016-520-202"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "DigiKey"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-
 		(property "Footprint" ""
 			(at 36.83 30.48 0)
 			(hide yes)
@@ -12008,10 +12011,33 @@
 				)
 			)
 		)
+		(property "MPN" "EDAC 395-016-520-202"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "DigiKey"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "DigiKey Part" ""
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12144,6 +12170,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12154,6 +12181,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12164,6 +12192,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12254,6 +12283,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12264,6 +12294,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12274,6 +12305,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12294,8 +12326,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "Device:R_Small")
@@ -12366,6 +12396,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12376,6 +12407,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12386,6 +12418,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12475,6 +12508,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12485,6 +12519,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12495,6 +12530,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12515,8 +12551,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "Device:R_Small")
@@ -12587,6 +12621,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12597,6 +12632,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12607,6 +12643,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12697,6 +12734,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12707,6 +12745,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12717,6 +12756,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12737,8 +12777,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "slate113:TS3A24159DGSR")
@@ -12842,6 +12880,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12956,6 +12995,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12966,6 +13006,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12976,6 +13017,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12996,8 +13038,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -13070,6 +13110,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13080,6 +13121,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13090,6 +13132,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13181,6 +13224,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13304,6 +13348,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13419,6 +13464,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13509,6 +13555,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13519,6 +13566,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13529,6 +13577,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13619,6 +13668,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13629,6 +13679,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13639,6 +13690,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13659,8 +13711,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(symbol
 		(lib_id "Device:R_Small")
@@ -13731,6 +13781,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13741,6 +13792,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13751,6 +13803,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13873,6 +13926,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14089,6 +14143,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14099,6 +14154,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14109,6 +14165,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14129,8 +14186,6 @@
 				)
 			)
 		)
-	
-	
 	)
 	(sheet_instances
 		(path "/"

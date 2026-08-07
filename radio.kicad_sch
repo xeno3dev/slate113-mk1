@@ -18246,6 +18246,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18336,6 +18337,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18426,6 +18428,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18515,6 +18518,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18608,6 +18612,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18618,6 +18623,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18628,6 +18634,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18730,6 +18737,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18820,6 +18828,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18830,6 +18839,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18840,6 +18850,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18932,6 +18943,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19024,6 +19036,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19034,6 +19047,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19044,6 +19058,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19134,6 +19149,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19302,6 +19318,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19392,6 +19409,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19443,27 +19461,7 @@
 					(size 1.27 1.27)
 				)
 			)
-		)		(property "MPN" "CL10B105KA8NNNC"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 252.73 110.49 0)
 			(hide yes)
@@ -19497,10 +19495,33 @@
 				)
 			)
 		)
+		(property "MPN" "CL10B105KA8NNNC"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "DigiKey Part" ""
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19592,6 +19613,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19684,6 +19706,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19808,6 +19831,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19939,27 +19963,7 @@
 				)
 				(justify right)
 			)
-		)		(property "MPN" "Abracon ABM8G-26.000MHZ-18-D2Y-T"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
 		)
-		(property "Manufacturer" "DigiKey"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-
 		(property "Footprint" ""
 			(at 304.8 133.35 0)
 			(hide yes)
@@ -19993,10 +19997,33 @@
 				)
 			)
 		)
+		(property "MPN" "Abracon ABM8G-26.000MHZ-18-D2Y-T"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "DigiKey"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "DigiKey Part" ""
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20088,6 +20115,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20098,6 +20126,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20108,6 +20137,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20212,6 +20242,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20303,6 +20334,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20393,6 +20425,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20484,6 +20517,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20494,6 +20528,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20504,6 +20539,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20594,6 +20630,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20685,6 +20722,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20808,6 +20846,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20916,6 +20955,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20926,6 +20966,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20936,6 +20977,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21025,6 +21067,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21148,6 +21191,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21283,6 +21327,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21414,6 +21459,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21468,27 +21514,7 @@
 				)
 				(justify right)
 			)
-		)		(property "MPN" "TVS <0.6pF"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
 		)
-		(property "Manufacturer" "LCSC"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-
 		(property "Footprint" ""
 			(at 287.02 223.52 0)
 			(hide yes)
@@ -21513,6 +21539,28 @@
 		)
 		(property "Description" "Diode"
 			(at 287.02 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TVS <0.6pF"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "LCSC"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21548,6 +21596,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21662,6 +21711,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21672,6 +21722,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21682,6 +21733,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21773,6 +21825,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21864,6 +21917,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21874,6 +21928,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21884,6 +21939,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22009,6 +22065,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22131,6 +22188,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22232,6 +22290,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22323,6 +22382,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22448,6 +22508,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22544,6 +22605,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22634,6 +22696,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22723,6 +22786,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22733,6 +22797,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22743,6 +22808,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22797,27 +22863,7 @@
 				)
 				(justify left)
 			)
-		)		(property "MPN" "CL10A106KP8NNNC"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 290.83 207.01 0)
 			(hide yes)
@@ -22851,10 +22897,33 @@
 				)
 			)
 		)
+		(property "MPN" "CL10A106KP8NNNC"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "DigiKey Part" ""
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22969,6 +23038,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22979,6 +23049,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22989,6 +23060,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23111,6 +23183,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23200,6 +23273,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23210,6 +23284,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23220,6 +23295,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23312,6 +23388,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23405,6 +23482,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23456,27 +23534,7 @@
 					(size 1.27 1.27)
 				)
 			)
-		)		(property "MPN" "RC0603FR-0710KL"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
 		)
-		(property "Manufacturer" "Yageo"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 35.56 54.61 0)
 			(hide yes)
@@ -23510,10 +23568,33 @@
 				)
 			)
 		)
+		(property "MPN" "RC0603FR-0710KL"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Yageo"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "DigiKey Part" ""
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23603,6 +23684,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23654,27 +23736,7 @@
 					(size 1.27 1.27)
 				)
 			)
-		)		(property "MPN" "Quectel LC29HCA"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
 		)
-		(property "Manufacturer" "Quectel"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-
 		(property "Footprint" ""
 			(at 262.89 182.88 0)
 			(hide yes)
@@ -23708,10 +23770,33 @@
 				)
 			)
 		)
+		(property "MPN" "Quectel LC29HCA"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Quectel"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "DigiKey Part" ""
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23901,6 +23986,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24035,6 +24121,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24126,6 +24213,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24136,6 +24224,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24146,6 +24235,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24269,6 +24359,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24373,6 +24464,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24383,6 +24475,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24393,6 +24486,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24518,6 +24612,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24608,6 +24703,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24618,6 +24714,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24628,6 +24725,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24751,6 +24849,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24848,6 +24947,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24858,6 +24958,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24868,6 +24969,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24990,6 +25092,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25196,6 +25299,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25364,6 +25468,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25453,6 +25558,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25543,6 +25649,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25634,6 +25741,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25727,6 +25835,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25737,6 +25846,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25747,6 +25857,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25851,6 +25962,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25974,6 +26086,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26154,6 +26267,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26256,6 +26370,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26266,6 +26381,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26276,6 +26392,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26378,6 +26495,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26468,6 +26586,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26478,6 +26597,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26488,6 +26608,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26579,6 +26700,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26671,6 +26793,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26681,6 +26804,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26691,6 +26815,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26783,6 +26908,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26897,6 +27023,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26907,6 +27034,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26917,6 +27045,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27277,6 +27406,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27373,6 +27503,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27383,6 +27514,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27393,6 +27525,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27482,6 +27615,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27571,6 +27705,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27581,6 +27716,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27591,6 +27727,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27683,6 +27820,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27774,6 +27912,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27864,6 +28003,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27954,6 +28094,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28044,6 +28185,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28134,6 +28276,7 @@
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
