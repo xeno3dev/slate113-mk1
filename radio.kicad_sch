@@ -69,6 +69,28 @@
 					)
 				)
 			)
+			(property "LCSC Part" "C2917678"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "0896BM15A0001001E"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
 			(property "ki_locked" ""
 				(at 0 0 0)
 				(show_name no)
@@ -1638,6 +1660,28 @@
 				)
 			)
 			(property "Description" "A microcontroller by Raspberry Pi, dual CPU architecture (ARM Cortex-M33 / RISC-V Hazard3), 150MHz, no flash, 520KB SRAM, 12 PIO state machines, VQFN-80"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC Part" "C42415655"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "RP2350B"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3443,6 +3487,28 @@
 					)
 				)
 			)
+			(property "LCSC Part" "C139515"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "SIP32508DT-T1-GE3"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
 			(property "ki_keywords" "Load switch"
 				(at 0 0 0)
 				(show_name no)
@@ -3649,6 +3715,39 @@
 				)
 			)
 			(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC Part" "C77991"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "MMBT3904-TP"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "MCC (Micro Commercial Components)"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -18209,7 +18308,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 283.21 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -18233,6 +18332,28 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 283.21 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C23206"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF5602T5E"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18300,7 +18421,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 368.3 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -18324,6 +18445,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 368.3 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C19666"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10A475KO8NNNC"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18391,7 +18534,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
 			(at 160.02 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -18415,6 +18558,28 @@
 		)
 		(property "Description" "Inductor"
 			(at 160.02 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C85670"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "LQG15HS5N6S02D"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18481,7 +18646,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 191.77 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -18505,6 +18670,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 191.77 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C107097"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB682"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18608,6 +18795,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2917678"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "0896BM15A0001001E"
 			(at 0 0 0)
 			(hide yes)
@@ -18700,7 +18898,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 314.96 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -18724,6 +18922,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 314.96 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1576"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402CG6R8C500NT"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18824,6 +19044,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -18906,7 +19137,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 128.27 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -18930,6 +19161,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 128.27 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19032,6 +19285,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -19112,7 +19376,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 391.16 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -19136,6 +19400,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 391.16 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19281,7 +19567,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 101.6 20.32 0)
 			(hide yes)
 			(show_name no)
@@ -19305,6 +19591,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 101.6 20.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C19666"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10A475KO8NNNC"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19372,7 +19680,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 265.43 226.06 0)
 			(hide yes)
 			(show_name no)
@@ -19396,6 +19704,28 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 265.43 226.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C25819"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF4702T5E"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19495,7 +19825,18 @@
 				)
 			)
 		)
-		(property "MPN" "CL10B105KA8NNNC"
+		(property "LCSC Part" "C15849"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10A105KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -19609,6 +19950,39 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C107335"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "MPZ1608S601ATA00"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "DigiKey Part" ""
 			(at 0 0 0)
 			(hide yes)
@@ -19669,7 +20043,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 313.69 207.01 0)
 			(hide yes)
 			(show_name no)
@@ -19693,6 +20067,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 313.69 207.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1663"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10C330JB8NNNC"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19964,7 +20360,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "slate113:CRYSTAL-SMD_4P-L3.2-W2.5-BL"
 			(at 304.8 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -19997,7 +20393,18 @@
 				)
 			)
 		)
-		(property "MPN" "Abracon ABM8G-26.000MHZ-18-D2Y-T"
+		(property "LCSC Part" "C15192"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "X322526MMB4SI"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -20111,7 +20518,18 @@
 				)
 			)
 		)
-		(property "MPN" "SiP32508DT"
+		(property "LCSC Part" "C139515"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SIP32508DT-T1-GE3"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -20205,7 +20623,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 359.41 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -20229,6 +20647,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 359.41 196.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1663"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10C330JB8NNNC"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20297,7 +20737,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 358.14 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -20321,6 +20761,28 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 358.14 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C23186"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF5101T5E"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20388,7 +20850,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 262.89 208.28 0)
 			(hide yes)
 			(show_name no)
@@ -20412,6 +20874,28 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 262.89 208.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C22859"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF100JT5E"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20513,6 +20997,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -20593,7 +21088,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 349.25 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -20617,6 +21112,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 349.25 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C19666"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10A475KO8NNNC"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20675,7 +21192,7 @@
 				)
 			)
 		)
-		(property "Value" "GPS SMA"
+		(property "Value" "U.FL"
 			(at 319.5204 171.45 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20685,7 +21202,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "slate113:IPEX-SMD_BWIPX-1-001E"
 			(at 320.04 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -20709,6 +21226,28 @@
 		)
 		(property "Description" "small coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
 			(at 320.04 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C496552"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "BWIPX-1-001E"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20951,7 +21490,18 @@
 				)
 			)
 		)
-		(property "MPN" "CL10B475KA8NNNC"
+		(property "LCSC Part" "C19666"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10A475KO8NNNC"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -21030,7 +21580,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 148.59 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -21054,6 +21604,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 148.59 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21422,7 +21994,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 191.77 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -21446,6 +22018,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 191.77 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C49326600"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603X7R103J500NT"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21504,7 +22098,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TVS <0.6pF"
+		(property "Value" "RCLAMP0521PATCT"
 			(at 289.56 224.7899 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21548,7 +22142,7 @@
 				)
 			)
 		)
-		(property "MPN" "TVS <0.6pF"
+		(property "MPN" "RCLAMP0521PATCT"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -21559,7 +22153,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "LCSC"
+		(property "Manufacturer" "Semtech"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -21592,7 +22186,7 @@
 				)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey Part" "RCLAMP0521PATR-ND"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -21685,6 +22279,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C19829543"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Sim.Device" "D"
 			(at 325.12 208.28 0)
 			(hide yes)
@@ -21707,7 +22312,7 @@
 				)
 			)
 		)
-		(property "MPN" "Nexperia PESD3V3U1UL"
+		(property "MPN" "PESD3V3U1UL"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -21729,7 +22334,7 @@
 				)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey Part" "1727-4154-2-ND"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -21788,7 +22393,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 238.76 267.97 0)
 			(hide yes)
 			(show_name no)
@@ -21812,6 +22417,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 238.76 267.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C23630"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10A225KO8NNNC"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21880,7 +22507,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 306.07 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -21913,7 +22540,18 @@
 				)
 			)
 		)
-		(property "MPN" "CL10C689JB8NNNC"
+		(property "LCSC Part" "C1576"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402CG6R8C500NT"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -22253,7 +22891,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 198.12 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -22277,6 +22915,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 198.12 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22345,7 +23005,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 123.19 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -22369,6 +23029,28 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 123.19 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C23140"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF330JT5E"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22504,6 +23186,39 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C77991"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "MMBT3904-TP"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "MCC (Micro Commercial Components)"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "DigiKey Part" ""
 			(at 0 0 0)
 			(hide yes)
@@ -22568,7 +23283,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
 			(at 302.26 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -22592,6 +23307,28 @@
 		)
 		(property "Description" "Inductor"
 			(at 302.26 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C113114"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "LQW15AN33NG00D"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22659,7 +23396,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 349.25 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -22683,6 +23420,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 349.25 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C23630"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10A225KO8NNNC"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22782,7 +23541,18 @@
 				)
 			)
 		)
-		(property "MPN" "CL10B225KA8NNNC"
+		(property "LCSC Part" "C23630"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10A225KO8NNNC"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -22897,7 +23667,18 @@
 				)
 			)
 		)
-		(property "MPN" "CL10A106KP8NNNC"
+		(property "LCSC Part" "C380317"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TCC0603X5R106M160CT"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -23012,6 +23793,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C19829543"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Sim.Device" "D"
 			(at 370.84 198.12 0)
 			(hide yes)
@@ -23034,7 +23826,7 @@
 				)
 			)
 		)
-		(property "MPN" "Nexperia PESD3V3U1UL"
+		(property "MPN" "PESD3V3U1UL"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -23056,7 +23848,7 @@
 				)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey Part" "1727-4154-2-ND"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -23269,7 +24061,18 @@
 				)
 			)
 		)
-		(property "MPN" "CL10B475KA8NNNC"
+		(property "LCSC Part" "C19666"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10A475KO8NNNC"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -23351,7 +24154,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 140.97 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -23375,6 +24178,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 140.97 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23434,7 +24259,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SUBGHZ SMA"
+		(property "Value" "U.FL"
 			(at 252.2106 29.21 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23445,7 +24270,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "slate113:IPEX-SMD_BWIPX-1-001E"
 			(at 254 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -23469,6 +24294,28 @@
 		)
 		(property "Description" "small coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
 			(at 254 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C496552"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "BWIPX-1-001E"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23568,7 +24415,18 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "LCSC Part" "C25804"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF1002T5E"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -23647,7 +24505,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 374.65 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -23671,6 +24529,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 374.65 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1554"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402CG200J500NT"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23727,7 +24607,7 @@
 				)
 			)
 		)
-		(property "Value" "LC29HCA"
+		(property "Value" "LC29HBA"
 			(at 262.89 161.798 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23737,7 +24617,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "slate113:LC29H"
 			(at 262.89 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -23759,7 +24639,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IMU-integrated GNSS variant, replaces discontinued LC29HCAMD. Verify pinout against real LC29HBAMD datasheet before trusting reused LC29H footprint."
 			(at 262.89 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -23770,7 +24650,18 @@
 				)
 			)
 		)
-		(property "MPN" "Quectel LC29HCA"
+		(property "LCSC Part" ""
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "LC29HBAMD"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -23792,7 +24683,7 @@
 				)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey Part" "2958-LC29HBAMDTR-ND"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -24084,7 +24975,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
 			(at 302.26 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -24108,6 +24999,28 @@
 		)
 		(property "Description" "Inductor"
 			(at 302.26 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C113114"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "LQW15AN33NG00D"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24200,6 +25113,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 254 267.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24460,6 +25384,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -24699,7 +25634,18 @@
 				)
 			)
 		)
-		(property "MPN" "CL10B225KA8NNNC"
+		(property "LCSC Part" "C23630"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10A225KO8NNNC"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -24910,7 +25856,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "slate113:CRYSTAL-SMD_4P-L3.2-W2.5-BL"
 			(at 128.27 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -24943,7 +25889,18 @@
 				)
 			)
 		)
-		(property "MPN" "Abracon ABM8G-12.000MHZ-18-D2Y-T"
+		(property "LCSC Part" "C70565"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "X322512MOB4SI"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -25252,7 +26209,7 @@
 				)
 			)
 		)
-		(property "Value" "160nF"
+		(property "Value" "100nF"
 			(at 204.724 199.644 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25262,7 +26219,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 191.77 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -25286,6 +26243,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 191.77 199.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25431,7 +26410,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 300.99 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -25455,6 +26434,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 300.99 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1557"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402CG270J500NT"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25521,7 +26522,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 374.65 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -25545,6 +26546,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 374.65 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1554"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402CG200J500NT"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25612,7 +26635,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 152.4 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -25636,6 +26659,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 152.4 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C258489"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C1005NPO189CGT"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25728,6 +26773,39 @@
 		)
 		(property "Description" "Ferrite bead, small symbol"
 			(at 163.83 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C80165"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "BLM18PG221SN1D"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25831,6 +26909,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2917678"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "0896BM15A0001001E"
 			(at 0 0 0)
 			(hide yes)
@@ -25925,7 +27014,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 195.58 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -25949,6 +27038,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 195.58 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26366,7 +27477,18 @@
 				)
 			)
 		)
-		(property "MPN" "SiP32508DT"
+		(property "LCSC Part" "C139515"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SIP32508DT-T1-GE3"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -26458,7 +27580,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
 			(at 269.24 208.28 0)
 			(hide yes)
 			(show_name no)
@@ -26482,6 +27604,28 @@
 		)
 		(property "Description" "Inductor"
 			(at 269.24 208.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C108965"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "LQW15AN68NG00D"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26582,7 +27726,18 @@
 				)
 			)
 		)
-		(property "MPN" "CL10B475KA8NNNC"
+		(property "LCSC Part" "C19666"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10A475KO8NNNC"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -26663,7 +27818,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 238.76 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -26687,6 +27842,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 238.76 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C23630"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10A225KO8NNNC"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26789,6 +27966,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -26871,7 +28059,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 302.26 207.01 0)
 			(hide yes)
 			(show_name no)
@@ -26895,6 +28083,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 302.26 207.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26953,7 +28163,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "RP2350B"
+		(property "Value" "ESP32-S3-WROOM-1U-N8"
 			(at 68.1833 149.86 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26964,7 +28174,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:QFN-80-1EP_10x10mm_P0.4mm_EP3.4x3.4mm"
+		(property "Footprint" ""
 			(at 66.04 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -26975,7 +28185,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://datasheets.raspberrypi.com/rp2350/rp2350-datasheet.pdf"
+		(property "Datasheet" "https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf"
 			(at 66.04 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -26986,8 +28196,19 @@
 				)
 			)
 		)
-		(property "Description" "A microcontroller by Raspberry Pi, dual CPU architecture (ARM Cortex-M33 / RISC-V Hazard3), 150MHz, no flash, 520KB SRAM, 12 PIO state machines, VQFN-80"
+		(property "Description" "WiFi + Bluetooth 5 module by Espressif, dual-core Xtensa LX7, U.FL external antenna connector, 8MB flash. Replaces discontinued RP2350B; absorbs WiFi/BT role previously handled by separate AMLGA7921 module (U16 in io.kicad_sch), which should be evaluated for removal."
 			(at 66.04 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C2980297"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27019,7 +28240,7 @@
 				)
 			)
 		)
-		(property "MPN" "RP2350B"
+		(property "MPN" "ESP32-S3-WROOM-1U-N8"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -27030,7 +28251,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "LCSC"
+		(property "Manufacturer" "Espressif Systems"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -27499,6 +28720,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C14858"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10C101JB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -27578,7 +28810,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 232.41 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -27602,6 +28834,28 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 232.41 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C23162"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF4701T5E"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27701,6 +28955,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -27783,7 +29048,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 336.55 208.28 0)
 			(hide yes)
 			(show_name no)
@@ -27807,6 +29072,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 336.55 208.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C19666"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10A475KO8NNNC"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27875,7 +29162,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 368.3 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -27899,6 +29186,28 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 368.3 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C23186"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF5101T5E"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27966,7 +29275,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 369.57 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -27990,6 +29299,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 369.57 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C23630"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10A225KO8NNNC"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28057,7 +29388,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 308.61 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -28081,6 +29412,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 308.61 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1557"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402CG270J500NT"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28148,7 +29501,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 349.25 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -28172,6 +29525,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 349.25 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C15849"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10A105KB8NNNC"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28239,7 +29614,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 266.7 217.17 0)
 			(hide yes)
 			(show_name no)
@@ -28263,6 +29638,28 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 266.7 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C14858"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10C101JB8NNNC"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

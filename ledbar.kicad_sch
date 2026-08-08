@@ -9049,6 +9049,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -9578,6 +9589,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -9982,6 +10004,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 210.82 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10520,6 +10553,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -11049,6 +11093,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -11155,6 +11210,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 97.79 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11417,6 +11483,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -11670,6 +11747,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -11776,6 +11864,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 40.64 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12176,6 +12275,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -12282,6 +12392,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 153.67 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12544,6 +12665,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -12650,6 +12782,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 379.73 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12774,6 +12917,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -12880,6 +13034,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 166.37 300.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13280,6 +13445,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -13386,6 +13562,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 97.79 207.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13924,6 +14111,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -14030,6 +14228,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 266.7 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14154,6 +14363,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -14260,6 +14480,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 154.94 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14522,6 +14753,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -14766,6 +15008,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 210.82 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15028,6 +15281,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -15143,6 +15407,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -15249,6 +15524,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 97.79 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15649,6 +15935,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -15755,6 +16052,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 266.7 207.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16017,6 +16325,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -16132,6 +16451,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -16238,6 +16568,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 379.73 207.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16638,6 +16979,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -17020,6 +17372,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 210.82 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17420,6 +17783,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -17811,6 +18185,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -18055,6 +18440,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 379.73 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18455,6 +18851,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -18708,6 +19115,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -18814,6 +19232,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 40.64 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19076,6 +19505,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -19182,6 +19622,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 153.67 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19858,6 +20309,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -19964,6 +20426,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 323.85 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20226,6 +20699,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "CL10B104KB8NNNC"
 			(at 0 0 0)
 			(hide yes)
@@ -20470,6 +20954,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 96.52 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1591"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

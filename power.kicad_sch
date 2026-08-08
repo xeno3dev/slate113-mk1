@@ -9310,7 +9310,29 @@
 				)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "LCSC Part" "C87572"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SPM6530T-1R0M120"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" "445-3880-2-ND"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -9400,7 +9422,18 @@
 				)
 			)
 		)
-		(property "MPN" "CL10B105KA8NNNC"
+		(property "LCSC Part" "C49326357"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603X5R105K160NT"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -9680,6 +9713,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C64885"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MPN" "B5819W"
 			(at 0 0 0)
 			(hide yes)
@@ -9724,7 +9768,7 @@
 				)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey Part" "4786-B5819WTR-ND"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -9784,7 +9828,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 120.65 81.788 90)
 			(hide yes)
 			(show_name no)
@@ -9808,6 +9852,39 @@
 		)
 		(property "Description" "Ferrite bead"
 			(at 120.65 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C107335"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "MPZ1608S601ATA00"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9907,7 +9984,18 @@
 				)
 			)
 		)
-		(property "MPN" "CL10B225KA8NNNC"
+		(property "LCSC Part" "C49326370"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603X5R225K350NT"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -10301,7 +10389,18 @@
 				)
 			)
 		)
-		(property "MPN" "CL10B475KA8NNNC"
+		(property "LCSC Part" "C49326377"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603X5R475K160NT"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -10414,7 +10513,18 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0712K1L"
+		(property "LCSC Part" "C22864"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF1212T5E"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -10527,7 +10637,18 @@
 				)
 			)
 		)
-		(property "MPN" "CL10B104KB8NNNC"
+		(property "LCSC Part" "C14663"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB104"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -10639,7 +10760,18 @@
 				)
 			)
 		)
-		(property "MPN" "CL10A106KP8NNNC"
+		(property "LCSC Part" "C380317"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TCC0603X5R106M160CT"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -10751,7 +10883,18 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07154KL"
+		(property "LCSC Part" "C22881"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF1543T5E"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -10863,7 +11006,18 @@
 				)
 			)
 		)
-		(property "MPN" "CL10C680JB8NNNC"
+		(property "LCSC Part" "C1680"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603CG680J500NT"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -10981,7 +11135,18 @@
 				)
 			)
 		)
-		(property "MPN" "CSD17575Q3A"
+		(property "LCSC Part" "C529277"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CSD17575Q3"
 			(at 0 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -11106,6 +11271,28 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1322360"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603B822K500NT"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "DigiKey Part" ""
 			(at 0 0 0)
 			(hide yes)
@@ -11198,7 +11385,18 @@
 				)
 			)
 		)
-		(property "MPN" "CL10B105KA8NNNC"
+		(property "LCSC Part" "C49326357"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603X5R105K160NT"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -11310,7 +11508,18 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07100KL"
+		(property "LCSC Part" "C25803"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF1003T5E"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -11428,7 +11637,18 @@
 				)
 			)
 		)
-		(property "MPN" "CSD17575Q3A"
+		(property "LCSC Part" "C529277"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CSD17575Q3"
 			(at 0 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -11962,7 +12182,18 @@
 				)
 			)
 		)
-		(property "MPN" "CL10B473KB8NNNC"
+		(property "LCSC Part" "C49326646"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603X7R473J500NT"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -12074,7 +12305,18 @@
 				)
 			)
 		)
-		(property "MPN" "CL10B105KA8NNNC"
+		(property "LCSC Part" "C49326357"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603X5R105K160NT"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -12264,7 +12506,18 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07174KL"
+		(property "LCSC Part" "C2092939"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "1-2176090-3"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -12376,7 +12629,18 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0769K8L"
+		(property "LCSC Part" "C23098"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF6982T5E"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -12621,7 +12885,18 @@
 				)
 			)
 		)
-		(property "MPN" "CL10B475KA8NNNC"
+		(property "LCSC Part" "C49326377"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603X5R475K160NT"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -12733,7 +13008,18 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07127KL"
+		(property "LCSC Part" "C22869"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF1273T5E"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -12802,7 +13088,7 @@
 				)
 			)
 		)
-		(property "Value" "R_PROG"
+		(property "Value" "3.0kΩ (1s, 1.5MHz)"
 			(at 96.774 60.96 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12812,7 +13098,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 82.55 62.738 90)
 			(hide yes)
 			(show_name no)
@@ -12836,6 +13122,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 82.55 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C4211"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF3001T5E"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12927,6 +13235,39 @@
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
 			(at 207.01 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C122442"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "530470310"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" "WM1732-ND"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13097,7 +13438,18 @@
 				)
 			)
 		)
-		(property "MPN" "TDK SPM6530T-100M"
+		(property "LCSC Part" "C112288"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SPM6530T-100M"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -13119,7 +13471,7 @@
 				)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey Part" "445-SPM6530T-100MTR-ND"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -13214,7 +13566,18 @@
 				)
 			)
 		)
-		(property "MPN" "CSD17575Q3A"
+		(property "LCSC Part" "C529277"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CSD17575Q3"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -13340,7 +13703,18 @@
 				)
 			)
 		)
-		(property "MPN" "CSD17575Q3A"
+		(property "LCSC Part" "C529277"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CSD17575Q3"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -13461,7 +13835,18 @@
 				)
 			)
 		)
-		(property "MPN" "CL10B102KB8NNNC"
+		(property "LCSC Part" "C100040"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0603KRX7R9BB102"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -13574,7 +13959,18 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "LCSC Part" "C25804"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF1002T5E"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -13686,7 +14082,18 @@
 				)
 			)
 		)
-		(property "MPN" "CL10A106KP8NNNC"
+		(property "LCSC Part" "C380317"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TCC0603X5R106M160CT"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -14059,7 +14466,18 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07100KL"
+		(property "LCSC Part" "C25803"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF1003T5E"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -14171,7 +14589,18 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07100KL"
+		(property "LCSC Part" "C25803"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF1003T5E"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -14283,7 +14712,18 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07100KL"
+		(property "LCSC Part" "C25803"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF1003T5E"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -14396,7 +14836,18 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07205KL"
+		(property "LCSC Part" "C22949"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF2053T5E"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -14641,7 +15092,18 @@
 				)
 			)
 		)
-		(property "MPN" "CL10B225KA8NNNC"
+		(property "LCSC Part" "C49326377"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603X5R475K160NT"
 			(at -13.97 -21.59 0)
 			(hide yes)
 			(show_name no)
@@ -14753,7 +15215,29 @@
 				)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "LCSC Part" "C87572"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SPM6530T-1R0M120"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" "445-3880-2-ND"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -14843,7 +15327,18 @@
 				)
 			)
 		)
-		(property "MPN" "CL10A106KP8NNNC"
+		(property "LCSC Part" "C380317"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TCC0603X5R106M160CT"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -14949,6 +15444,17 @@
 		)
 		(property "Description" "100W USB Type-C PD3.0/2.0, BC1.2 Sink Controller, SSOP-10"
 			(at 113.03 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C970725"
+			(at 0 0 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15097,7 +15603,18 @@
 				)
 			)
 		)
-		(property "MPN" "CL10B473KB8NNNC"
+		(property "LCSC Part" "C49326646"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603X7R473J500NT"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -15211,7 +15728,18 @@
 				)
 			)
 		)
-		(property "MPN" "RC0603FR-07220KL"
+		(property "LCSC Part" "C22961"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF2203T5E"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
