@@ -5,6 +5,800 @@
 	(uuid "b9527c7d-ad13-4e92-9e1b-6c997e410e78")
 	(paper "A4")
 	(lib_symbols
+		(symbol "CSD17570Q5B_1"
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "Q5"
+				(at 6.35 1.2701 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "CSD17575Q3"
+				(at 6.35 3.556 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "slate113:VSON-CLIP-8_L3.3-W3.3-P0.65-BL"
+				(at 5.08 -1.905 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(justify left)
+				)
+			)
+			(property "Datasheet" "https://www.ti.com/lit/ds/symlink/csd17575q3.pdf"
+				(at 5.08 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Description" "30-V N-channel NexFET power MOSFET, VSON-CLIP (DQG) 3.3 mm x 3.3 mm, 2.3 mOhm max at VGS=10 V, 23 nC Qg typ"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC Part" "C529277"
+				(at -46.99 88.9 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "CSD17575Q3"
+				(at -46.99 88.9 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "Texas Instruments"
+				(at -46.99 88.9 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "DigiKey Part" ""
+				(at -46.99 88.9 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "NexFET Power MOSFET N-MOS"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "TDSON*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "CSD17570Q5B_1_0_1"
+				(polyline
+					(pts
+						(xy 0.254 1.905) (xy 0.254 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 2.286) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 0.508) (xy 0.762 -0.508)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -1.27) (xy 0.762 -2.286)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -1.778) (xy 3.302 -1.778) (xy 3.302 1.778) (xy 0.762 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.016 0) (xy 2.032 0.381) (xy 2.032 -0.381) (xy 1.016 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 1.651 0)
+					(radius 2.794)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 2.54) (xy 2.54 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.54 1.778)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 2.54 -1.778)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.54) (xy 2.54 0) (xy 0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.794 0.508) (xy 2.921 0.381) (xy 3.683 0.381) (xy 3.81 0.254)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.302 0.381) (xy 2.921 -0.254) (xy 3.683 -0.254) (xy 3.302 0.381)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "CSD17570Q5B_1_1_1"
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(hide yes)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(hide yes)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 5.08)
+					(name "G"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "CSD17570Q5B_2"
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "Q7"
+				(at 6.858 -0.762 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "CSD17575Q3"
+				(at 6.858 -2.794 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "slate113:VSON-CLIP-8_L3.3-W3.3-P0.65-BL"
+				(at 5.08 -1.905 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(justify left)
+				)
+			)
+			(property "Datasheet" "https://www.ti.com/lit/ds/symlink/csd17575q3.pdf"
+				(at 5.08 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Description" "30-V N-channel NexFET power MOSFET, VSON-CLIP (DQG) 3.3 mm x 3.3 mm, 2.3 mOhm max at VGS=10 V, 23 nC Qg typ"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC Part" "C529277"
+				(at -46.99 106.68 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "CSD17575Q3"
+				(at -46.99 106.68 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "Texas Instruments"
+				(at -46.99 106.68 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "DigiKey Part" ""
+				(at -46.99 106.68 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "NexFET Power MOSFET N-MOS"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "TDSON*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "CSD17570Q5B_2_0_1"
+				(polyline
+					(pts
+						(xy 0.254 1.905) (xy 0.254 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 2.286) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 0.508) (xy 0.762 -0.508)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -1.27) (xy 0.762 -2.286)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -1.778) (xy 3.302 -1.778) (xy 3.302 1.778) (xy 0.762 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.016 0) (xy 2.032 0.381) (xy 2.032 -0.381) (xy 1.016 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 1.651 0)
+					(radius 2.794)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 2.54) (xy 2.54 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.54 1.778)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 2.54 -1.778)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.54) (xy 2.54 0) (xy 0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.794 0.508) (xy 2.921 0.381) (xy 3.683 0.381) (xy 3.81 0.254)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.302 0.381) (xy 2.921 -0.254) (xy 3.683 -0.254) (xy 3.302 0.381)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "CSD17570Q5B_2_1_1"
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(hide yes)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(hide yes)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 5.08)
+					(name "G"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector:Conn_01x03_Pin"
 			(pin_names
 				(offset 1.016)
@@ -1523,7 +2317,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Package_TO_SOT_SMD:TDSON-8-1"
+			(property "Footprint" "slate113:VSON-CLIP-8_L3.3-W3.3-P0.65-BL"
 				(at 5.08 -1.905 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1536,7 +2330,7 @@
 					(justify left)
 				)
 			)
-			(property "Datasheet" "http://www.ti.com/lit/gpn/csd17570q5b"
+			(property "Datasheet" "https://www.ti.com/lit/ds/symlink/csd17575q3.pdf"
 				(at 5.08 -3.81 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1548,7 +2342,7 @@
 					(justify left)
 				)
 			)
-			(property "Description" "100A Id, 30V Vds, NexFET N-Channel Power MOSFET, 0.69mOhm Ron, 93nC Qg(typ), SON8 5x6mm"
+			(property "Description" "30-V N-channel NexFET power MOSFET, VSON-CLIP (DQG) 3.3 mm x 3.3 mm, 2.3 mOhm max at VGS=10 V, 23 nC Qg typ"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1954,6 +2748,189 @@
 					)
 					(fill
 						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "slate113:0530470310"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "CN"
+				(at 0 7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "0530470310"
+				(at 0 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "slate113:CONN-TH_0530470310"
+				(at 0 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/1-25T-Connectors_MOLEX_0530470310_3P-1-Straight-line_C122442.html"
+				(at 0 -12.7 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "MOLEX"
+				(at 0 -15.24 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "0530470310"
+				(at 0 -17.78 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC Part" "C122442"
+				(at 0 -20.32 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "Wire To Board / Wire To Wire Connector"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "0530470310_0_1"
+				(rectangle
+					(start -1.27 5.08)
+					(end 4.57 -5.59)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(circle
+					(center -0.51 4.32)
+					(radius 0.38)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -3.81 2.54 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -3.81 -2.54 0)
+					(length 2.54)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
 					)
 				)
 			)
@@ -2403,8 +3380,8 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "U3"
-				(at 0 25.4 0)
+			(property "Reference" "U"
+				(at 0 22.86 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -2414,7 +3391,7 @@
 				)
 			)
 			(property "Value" "BQ25792RQMR"
-				(at 0 22.86 0)
+				(at 0 -22.86 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -2685,7 +3662,7 @@
 						)
 					)
 				)
-				(pin output line
+				(pin unspecified line
 					(at -16.51 -5.08 0)
 					(length 2.54)
 					(name "ACDRV2"
@@ -2703,7 +3680,7 @@
 						)
 					)
 				)
-				(pin output line
+				(pin unspecified line
 					(at -16.51 -7.62 0)
 					(length 2.54)
 					(name "ACDRV1"
@@ -3054,8 +4031,8 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "CN11"
-				(at 7.9854 33.02 90)
+			(property "Reference" "CN"
+				(at 0 30.48 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -3065,7 +4042,7 @@
 				)
 			)
 			(property "Value" "DF40C-30DP-0.4V"
-				(at 5.4454 33.02 90)
+				(at 0 -30.48 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -3153,8 +4130,8 @@
 			)
 			(symbol "DF40C-30DP-0.4V_0_1"
 				(rectangle
-					(start -5.08 22.86)
-					(end 5.08 -22.86)
+					(start -3.81 22.86)
+					(end 3.81 -22.86)
 					(stroke
 						(width 0)
 						(type default)
@@ -3164,7 +4141,7 @@
 					)
 				)
 				(circle
-					(center -3.81 19.05)
+					(center -2.54 19.05)
 					(radius 0.38)
 					(stroke
 						(width 0)
@@ -3175,7 +4152,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -7.62 17.78 0)
+					(at -6.35 17.78 0)
 					(length 2.54)
 					(name "1"
 						(effects
@@ -3193,7 +4170,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 7.62 17.78 180)
+					(at 6.35 17.78 180)
 					(length 2.54)
 					(name "2"
 						(effects
@@ -3211,7 +4188,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -7.62 15.24 0)
+					(at -6.35 15.24 0)
 					(length 2.54)
 					(name "3"
 						(effects
@@ -3229,7 +4206,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 7.62 15.24 180)
+					(at 6.35 15.24 180)
 					(length 2.54)
 					(name "4"
 						(effects
@@ -3247,7 +4224,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -7.62 12.7 0)
+					(at -6.35 12.7 0)
 					(length 2.54)
 					(name "5"
 						(effects
@@ -3265,7 +4242,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 7.62 12.7 180)
+					(at 6.35 12.7 180)
 					(length 2.54)
 					(name "6"
 						(effects
@@ -3283,7 +4260,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -7.62 10.16 0)
+					(at -6.35 10.16 0)
 					(length 2.54)
 					(name "7"
 						(effects
@@ -3301,7 +4278,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 7.62 10.16 180)
+					(at 6.35 10.16 180)
 					(length 2.54)
 					(name "8"
 						(effects
@@ -3319,7 +4296,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -7.62 7.62 0)
+					(at -6.35 7.62 0)
 					(length 2.54)
 					(name "9"
 						(effects
@@ -3337,7 +4314,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 7.62 7.62 180)
+					(at 6.35 7.62 180)
 					(length 2.54)
 					(name "10"
 						(effects
@@ -3355,7 +4332,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -7.62 5.08 0)
+					(at -6.35 5.08 0)
 					(length 2.54)
 					(name "11"
 						(effects
@@ -3373,7 +4350,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 7.62 5.08 180)
+					(at 6.35 5.08 180)
 					(length 2.54)
 					(name "12"
 						(effects
@@ -3391,7 +4368,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -7.62 2.54 0)
+					(at -6.35 2.54 0)
 					(length 2.54)
 					(name "13"
 						(effects
@@ -3409,7 +4386,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 7.62 2.54 180)
+					(at 6.35 2.54 180)
 					(length 2.54)
 					(name "14"
 						(effects
@@ -3427,7 +4404,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -7.62 0 0)
+					(at -6.35 0 0)
 					(length 2.54)
 					(name "15"
 						(effects
@@ -3445,7 +4422,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 7.62 0 180)
+					(at 6.35 0 180)
 					(length 2.54)
 					(name "16"
 						(effects
@@ -3463,7 +4440,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -7.62 -2.54 0)
+					(at -6.35 -2.54 0)
 					(length 2.54)
 					(name "17"
 						(effects
@@ -3481,7 +4458,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 7.62 -2.54 180)
+					(at 6.35 -2.54 180)
 					(length 2.54)
 					(name "18"
 						(effects
@@ -3499,7 +4476,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -7.62 -5.08 0)
+					(at -6.35 -5.08 0)
 					(length 2.54)
 					(name "19"
 						(effects
@@ -3517,7 +4494,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 7.62 -5.08 180)
+					(at 6.35 -5.08 180)
 					(length 2.54)
 					(name "20"
 						(effects
@@ -3535,7 +4512,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -7.62 -7.62 0)
+					(at -6.35 -7.62 0)
 					(length 2.54)
 					(name "21"
 						(effects
@@ -3553,7 +4530,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 7.62 -7.62 180)
+					(at 6.35 -7.62 180)
 					(length 2.54)
 					(name "22"
 						(effects
@@ -3571,7 +4548,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -7.62 -10.16 0)
+					(at -6.35 -10.16 0)
 					(length 2.54)
 					(name "23"
 						(effects
@@ -3589,7 +4566,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 7.62 -10.16 180)
+					(at 6.35 -10.16 180)
 					(length 2.54)
 					(name "24"
 						(effects
@@ -3607,7 +4584,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -7.62 -12.7 0)
+					(at -6.35 -12.7 0)
 					(length 2.54)
 					(name "25"
 						(effects
@@ -3625,7 +4602,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 7.62 -12.7 180)
+					(at 6.35 -12.7 180)
 					(length 2.54)
 					(name "26"
 						(effects
@@ -3643,7 +4620,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -7.62 -15.24 0)
+					(at -6.35 -15.24 0)
 					(length 2.54)
 					(name "27"
 						(effects
@@ -3661,7 +4638,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 7.62 -15.24 180)
+					(at 6.35 -15.24 180)
 					(length 2.54)
 					(name "28"
 						(effects
@@ -3679,7 +4656,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -7.62 -17.78 0)
+					(at -6.35 -17.78 0)
 					(length 2.54)
 					(name "29"
 						(effects
@@ -3697,7 +4674,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 7.62 -17.78 180)
+					(at 6.35 -17.78 180)
 					(length 2.54)
 					(name "30"
 						(effects
@@ -5329,11 +6306,11 @@
 		(uuid "26384790-9ad2-4e8e-b053-586177638ccc")
 	)
 	(no_connect
-		(at 250.19 50.8)
+		(at 250.19 49.53)
 		(uuid "27e5bc4e-c7fe-4e46-9990-98a8906c687b")
 	)
 	(no_connect
-		(at 255.27 50.8)
+		(at 255.27 49.53)
 		(uuid "2ada0ad8-e1c4-46eb-83e4-5c8f5e0c321b")
 	)
 	(no_connect
@@ -5365,19 +6342,19 @@
 		(uuid "61389094-6f44-4c12-83e4-b260723d29f3")
 	)
 	(no_connect
-		(at 232.41 35.56)
+		(at 232.41 36.83)
 		(uuid "66421cb8-08cf-43dc-ac9b-7e3132a5de8b")
 	)
 	(no_connect
-		(at 257.81 50.8)
+		(at 257.81 49.53)
 		(uuid "686e2f0f-cc39-40fc-9526-0b34dc4476ba")
 	)
 	(no_connect
-		(at 255.27 35.56)
+		(at 255.27 36.83)
 		(uuid "6c211012-67ba-45e8-bca9-0e62756523b4")
 	)
 	(no_connect
-		(at 252.73 50.8)
+		(at 252.73 49.53)
 		(uuid "77a4c02a-a551-49c7-96db-38c638ff949a")
 	)
 	(no_connect
@@ -5401,7 +6378,7 @@
 		(uuid "98c6b976-4d0b-42be-aa67-1b385347fe0f")
 	)
 	(no_connect
-		(at 252.73 35.56)
+		(at 252.73 36.83)
 		(uuid "a2e3a53c-bb30-4f51-8665-ecc55dbfb3c8")
 	)
 	(no_connect
@@ -5409,7 +6386,7 @@
 		(uuid "a3f17eb2-41a2-4cbe-bbb9-e7b39e253ef8")
 	)
 	(no_connect
-		(at 247.65 35.56)
+		(at 247.65 36.83)
 		(uuid "ab06c531-640b-4790-a0f2-044944c1e0ca")
 	)
 	(no_connect
@@ -5425,11 +6402,11 @@
 		(uuid "d2d8c165-2ab3-4d90-a7d5-fe988005a1b7")
 	)
 	(no_connect
-		(at 257.81 35.56)
+		(at 257.81 36.83)
 		(uuid "d4f8b9cd-b68e-41bc-a086-0dd7592e95d9")
 	)
 	(no_connect
-		(at 250.19 35.56)
+		(at 250.19 36.83)
 		(uuid "ec6c447f-819a-41a9-a745-a14d00fc00b8")
 	)
 	(wire
@@ -5451,6 +6428,16 @@
 			(type default)
 		)
 		(uuid "0db2a437-d107-4be7-a1d3-225de560161d")
+	)
+	(wire
+		(pts
+			(xy 86.36 53.34) (xy 91.44 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12bc4b06-c5b3-4a44-ae48-42cad4a792b0")
 	)
 	(wire
 		(pts
@@ -5591,6 +6578,16 @@
 			(type default)
 		)
 		(uuid "5f2ac709-b5a1-497e-91fe-052976c9cd9f")
+	)
+	(wire
+		(pts
+			(xy 86.36 53.34) (xy 85.09 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6001cd09-f498-43a1-9343-14631b1d6f11")
 	)
 	(wire
 		(pts
@@ -5744,7 +6741,7 @@
 	)
 	(global_label "VIN_EXT"
 		(shape input)
-		(at 240.03 35.56 90)
+		(at 240.03 36.83 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5754,7 +6751,7 @@
 		)
 		(uuid "00152b4c-be90-4556-b3ef-8b8ece0b471e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 240.03 25.2572 90)
+			(at 240.03 26.5272 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5816,7 +6813,7 @@
 	)
 	(global_label "CM5_5V"
 		(shape input)
-		(at 224.79 50.8 270)
+		(at 224.79 49.53 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5826,7 +6823,7 @@
 		)
 		(uuid "060ede75-bb51-43be-bc23-1bdf91f35ea4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 224.79 60.9818 90)
+			(at 224.79 59.7118 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5840,7 +6837,7 @@
 	)
 	(global_label "LCD_LED_K"
 		(shape input)
-		(at 247.65 50.8 270)
+		(at 247.65 49.53 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5850,7 +6847,7 @@
 		)
 		(uuid "0a4c7e9d-471c-4e91-8708-eb2dafc630d7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 247.65 64.0056 90)
+			(at 247.65 62.7356 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6104,7 +7101,7 @@
 	)
 	(global_label "3V3"
 		(shape input)
-		(at 224.79 35.56 90)
+		(at 224.79 36.83 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6114,7 +7111,7 @@
 		)
 		(uuid "2134f785-ffa5-445d-899d-4f8f61445190")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 224.79 29.0672 90)
+			(at 224.79 30.3372 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6128,7 +7125,7 @@
 	)
 	(global_label "I2C0_SDA"
 		(shape input)
-		(at 232.41 50.8 270)
+		(at 232.41 49.53 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6138,7 +7135,7 @@
 		)
 		(uuid "22b5bada-d170-4b54-b9cc-10ba090b6d70")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 232.41 62.6147 90)
+			(at 232.41 61.3447 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6152,7 +7149,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 222.25 50.8 270)
+		(at 222.25 49.53 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6162,7 +7159,7 @@
 		)
 		(uuid "24e0aef4-d3d9-451a-9638-7da97fbb4da8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 222.25 57.6557 90)
+			(at 222.25 56.3857 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6176,7 +7173,7 @@
 	)
 	(global_label "VBUS"
 		(shape input)
-		(at 237.49 50.8 270)
+		(at 237.49 49.53 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6186,7 +7183,7 @@
 		)
 		(uuid "274a986d-2115-407e-b0cd-689735394a71")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 237.49 58.6838 90)
+			(at 237.49 57.4138 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6536,17 +7533,17 @@
 	)
 	(global_label "VBAT"
 		(shape input)
-		(at 212.09 86.36 0)
+		(at 203.2 85.09 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "461ade9c-e248-4ff2-a600-7fb4a3550d3d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 219.49 86.36 0)
+			(at 195.8 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6554,7 +7551,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 	)
@@ -6632,7 +7629,7 @@
 	)
 	(global_label "BQ_INT"
 		(shape input)
-		(at 229.87 50.8 270)
+		(at 229.87 49.53 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6642,7 +7639,7 @@
 		)
 		(uuid "4e8d9794-7c0e-493f-aa8e-42e6f73e291d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 229.87 60.2562 90)
+			(at 229.87 58.9862 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6872,7 +7869,7 @@
 	)
 	(global_label "I2C0_SCL"
 		(shape input)
-		(at 229.87 35.56 90)
+		(at 229.87 36.83 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6882,7 +7879,7 @@
 		)
 		(uuid "5e7480fa-6c49-4911-88ec-d0b27af3fd74")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 229.87 23.8058 90)
+			(at 229.87 25.0758 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6968,17 +7965,17 @@
 	)
 	(global_label "BATT"
 		(shape input)
-		(at 85.09 55.88 180)
+		(at 91.44 53.34 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "66b86a71-f4c1-44e2-a7d7-76d4b96f58fe")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 77.811 55.88 0)
+			(at 98.719 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6986,7 +7983,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 	)
@@ -7256,7 +8253,7 @@
 	)
 	(global_label "VBUS"
 		(shape input)
-		(at 237.49 35.56 90)
+		(at 237.49 36.83 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7266,7 +8263,7 @@
 		)
 		(uuid "7a971ba9-9a0f-4c8e-b58b-83c0505d9914")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 237.49 27.6762 90)
+			(at 237.49 28.9462 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7376,17 +8373,17 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 212.09 91.44 0)
+		(at 203.2 90.17 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "7f660956-e004-4f2b-b150-9309fd33c28d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 218.9457 91.44 0)
+			(at 196.3443 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7394,13 +8391,13 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 	)
 	(global_label "LCD_PWM"
 		(shape input)
-		(at 245.11 50.8 270)
+		(at 245.11 49.53 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7410,7 +8407,7 @@
 		)
 		(uuid "85f6af1a-5fc7-4854-b62b-4694d60920ef")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 245.11 62.4937 90)
+			(at 245.11 61.2237 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7544,7 +8541,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 234.95 50.8 270)
+		(at 234.95 49.53 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7554,7 +8551,7 @@
 		)
 		(uuid "909d4671-949e-481b-95d8-4df3487fff5b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 234.95 57.6557 90)
+			(at 234.95 56.3857 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7640,7 +8637,7 @@
 	)
 	(global_label "VIN_EXT"
 		(shape input)
-		(at 242.57 35.56 90)
+		(at 242.57 36.83 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7650,7 +8647,7 @@
 		)
 		(uuid "964d1c55-f0d9-4340-8a9c-338bb629a9b1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 242.57 25.2572 90)
+			(at 242.57 26.5272 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7832,7 +8829,7 @@
 	)
 	(global_label "VIN_EXT"
 		(shape input)
-		(at 242.57 50.8 270)
+		(at 242.57 49.53 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7842,7 +8839,7 @@
 		)
 		(uuid "a0642c5d-4e46-4fd3-bce8-848e2de82acd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 242.57 61.1028 90)
+			(at 242.57 59.8328 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7904,7 +8901,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 234.95 35.56 90)
+		(at 234.95 36.83 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7914,7 +8911,7 @@
 		)
 		(uuid "a5507c2b-6096-4a2f-9de3-66cdf3f4633b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 234.95 28.7043 90)
+			(at 234.95 29.9743 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8192,7 +9189,7 @@
 	)
 	(global_label "1V8"
 		(shape input)
-		(at 227.33 50.8 270)
+		(at 227.33 49.53 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8202,7 +9199,7 @@
 		)
 		(uuid "b4bbf177-cad2-411d-a650-ff0c6219705f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 227.33 57.2928 90)
+			(at 227.33 56.0228 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8240,7 +9237,7 @@
 	)
 	(global_label "VBOOST"
 		(shape input)
-		(at 245.11 35.56 90)
+		(at 245.11 36.83 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8250,7 +9247,7 @@
 		)
 		(uuid "b92a18f5-29b1-49d7-933a-a8a9075a6641")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 245.11 25.3781 90)
+			(at 245.11 26.6481 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8672,7 +9669,7 @@
 	)
 	(global_label "CM5_5V"
 		(shape input)
-		(at 222.25 35.56 90)
+		(at 222.25 36.83 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8682,7 +9679,7 @@
 		)
 		(uuid "d388c1a2-e48f-4ca9-b5b9-8906ee1d270c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 222.25 25.3782 90)
+			(at 222.25 26.6482 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8864,7 +9861,7 @@
 	)
 	(global_label "VBUS"
 		(shape input)
-		(at 240.03 50.8 270)
+		(at 240.03 49.53 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8874,7 +9871,7 @@
 		)
 		(uuid "ef77e178-f699-4973-8cec-228b2b68d092")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 240.03 58.6838 90)
+			(at 240.03 57.4138 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9008,17 +10005,17 @@
 	)
 	(global_label "TS"
 		(shape input)
-		(at 212.09 88.9 0)
+		(at 203.2 87.63 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "f5e3411d-5e1e-4baf-be75-80230610df8e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 217.2523 88.9 0)
+			(at 198.0377 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9026,7 +10023,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 	)
@@ -9080,7 +10077,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 227.33 35.56 90)
+		(at 227.33 36.83 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9090,7 +10087,7 @@
 		)
 		(uuid "f94b5b74-4e9d-4023-9952-04a7a40cda2e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 227.33 28.7043 90)
+			(at 227.33 29.9743 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9247,118 +10244,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:L")
-		(at 85.09 41.91 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "02e8f59f-5bca-4e7c-b996-8dc5e33df3fd")
-		(property "Reference" "L2"
-			(at 90.17 41.91 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TDK | SPM6530T-1R0M120 | 1µH"
-			(at 87.122 29.718 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 85.09 41.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 85.09 41.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Inductor"
-			(at 85.09 41.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part" "C87572"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "SPM6530T-1R0M120"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "DigiKey Part" "445-3880-2-ND"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "e23ef8b5-d8ab-44a6-9228-858193a82fb8")
-		)
-		(pin "1"
-			(uuid "3f99a340-9683-4702-8550-cb6b506cc42f")
-		)
-		(instances
-			(project "slate113"
-				(path "/f616d63f-663d-4b57-85dd-1d83f308499d"
-					(reference "L2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 149.86 53.34 180)
 		(unit 1)
@@ -9400,7 +10285,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C5673.html"
 			(at 149.86 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -9422,7 +10307,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C49326357"
+		(property "LCSC Part" "C5673"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -9433,7 +10318,7 @@
 				)
 			)
 		)
-		(property "MPN" "0603X5R105K160NT"
+		(property "MPN" "CL10A105KA8NNNC"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -9680,7 +10565,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 106.68 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -9962,7 +10847,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C7432769.html"
 			(at 85.09 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -9984,7 +10869,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C49326370"
+		(property "LCSC Part" "C7432769"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -9995,7 +10880,7 @@
 				)
 			)
 		)
-		(property "MPN" "0603X5R225K350NT"
+		(property "MPN" "HGC0603R5225K500NTHJ"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -10006,7 +10891,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "Chinocera"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -10115,6 +11000,124 @@
 			(project "slate113"
 				(path "/f616d63f-663d-4b57-85dd-1d83f308499d"
 					(reference "#FLG05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "slate113:0530470310")
+		(at 207.01 87.63 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "201f26b4-d8a2-452a-9131-f89b53ffac90")
+		(property "Reference" "CN17"
+			(at 213.36 86.6149 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0530470310"
+			(at 213.36 89.1549 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "slate113:CONN-TH_0530470310"
+			(at 207.01 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/1-25T-Connectors_MOLEX_0530470310_3P-1-Straight-line_C122442.html"
+			(at 207.01 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 207.01 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "MOLEX"
+			(at 207.01 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0530470310"
+			(at 207.01 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C122442"
+			(at 207.01 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e57060cf-7bcf-4897-ba69-8616387e994a")
+		)
+		(pin "2"
+			(uuid "49c3380b-1961-40ef-bc73-8bfd1f1e2e3c")
+		)
+		(pin "3"
+			(uuid "76ee271f-7c9a-466e-ab39-56040d0a1f7d")
+		)
+		(instances
+			(project "slate113"
+				(path "/f616d63f-663d-4b57-85dd-1d83f308499d"
+					(reference "CN17")
 					(unit 1)
 				)
 			)
@@ -10367,7 +11370,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C77045.html"
 			(at 40.64 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -10389,7 +11392,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C49326377"
+		(property "LCSC Part" "C77045"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -10400,7 +11403,7 @@
 				)
 			)
 		)
-		(property "MPN" "0603X5R475K160NT"
+		(property "MPN" "GRM188R61C475KE11D"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -10411,7 +11414,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "Murata Electronics"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -11066,6 +12069,98 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:L")
+		(at 147.32 93.98 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3cdbb572-6ffb-46e9-9a8a-9eacf04181e5")
+		(property "Reference" "L4"
+			(at 147.32 88.9 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1µH"
+			(at 147.32 91.44 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 147.32 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 147.32 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Inductor"
+			(at 147.32 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C87572"
+			(at 147.32 93.98 0) (hide yes) (show_name no) (do_not_autoplace no)
+			(effects (font (size 1.27 1.27)))
+		)
+		(property "MPN" "SPM6530T-1R0M120"
+			(at 147.32 93.98 0) (hide yes) (show_name no) (do_not_autoplace no)
+			(effects (font (size 1.27 1.27)))
+		)
+		(property "Manufacturer" "TDK"
+			(at 147.32 93.98 0) (hide yes) (show_name no) (do_not_autoplace no)
+			(effects (font (size 1.27 1.27)))
+		)
+		(pin "1"
+			(uuid "c5ef311b-14b3-450b-868e-3ed6e3e150ae")
+		)
+		(pin "2"
+			(uuid "218840a9-2d91-4dbb-9d65-f588531d7ce4")
+		)
+		(instances
+			(project "slate113"
+				(path "/f616d63f-663d-4b57-85dd-1d83f308499d"
+					(reference "L4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Transistor_FET:CSD17570Q5B")
 		(at 73.66 88.9 0)
 		(mirror y)
@@ -11088,7 +12183,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CSD17575Q3A"
+		(property "Value" "CSD17575Q3"
 			(at 67.056 89.662 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11099,7 +12194,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TDSON-8-1"
+		(property "Footprint" "slate113:VSON-CLIP-8_L3.3-W3.3-P0.65-BL"
 			(at 68.58 90.805 0)
 			(hide yes)
 			(show_name no)
@@ -11112,7 +12207,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/csd17570q5b"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/csd17575q3.pdf"
 			(at 68.58 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -11124,7 +12219,7 @@
 				(justify left)
 			)
 		)
-		(property "Description" "100A Id, 30V Vds, NexFET N-Channel Power MOSFET, 0.69mOhm Ron, 93nC Qg(typ), SON8 5x6mm"
+		(property "Description" "30-V N-channel NexFET power MOSFET, VSON-CLIP (DQG) 3.3 mm x 3.3 mm, 2.3 mOhm max at VGS=10 V, 23 nC Qg typ"
 			(at 73.66 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -11157,7 +12252,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "LCSC"
+		(property "Manufacturer" "Texas Instruments"
 			(at 0 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -11204,6 +12299,98 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:L")
+		(at 96.52 97.79 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "40985b8f-3ddc-4984-b863-20c020e3845c")
+		(property "Reference" "L3"
+			(at 96.52 92.71 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10µH"
+			(at 96.52 95.25 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 96.52 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 96.52 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Inductor"
+			(at 96.52 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C112288"
+			(at 96.52 97.79 0) (hide yes) (show_name no) (do_not_autoplace no)
+			(effects (font (size 1.27 1.27)))
+		)
+		(property "MPN" "SPM6530T-100M"
+			(at 96.52 97.79 0) (hide yes) (show_name no) (do_not_autoplace no)
+			(effects (font (size 1.27 1.27)))
+		)
+		(property "Manufacturer" "TDK"
+			(at 96.52 97.79 0) (hide yes) (show_name no) (do_not_autoplace no)
+			(effects (font (size 1.27 1.27)))
+		)
+		(pin "1"
+			(uuid "c9ffc26d-2a4c-4237-a00f-c450fa30dcab")
+		)
+		(pin "2"
+			(uuid "cc9042b5-c513-40cc-85d6-cbb32eb7f74a")
+		)
+		(instances
+			(project "slate113"
+				(path "/f616d63f-663d-4b57-85dd-1d83f308499d"
+					(reference "L3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 177.8 153.67 180)
 		(unit 1)
@@ -11238,7 +12425,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 177.8 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -11363,7 +12550,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C5673.html"
 			(at 177.8 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -11385,7 +12572,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C49326357"
+		(property "LCSC Part" "C5673"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -11396,7 +12583,7 @@
 				)
 			)
 		)
-		(property "MPN" "0603X5R105K160NT"
+		(property "MPN" "CL10A105KA8NNNC"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -11590,7 +12777,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CSD17575Q3A"
+		(property "Value" "CSD17575Q3"
 			(at 67.564 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11601,7 +12788,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TDSON-8-1"
+		(property "Footprint" "slate113:VSON-CLIP-8_L3.3-W3.3-P0.65-BL"
 			(at 68.58 108.585 0)
 			(hide yes)
 			(show_name no)
@@ -11614,7 +12801,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/csd17570q5b"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/csd17575q3.pdf"
 			(at 68.58 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -11626,7 +12813,7 @@
 				(justify left)
 			)
 		)
-		(property "Description" "100A Id, 30V Vds, NexFET N-Channel Power MOSFET, 0.69mOhm Ron, 93nC Qg(typ), SON8 5x6mm"
+		(property "Description" "30-V N-channel NexFET power MOSFET, VSON-CLIP (DQG) 3.3 mm x 3.3 mm, 2.3 mOhm max at VGS=10 V, 23 nC Qg typ"
 			(at 73.66 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -11659,7 +12846,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "LCSC"
+		(property "Manufacturer" "Texas Instruments"
 			(at 0 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -12283,7 +13470,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C5673.html"
 			(at 147.32 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -12305,7 +13492,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C49326357"
+		(property "LCSC Part" "C5673"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -12316,7 +13503,7 @@
 				)
 			)
 		)
-		(property "MPN" "0603X5R105K160NT"
+		(property "MPN" "CL10A105KA8NNNC"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -12863,7 +14050,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C77045.html"
 			(at 106.68 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -12885,7 +14072,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C49326377"
+		(property "LCSC Part" "C77045"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -12896,7 +14083,7 @@
 				)
 			)
 		)
-		(property "MPN" "0603X5R475K160NT"
+		(property "MPN" "GRM188R61C475KE11D"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -12907,7 +14094,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "Murata Electronics"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -12986,7 +14173,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-07127KL/726927"
 			(at 69.85 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -13008,7 +14195,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C22869"
+		(property "LCSC Part" ""
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -13019,7 +14206,7 @@
 				)
 			)
 		)
-		(property "MPN" "0603WAF1273T5E"
+		(property "MPN" "RC0603FR-07127KL"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -13041,7 +14228,7 @@
 				)
 			)
 		)
-		(property "DigiKey Part" ""
+		(property "DigiKey Part" "311-127KHRCT-ND"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -13180,122 +14367,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x03_Pin")
-		(at 207.01 88.9 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ac9213d5-2c01-4440-93b6-ef63962a6c7e")
-		(property "Reference" "J21"
-			(at 207.645 81.28 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Molex_53047-0310"
-			(at 207.645 83.82 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 207.01 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 207.01 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x03, script generated"
-			(at 207.01 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part" "C122442"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "530470310"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "DigiKey Part" "WM1732-ND"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "34c749b1-282f-4407-a031-1f5aa11c1e8a")
-		)
-		(pin "3"
-			(uuid "ebba25f3-ae41-44cd-8f75-402d2d34832a")
-		)
-		(pin "2"
-			(uuid "7dac2d31-d955-451c-adb5-65b9899474cc")
-		)
-		(instances
-			(project "slate113"
-				(path "/f616d63f-663d-4b57-85dd-1d83f308499d"
-					(reference "J21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 82.55 148.59 180)
 		(unit 1)
@@ -13374,130 +14445,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:L")
-		(at 96.52 97.79 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b10ae9d4-5b71-4f30-9126-4f946e4bda68")
-		(property "Reference" "L1"
-			(at 96.52 92.71 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10µH"
-			(at 96.52 95.25 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 96.52 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 96.52 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Inductor"
-			(at 96.52 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part" "C112288"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "SPM6530T-100M"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "DigiKey"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "DigiKey Part" "445-SPM6530T-100MTR-ND"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "4aba3fdc-25e2-45d9-a4c3-3ea45e0b4942")
-		)
-		(pin "1"
-			(uuid "9e6f178e-f43b-494a-bcde-f3a9ef69012e")
-		)
-		(instances
-			(project "slate113"
-				(path "/f616d63f-663d-4b57-85dd-1d83f308499d"
-					(reference "L1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
+		(lib_name "CSD17570Q5B_2")
 		(lib_id "Transistor_FET:CSD17570Q5B")
 		(at 46.99 106.68 0)
 		(unit 1)
@@ -13519,7 +14467,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CSD17575Q3A"
+		(property "Value" "CSD17575Q3"
 			(at 53.848 109.474 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13530,7 +14478,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TDSON-8-1"
+		(property "Footprint" "slate113:VSON-CLIP-8_L3.3-W3.3-P0.65-BL"
 			(at 52.07 108.585 0)
 			(hide yes)
 			(show_name no)
@@ -13543,7 +14491,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/csd17570q5b"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/csd17575q3.pdf"
 			(at 52.07 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -13555,7 +14503,7 @@
 				(justify left)
 			)
 		)
-		(property "Description" "100A Id, 30V Vds, NexFET N-Channel Power MOSFET, 0.69mOhm Ron, 93nC Qg(typ), SON8 5x6mm"
+		(property "Description" "30-V N-channel NexFET power MOSFET, VSON-CLIP (DQG) 3.3 mm x 3.3 mm, 2.3 mOhm max at VGS=10 V, 23 nC Qg typ"
 			(at 46.99 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -13588,7 +14536,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "LCSC"
+		(property "Manufacturer" "Texas Instruments"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -13635,6 +14583,7 @@
 		)
 	)
 	(symbol
+		(lib_name "CSD17570Q5B_1")
 		(lib_id "Transistor_FET:CSD17570Q5B")
 		(at 46.99 88.9 0)
 		(unit 1)
@@ -13656,7 +14605,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CSD17575Q3A"
+		(property "Value" "CSD17575Q3"
 			(at 53.34 85.344 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13667,7 +14616,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TDSON-8-1"
+		(property "Footprint" "slate113:VSON-CLIP-8_L3.3-W3.3-P0.65-BL"
 			(at 52.07 90.805 0)
 			(hide yes)
 			(show_name no)
@@ -13680,7 +14629,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/csd17570q5b"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/csd17575q3.pdf"
 			(at 52.07 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -13692,7 +14641,7 @@
 				(justify left)
 			)
 		)
-		(property "Description" "100A Id, 30V Vds, NexFET N-Channel Power MOSFET, 0.69mOhm Ron, 93nC Qg(typ), SON8 5x6mm"
+		(property "Description" "30-V N-channel NexFET power MOSFET, VSON-CLIP (DQG) 3.3 mm x 3.3 mm, 2.3 mOhm max at VGS=10 V, 23 nC Qg typ"
 			(at 46.99 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -13725,7 +14674,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "LCSC"
+		(property "Manufacturer" "Texas Instruments"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -13937,7 +14886,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C840630.html"
 			(at 39.37 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -13959,7 +14908,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C25804"
+		(property "LCSC Part" "C840630"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -13970,7 +14919,7 @@
 				)
 			)
 		)
-		(property "MPN" "0603WAF1002T5E"
+		(property "MPN" "CR0603-FX-1002ELF"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -13981,7 +14930,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Yageo"
+		(property "Manufacturer" "Bourns"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -15070,7 +16019,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/product-detail/C77045.html"
 			(at 71.12 127 0)
 			(hide yes)
 			(show_name no)
@@ -15092,7 +16041,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C49326377"
+		(property "LCSC Part" "C77045"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -15103,7 +16052,7 @@
 				)
 			)
 		)
-		(property "MPN" "0603X5R475K160NT"
+		(property "MPN" "GRM188R61C475KE11D"
 			(at -13.97 -21.59 0)
 			(hide yes)
 			(show_name no)
@@ -15114,7 +16063,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "Murata Electronics"
 			(at -13.97 -21.59 0)
 			(hide yes)
 			(show_name no)
@@ -15146,118 +16095,6 @@
 			(project "slate113"
 				(path "/f616d63f-663d-4b57-85dd-1d83f308499d"
 					(reference "C157")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:L")
-		(at 147.32 93.98 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ea1a3afe-e6e1-4317-91fb-c64834b6def7")
-		(property "Reference" "L3_BOOST1"
-			(at 147.32 88.9 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SPM6530T-1R0M120 | 1µH"
-			(at 147.574 91.186 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 147.32 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 147.32 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Inductor"
-			(at 147.32 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part" "C87572"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "SPM6530T-1R0M120"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "DigiKey Part" "445-3880-2-ND"
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "a09a5ac3-8726-430c-8092-6c0242ca51d3")
-		)
-		(pin "1"
-			(uuid "d936396b-020b-4198-836e-783e78724c1d")
-		)
-		(instances
-			(project "slate113"
-				(path "/f616d63f-663d-4b57-85dd-1d83f308499d"
-					(reference "L3_BOOST1")
 					(unit 1)
 				)
 			)
@@ -15657,6 +16494,100 @@
 			(project "slate113"
 				(path "/f616d63f-663d-4b57-85dd-1d83f308499d"
 					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:L")
+		(at 85.09 41.91 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "faadd6e7-0169-46fd-a017-aea311ad7a22")
+		(property "Reference" "L2"
+			(at 86.36 40.6399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1µH"
+			(at 86.36 43.1799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 85.09 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 85.09 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Inductor"
+			(at 85.09 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C87572"
+			(at 85.09 41.91 0) (hide yes) (show_name no) (do_not_autoplace no)
+			(effects (font (size 1.27 1.27)))
+		)
+		(property "MPN" "SPM6530T-1R0M120"
+			(at 85.09 41.91 0) (hide yes) (show_name no) (do_not_autoplace no)
+			(effects (font (size 1.27 1.27)))
+		)
+		(property "Manufacturer" "TDK"
+			(at 85.09 41.91 0) (hide yes) (show_name no) (do_not_autoplace no)
+			(effects (font (size 1.27 1.27)))
+		)
+		(pin "2"
+			(uuid "ae0431ac-29bf-471e-b5d2-2ef761929fcc")
+		)
+		(pin "1"
+			(uuid "fc4418f9-699f-45d2-b59c-cb7cc9a8882d")
+		)
+		(instances
+			(project "slate113"
+				(path "/f616d63f-663d-4b57-85dd-1d83f308499d"
+					(reference "L2")
 					(unit 1)
 				)
 			)

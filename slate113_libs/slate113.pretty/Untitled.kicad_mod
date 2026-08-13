@@ -4,10 +4,10 @@
 	(generator_version "10.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 -14 0)
+		(at 0 -10.12 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "462871b9-2ea4-4c36-a0c8-b17083ffb0e6")
+		(uuid "09ce2d47-48d5-427b-a32e-dbc0112a4721")
 		(effects
 			(font
 				(size 1 1)
@@ -16,10 +16,10 @@
 		)
 	)
 	(property "Value" "Untitled"
-		(at 0 -12.5 0)
+		(at 0 -8.62 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "65d26a7b-7fd1-42b1-9ccd-0499484953e8")
+		(uuid "8b0193cb-e468-400c-9d5b-e25a2a5f5873")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "1dc5d255-bede-4999-b333-0fc778d886d2")
+		(uuid "1331899b-862d-469d-8d12-5089609332ed")
 		(effects
 			(font
 				(size 1 1)
@@ -45,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "0f98a9bd-116b-40a3-a3de-dd15dbdefc9d")
+		(uuid "850b09c1-c2d1-4fd5-ac2d-cfb727d33ccc")
 		(effects
 			(font
 				(size 1 1)
@@ -56,10 +56,10 @@
 	(attr smd)
 	(duplicate_pad_numbers_are_jumpers no)
 	(fp_text user "${REFERENCE}"
-		(at 0 -11 0)
+		(at 0 -7.12 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "205e3fd7-dad0-45b0-b5db-515b33ba3003")
+		(uuid "f66f25aa-b504-41e6-9355-2da70ce54b60")
 		(effects
 			(font
 				(size 1 1)

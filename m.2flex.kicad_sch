@@ -860,10 +860,6 @@
 		(uuid "0577451a-a97a-406d-ab30-a5b665243a40")
 	)
 	(no_connect
-		(at 175.26 73.66)
-		(uuid "06bf15d9-fcf9-4283-9b4e-da4b89e2b2b4")
-	)
-	(no_connect
 		(at 91.44 71.12)
 		(uuid "170b5ec9-fe65-412d-9f46-8a723155f9d4")
 	)
@@ -876,16 +872,8 @@
 		(uuid "43796ecc-8afd-4d71-ac03-b81ffec2c3e7")
 	)
 	(no_connect
-		(at 175.26 58.42)
-		(uuid "86220d54-d35d-47d4-88dc-7b1a37cd5faa")
-	)
-	(no_connect
 		(at 180.34 58.42)
 		(uuid "87962326-778a-4280-8e5f-5012e16b8fc7")
-	)
-	(no_connect
-		(at 86.36 71.12)
-		(uuid "9056062e-cea6-411b-88c0-c369c9136f78")
 	)
 	(no_connect
 		(at 88.9 55.88)
@@ -898,10 +886,6 @@
 	(no_connect
 		(at 177.8 58.42)
 		(uuid "d0207be9-f358-4de7-8088-91b198724784")
-	)
-	(no_connect
-		(at 86.36 55.88)
-		(uuid "ea7cfb12-d645-499b-8abf-e438063b49f6")
 	)
 	(global_label "M2_DP"
 		(shape input)
@@ -1191,6 +1175,30 @@
 			)
 		)
 	)
+	(global_label "PCIE0_WAKE"
+		(shape input)
+		(at 175.26 73.66 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "34e82e37-eac2-49ee-9fa5-e5648e96bf4c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.26 88.0751 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "GND"
 		(shape input)
 		(at 66.04 71.12 270)
@@ -1212,6 +1220,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "MODEM_W_DISABLE"
+		(shape input)
+		(at 86.36 55.88 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3a23e436-aa4e-4fdd-a7d7-1f80f99b2ad4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 86.36 35.2359 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -1911,6 +1943,30 @@
 			)
 		)
 	)
+	(global_label "PCIE0_WAKE"
+		(shape input)
+		(at 86.36 71.12 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b7aabde0-8e81-473b-9261-ea6a82439128")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 86.36 85.5351 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "M2_PWROFF"
 		(shape input)
 		(at 45.72 71.12 270)
@@ -2340,6 +2396,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "MODEM_W_DISABLE"
+		(shape input)
+		(at 175.26 58.42 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "eb847efa-cd9d-40ff-95f8-f5282599f4c0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.26 37.7759 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)

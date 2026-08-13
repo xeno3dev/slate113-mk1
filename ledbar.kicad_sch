@@ -3103,6 +3103,30 @@
 			)
 		)
 	)
+	(global_label "LED_5V"
+		(shape input)
+		(at 162.56 40.64 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "22ebf0b5-126d-4225-89f1-72f8897fadfe")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 162.56 30.942 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "GND"
 		(shape input)
 		(at 43.18 207.01 270)
@@ -5092,6 +5116,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 162.56 45.72 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "724b2744-dff4-4166-bec0-d7160bff93cd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 162.56 52.5757 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -9941,6 +9989,88 @@
 			(project "slate113"
 				(path "/9144d9eb-e8ae-422f-a98d-7eba2889072a"
 					(reference "D16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 162.56 43.18 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0ee35b40-2d3f-42d8-9157-8ec4c4c82ccc")
+		(property "Reference" "C?"
+			(at 165.1 41.9162 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220 µF"
+			(at 165.1 44.4562 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 162.56 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 162.56 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 162.56 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "90274955-e099-4181-9263-4e14c0c71132")
+		)
+		(pin "1"
+			(uuid "f1a5cebc-c45b-4210-b9e9-ce082d2d8e3b")
+		)
+		(instances
+			(project "slate113"
+				(path "/9144d9eb-e8ae-422f-a98d-7eba2889072a"
+					(reference "C?")
 					(unit 1)
 				)
 			)

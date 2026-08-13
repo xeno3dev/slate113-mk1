@@ -3,4 +3,5 @@
 	(lib (name "slate113") (type "KiCad") (uri "${KIPRJMOD}/slate113_libs/slate113.kicad_sym") (options "") (descr ""))
 
   (lib (name "lcsc_imported")(type "KiCad")(uri "${KIPRJMOD}/libs/lcsc/symbols/lcsc_imported.kicad_sym")(options "")(descr "LCSC imported components"))
+	(lib (name "W25Q32JV_import")(type "KiCad")(uri "${KIPRJMOD}/slate113_libs/W25Q32JV.kicad_sym")(options "")(descr "Winbond W25Q32JVSSIQ, LCSC C179173"))
 )

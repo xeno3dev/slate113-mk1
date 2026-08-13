@@ -1467,7 +1467,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/837/RFPC_SMA27_F-3511583.pdf"
 			(at 57.15 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -1535,6 +1535,39 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+			)
+		)
+		(property "MPN" "RFPC-SMA27-F"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "GCT"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" "2073-RFPC-SMA27-F-ND"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "G1"
@@ -1605,7 +1638,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/837/RFPC_SMA27_F-3511583.pdf"
 			(at 92.71 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -1673,6 +1706,39 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+			)
+		)
+		(property "MPN" "RFPC-SMA27-F"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "GCT"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" "2073-RFPC-SMA27-F-ND"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "G1"
@@ -1857,7 +1923,7 @@
 				)
 			)
 		)
-		(property "Footprint" "slate113:GRADCONN_RFPC-SMA27-F"
+		(property "Footprint" "RFPC-SMA27-F:GRADCONN_RFPC-SMA27-F"
 			(at 129.54 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -1869,7 +1935,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/837/RFPC_SMA27_F-3511583.pdf"
 			(at 129.54 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -1937,6 +2003,39 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+			)
+		)
+		(property "MPN" "RFPC-SMA27-F"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "GCT"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" "2073-RFPC-SMA27-F-ND"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "G1"
@@ -1995,7 +2094,7 @@
 				)
 			)
 		)
-		(property "Footprint" "slate113:GRADCONN_RFPC-SMA27-F"
+		(property "Footprint" "RFPC-SMA27-F:GRADCONN_RFPC-SMA27-F"
 			(at 58.42 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -2007,7 +2106,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/837/RFPC_SMA27_F-3511583.pdf"
 			(at 58.42 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -2075,6 +2174,39 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+			)
+		)
+		(property "MPN" "RFPC-SMA27-F"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "GCT"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" "2073-RFPC-SMA27-F-ND"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "G1"
@@ -2385,7 +2517,7 @@
 				)
 			)
 		)
-		(property "Footprint" "slate113:GRADCONN_RFPC-SMA27-F"
+		(property "Footprint" "RFPC-SMA27-F:GRADCONN_RFPC-SMA27-F"
 			(at 21.59 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -2397,7 +2529,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/837/RFPC_SMA27_F-3511583.pdf"
 			(at 21.59 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -2465,6 +2597,39 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+			)
+		)
+		(property "MPN" "RFPC-SMA27-F"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "GCT"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" "2073-RFPC-SMA27-F-ND"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "G1"
@@ -2775,7 +2940,7 @@
 				)
 			)
 		)
-		(property "Footprint" "slate113:GRADCONN_RFPC-SMA27-F"
+		(property "Footprint" "RFPC-SMA27-F:GRADCONN_RFPC-SMA27-F"
 			(at 21.59 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -2787,7 +2952,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/837/RFPC_SMA27_F-3511583.pdf"
 			(at 21.59 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -2855,6 +3020,39 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+			)
+		)
+		(property "MPN" "RFPC-SMA27-F"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "GCT"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" "2073-RFPC-SMA27-F-ND"
+			(at 0 0 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "G1"

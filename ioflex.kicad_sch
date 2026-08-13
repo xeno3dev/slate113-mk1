@@ -1036,22 +1036,6 @@
 		)
 	)
 	(no_connect
-		(at 60.96 29.21)
-		(uuid "00ea6a50-6168-46f6-9089-e4c02035642b")
-	)
-	(no_connect
-		(at 148.59 85.09)
-		(uuid "0778d323-b176-45d5-b787-6baac25c2491")
-	)
-	(no_connect
-		(at 60.96 44.45)
-		(uuid "111ff185-3863-4f21-83d3-211ec94ed400")
-	)
-	(no_connect
-		(at 55.88 29.21)
-		(uuid "13ecde22-2d88-41a8-9c2d-d720149afc9d")
-	)
-	(no_connect
 		(at 153.67 85.09)
 		(uuid "2e9f9451-498f-4403-a816-c90cca1d4e85")
 	)
@@ -1060,44 +1044,20 @@
 		(uuid "378f65fd-0e02-4b40-aa8d-d651a18d0328")
 	)
 	(no_connect
-		(at 58.42 29.21)
-		(uuid "3a37b106-e5c8-407f-98ef-5d2108005c8f")
-	)
-	(no_connect
-		(at 146.05 69.85)
-		(uuid "68b13f7b-5d55-48c9-ad10-4e978ef90c91")
-	)
-	(no_connect
 		(at 63.5 29.21)
 		(uuid "825adbe5-924f-434f-9404-8a4dd777a4c1")
 	)
 	(no_connect
-		(at 146.05 85.09)
-		(uuid "918c19b6-f4fd-4079-8c3e-a9f87b38d8d9")
-	)
-	(no_connect
-		(at 148.59 69.85)
-		(uuid "97f0f79d-3722-4620-bfec-7cf4a98a73ea")
-	)
-	(no_connect
-		(at 58.42 44.45)
-		(uuid "c29c4531-f0f7-425d-a475-22c9d6bc87a0")
-	)
-	(no_connect
-		(at 63.5 44.45)
-		(uuid "d0eb8b87-8ff1-4df5-ab64-9f0c06e9ac90")
-	)
-	(no_connect
-		(at 143.51 69.85)
-		(uuid "d3df7fcd-021d-41a9-b4fe-a533680feb17")
+		(at 151.13 85.09)
+		(uuid "a91a332f-9f7c-4002-b0f6-62f27a801ce1")
 	)
 	(no_connect
 		(at 66.04 44.45)
 		(uuid "e3c4697e-bc5b-402d-943e-4a21c35673e4")
 	)
 	(no_connect
-		(at 151.13 85.09)
-		(uuid "fa8b858b-199a-4963-aad8-8b50fe185340")
+		(at 63.5 44.45)
+		(uuid "f88d8afa-0e06-4912-8b2e-15add7500a54")
 	)
 	(global_label "3V3"
 		(shape input)
@@ -1208,6 +1168,30 @@
 		(uuid "09d3a310-86d9-41de-80b2-a461d6930209")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 135.89 56.6444 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "USB_HUB_EN"
+		(shape input)
+		(at 143.51 69.85 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0adc1cc1-926e-4bf7-af21-a8ce9657fc7d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 143.51 54.7091 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1339,6 +1323,30 @@
 			)
 		)
 	)
+	(global_label "WIFI_EN"
+		(shape input)
+		(at 58.42 29.21 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1dbbc565-068c-4207-b95d-e90ab750b4aa")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 58.42 19.0281 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "ETH_MDI3N"
 		(shape input)
 		(at 138.43 69.85 90)
@@ -1387,6 +1395,30 @@
 			)
 		)
 	)
+	(global_label "COMBO_EN"
+		(shape input)
+		(at 148.59 69.85 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "245874a7-1772-45f8-aa6b-13d6f16f9058")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 148.59 56.7653 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "M2_DP"
 		(shape input)
 		(at 153.67 69.85 90)
@@ -1400,6 +1432,30 @@
 		(uuid "249a2854-dc24-446f-b1b9-7ad8d80ff484")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 153.67 60.6963 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "USB_HUB_EN"
+		(shape input)
+		(at 55.88 29.21 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "26d47fec-4e44-4d53-adfa-c6bb1d0f60c7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 55.88 14.0691 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1627,6 +1683,30 @@
 			)
 		)
 	)
+	(global_label "BT_EN"
+		(shape input)
+		(at 146.05 85.09 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3b4e82b9-e934-4e98-a1ac-a73ce6a0c11c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 146.05 93.7599 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "I2C0_SCL"
 		(shape input)
 		(at 168.91 85.09 270)
@@ -1819,6 +1899,30 @@
 			)
 		)
 	)
+	(global_label "COMBO_EN"
+		(shape input)
+		(at 60.96 29.21 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4ef83a5b-9925-478f-96a1-85d642caf9e6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 60.96 16.1253 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "ETH_MDI0N"
 		(shape input)
 		(at 43.18 29.21 90)
@@ -1915,6 +2019,30 @@
 			)
 		)
 	)
+	(global_label "WIFI_EN"
+		(shape input)
+		(at 146.05 69.85 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "57fcc894-7d6a-4bb9-9ed9-a027fb994795")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 146.05 59.6681 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "USB1_DIR"
 		(shape input)
 		(at 158.75 69.85 90)
@@ -1939,6 +2067,30 @@
 			)
 		)
 	)
+	(global_label "WOWLAN"
+		(shape input)
+		(at 60.96 44.45 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5c9f8d0e-3bee-493d-bb01-ac3e5ba402f9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 60.96 55.1157 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "ETH_MDI3P"
 		(shape input)
 		(at 53.34 44.45 270)
@@ -1952,6 +2104,30 @@
 		(uuid "6347e3d6-402d-4c4e-a7e9-b4e72ee6d3e7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 53.34 57.6556 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "WOWLAN"
+		(shape input)
+		(at 148.59 85.09 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "67ff5eef-5bb8-441c-b643-d92bd0ffaa37")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 148.59 95.7557 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2776,6 +2952,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "BT_EN"
+		(shape input)
+		(at 58.42 44.45 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "cc1b17c7-c3ac-4eca-bc98-3e0189b8398c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 58.42 53.1199 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
