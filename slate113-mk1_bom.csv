@@ -562,7 +562,7 @@ U52,TPS7A0233PDBVR,slate113:SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR,TI(德州仪器),T
 U54,SiP32508DT,Package_TO_SOT_SMD:TSOT-23-6,LCSC,SIP32508DT-T1-GE3,C139515,,https://www.vishay.com/docs/62754/sip32508.pdf,1,,,,
 U55,TCA9534APWR,slate113:TSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL,TI(德州仪器),TCA9534APWR,C206010,,https://lcsc.com/product-detail/I-O-Expansion_TI_TCA9534APWR_TCA9534APWR_C206010.html,1,,,,
 U56,TS3A24159DGSR,slate113:MSOP-10_L3.0-W3.0-P0.50-LS5.0-BL,TI(德州仪器),TS3A24159DGSR,C129329,,https://lcsc.com/product-detail/Analog-Switches_TI_TS3A24159DGSR_TS3A24159DGSR_C129329.html,1,,,,
-U57,TS3A24159DGSR,slate113:MSOP-10_L3.0-W3.0-P0.50-LS5.0-BL,TI(德州仪器),TS3A24159DGSR,C129329,,https://lcsc.com/product-detail/Analog-Switches_TI_TS3A24159DGSR_TS3A24159DGSR_C129329.html,1,,,,
+U57,TS3A24159DGSR,slate113:MSOP-10_L3.0-W3.0-P0.50-LS5.0-BL,TI(德州仪器),TS3A24159DGSR,C129329,,https://lcsc.com/product-detail/Analog-Switches_TI_TS3A24159DGSR_TS3A24159DGSR_C129329.html,1,,,,p
 U58,TS3A24159DGSR,slate113:MSOP-10_L3.0-W3.0-P0.50-LS5.0-BL,TI(德州仪器),TS3A24159DGSR,C129329,,https://lcsc.com/product-detail/Analog-Switches_TI_TS3A24159DGSR_TS3A24159DGSR_C129329.html,1,,,,
 U59,TPS259470ARPWR,slate113:VQFN-10_L2.0-W2.0-P0.45-TL,TI(德州仪器),TPS259470ARPWR,C3662799,,https://www.lcsc.com/datasheet/C3662799.pdf,1,,,,
 U60,TPS259470ARPWR,slate113:VQFN-10_L2.0-W2.0-P0.45-TL,TI(德州仪器),TPS259470ARPWR,C3662799,,https://www.lcsc.com/datasheet/C3662799.pdf,1,,,,
@@ -575,7 +575,7 @@ U66,DF40B-10DS-0.4V,slate113:CONN-SMD_10P-P0.40_DF40B-10DS-0.4V-51,HRS(广濑),D
 U67,SIP32508DT-T1-GE3,slate113:TSOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR,VISHAY(威世),SIP32508DT-T1-GE3,C139515,,https://www.lcsc.com/datasheet/C139515.pdf,1,,,,
 U68,SN74AHCT125PWR,slate113:TSSOP-14_L5.0-W4.4-P0.65-LS6.4-BL,TI(德州仪器),SN74AHCT125PWR,C36365,1727-6305-1-ND,https://www.ti.com/lit/ds/symlink/sn74ahct125.pdf,1,,,,
 U69,TCA9535PWR,slate113:TSSOP-24_L7.8-W4.4-P0.65-LS6.4-BL,TI(德州仪器),TCA9535PWR,C130204,,https://lcsc.com/product-detail/Interface-ICs_TI_TCA9535PWR_TCA9535PWR_C130204.html,1,,,,
-U70,SkyLab WG243,,SkyLab,WG243,,,,1,,7.98,7.98,"User vendor quote: module US$7.98; shipping recorded separately; DDP excluded, 2026-08-13"
+U70,SkyLab WG243,,SkyLab,WG243,,,,1,,13.30,13.30,"User vendor quote: module US$7.98 + shipping US$5.32; DDP excluded, 2026-08-13"
 U71,SKY13373-460LF,slate113:QFN-12_L2.0-W2.0-P0.50-BL-EP,SKYWORKS,SKY13373-460LF,C150853,,https://lcsc.com/product-detail/RF-Switches_Skyworks-Solutions_SKY13373-460LF_Skyworks-Solutions-SKY13373-460LF_C150853.html,1,,,,
 U72,SN74AXC1T45DCKR,slate113:SC-70-6_L2.0-W1.3-P0.65-LS2.1-BL-1,TI(德州仪器),SN74AXC1T45DCKR,C2677392,,https://www.lcsc.com/datasheet/C2677392.pdf,1,,,,
 USB1,TYPE-C 24P QCHT,slate113:TYPE-C-SMD_TYPE-C-24P-QCHT,SHOU HAN(首韩),TYPE-C 24P QCHT,C456013,,https://lcsc.com/product-detail/USB-Connectors_SHOU-HAN-TYPE-C-24P-QCHT_C456013.html,1,,,,
@@ -584,4 +584,3 @@ USB3,BX-TYPE-A-MWT4P,slate113:USB-A-SMD_BX-TYPE-A-MWT4P,Bossie(博锡),BX-TYPE-A
 Y2,25MHz,,YXC Crystal Oscillators,X322525MOB4SI,C9006,,,1,,0.0945,0.0945,"JLC CLI live lookup, 2026-08-13"
 Y3,26.0MHz,slate113:CRYSTAL-SMD_4P-L3.2-W2.5-BL,DigiKey,X322526MMB4SI,C15192,,,1,,,,
 CM5,"CM5 Pro (8GB LPDDR5, 64GB eMMC, WiFi 6 + BT 5.3)",Module — off-board purchase,ArmSoM,CM5 Pro,,,,1,,229.00,303.98,"User checkout: $229.00 item + $12.00 delivery + $62.98 sales tax, 2026-08-13"
-Shipping — WG243,WG243 combo-module shipping (DDP excluded),Off-board purchase,,,,,,1,,5.32,5.32,"User vendor quote; DDP excluded, 2026-08-13"
