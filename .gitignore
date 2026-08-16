@@ -32,6 +32,7 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+!Slate113-MK1-BOM.csv
 
 # Generated audit exports and reversible schematic writeback snapshots
 work/
