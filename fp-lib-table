@@ -1,4 +1,9 @@
 (fp_lib_table
   (version 7)
+  (lib (name "KiCad")(type "Table")(uri "/nix/store/9cdw8hkwxf9gqln617qz5wli37p4m2jl-kicad-stock-data/template/fp-lib-table")(options "")(descr "KiCad default footprint libraries"))
   (lib (name "lcsc_footprints")(type "KiCad")(uri "${KIPRJMOD}/libs/lcsc/footprints.pretty")(options "")(descr "LCSC imported footprints"))
+  (lib (name "JLC-MCP")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/JLC-MCP.pretty")(options "")(descr "JLC-MCP Component Library (LCSC/EasyEDA)"))
+  (lib (name "slate113")(type "KiCad")(uri "${KIPRJMOD}/slate113_libs/slate113.pretty")(options "")(descr "Slate113 project footprints"))
+  (lib (name "RFPC-SMA27-F")(type "KiCad")(uri "${KIPRJMOD}/slate113_libs/slate113.pretty")(options "")(descr "Legacy Slate113 RFPC-SMA27-F alias"))
+  (lib (name "Connector_Coaxial")(type "KiCad")(uri "${KIPRJMOD}/slate113_libs/slate113.pretty")(options "")(descr "Project-local U.FL footprint alias"))
 )

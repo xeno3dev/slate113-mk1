@@ -33,7 +33,6 @@
       "vias",
       "footprint_text",
       "footprint_anchors",
-      "ratsnest",
       "grid",
       "footprints_front",
       "footprints_back",
@@ -77,6 +76,12 @@
       false,
       false,
       false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
       false
     ],
     "col_order": [
@@ -89,7 +94,13 @@
       6,
       7,
       8,
-      9
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
     ],
     "col_widths": [],
     "custom_group_rules": [],
@@ -109,7 +120,7 @@
   "project": {
     "files": [
       {
-        "name": "slate113.kicad_sch",
+        "name": "slate113.kicad_pcb",
         "open": false,
         "window": {
           "display": 0,

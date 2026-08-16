@@ -12100,7 +12100,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "slate113:IND-SMD_L7.1-W6.5-P5.60"
 			(at 147.32 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -12134,16 +12134,37 @@
 			)
 		)
 		(property "LCSC Part" "C87572"
-			(at 147.32 93.98 0) (hide yes) (show_name no) (do_not_autoplace no)
-			(effects (font (size 1.27 1.27)))
+			(at 147.32 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
 		(property "MPN" "SPM6530T-1R0M120"
-			(at 147.32 93.98 0) (hide yes) (show_name no) (do_not_autoplace no)
-			(effects (font (size 1.27 1.27)))
+			(at 147.32 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
 		(property "Manufacturer" "TDK"
-			(at 147.32 93.98 0) (hide yes) (show_name no) (do_not_autoplace no)
-			(effects (font (size 1.27 1.27)))
+			(at 147.32 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
 		(pin "1"
 			(uuid "c5ef311b-14b3-450b-868e-3ed6e3e150ae")
@@ -12330,7 +12351,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "slate113:IND-SMD_L7.1-W6.6"
 			(at 96.52 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -12364,16 +12385,37 @@
 			)
 		)
 		(property "LCSC Part" "C112288"
-			(at 96.52 97.79 0) (hide yes) (show_name no) (do_not_autoplace no)
-			(effects (font (size 1.27 1.27)))
+			(at 96.52 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
 		(property "MPN" "SPM6530T-100M"
-			(at 96.52 97.79 0) (hide yes) (show_name no) (do_not_autoplace no)
-			(effects (font (size 1.27 1.27)))
+			(at 96.52 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
 		(property "Manufacturer" "TDK"
-			(at 96.52 97.79 0) (hide yes) (show_name no) (do_not_autoplace no)
-			(effects (font (size 1.27 1.27)))
+			(at 96.52 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
 		(pin "1"
 			(uuid "c9ffc26d-2a4c-4237-a00f-c450fa30dcab")
@@ -16533,7 +16575,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "slate113:IND-SMD_L7.1-W6.5-P5.60"
 			(at 85.09 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -16567,16 +16609,37 @@
 			)
 		)
 		(property "LCSC Part" "C87572"
-			(at 85.09 41.91 0) (hide yes) (show_name no) (do_not_autoplace no)
-			(effects (font (size 1.27 1.27)))
+			(at 85.09 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
 		(property "MPN" "SPM6530T-1R0M120"
-			(at 85.09 41.91 0) (hide yes) (show_name no) (do_not_autoplace no)
-			(effects (font (size 1.27 1.27)))
+			(at 85.09 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
 		(property "Manufacturer" "TDK"
-			(at 85.09 41.91 0) (hide yes) (show_name no) (do_not_autoplace no)
-			(effects (font (size 1.27 1.27)))
+			(at 85.09 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
 		(pin "2"
 			(uuid "ae0431ac-29bf-471e-b5d2-2ef761929fcc")

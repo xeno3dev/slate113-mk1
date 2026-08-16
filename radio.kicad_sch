@@ -23834,7 +23834,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 304.8 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -25743,7 +25743,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 284.48 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -26183,7 +26183,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 361.95 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -26375,7 +26375,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 389.89 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -27023,7 +27023,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 290.83 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -28692,7 +28692,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 387.35 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -30648,7 +30648,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 300.99 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -31463,7 +31463,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "slate113:KEY-SMD_KMR2XXGXXX"
 			(at 34.29 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -31487,6 +31487,39 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 34.29 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "C&K"
+			(at 34.29 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "KMR231GLFS"
+			(at 34.29 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C99271"
+			(at 34.29 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31803,7 +31836,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "slate113:KEY-SMD_KMR2XXGXXX"
 			(at 95.25 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -31827,6 +31860,39 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 95.25 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "C&K"
+			(at 95.25 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "KMR231GLFS"
+			(at 95.25 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C99271"
+			(at 95.25 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
