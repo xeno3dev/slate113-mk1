@@ -721,7 +721,7 @@
         "uuid": "0f372028-524b-4273-acdc-7aa2b492ee5d"
       }
     ],
-    "used_designators": "J4-5,X1,R17,R134-141,C235",
+    "used_designators": "C235,R17,R134-141,X1,J4-5",
     "variants": []
   },
   "sheets": [

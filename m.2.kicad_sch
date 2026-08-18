@@ -4948,10 +4948,6 @@
 		(uuid "233aee66-dcfb-4c9f-9f3e-c697c2e8b77b")
 	)
 	(no_connect
-		(at 257.81 30.48)
-		(uuid "3312317a-1ed8-4963-a008-67c86ae72a1e")
-	)
-	(no_connect
 		(at 107.95 34.29)
 		(uuid "37d6d03f-b7f6-4998-a4ed-01119c45c195")
 	)
@@ -5837,6 +5833,30 @@
 			)
 		)
 	)
+	(global_label "MODEM_WAKE"
+		(shape input)
+		(at 257.81 33.02 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4498e90b-d292-444a-866c-2094e5b0723f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 273.3741 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "AUDIO_I2C_SCL"
 		(shape input)
 		(at 162.56 35.56 180)
@@ -6602,6 +6622,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "MODEM_RESET_N"
+		(shape input)
+		(at 257.81 30.48 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "76e8db1d-a2d1-4b70-8d83-7df508c50023")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 276.4583 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -7949,7 +7993,7 @@
 			)
 		)
 	)
-	(global_label "PCIE0_PERST"
+	(global_label "MODEM_RESET_N"
 		(shape input)
 		(at 105.41 85.09 270)
 		(fields_autoplaced yes)
@@ -7961,7 +8005,7 @@
 		)
 		(uuid "cebe9127-b9f5-42f0-a2f8-12a1a32bccae")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 100.4122 90)
+			(at 105.41 103.7383 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8090,30 +8134,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-	)
-	(global_label "PCIE0_WAKE"
-		(shape input)
-		(at 257.81 33.02 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "d2119bb4-f3c9-4446-9331-6d7a4e73c521")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 272.2251 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 	)

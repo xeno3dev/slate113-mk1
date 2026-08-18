@@ -856,20 +856,12 @@
 		)
 	)
 	(no_connect
-		(at 88.9 71.12)
-		(uuid "0577451a-a97a-406d-ab30-a5b665243a40")
-	)
-	(no_connect
 		(at 91.44 71.12)
 		(uuid "170b5ec9-fe65-412d-9f46-8a723155f9d4")
 	)
 	(no_connect
 		(at 91.44 55.88)
 		(uuid "1a7e5c9d-af63-40f3-9b67-4ee48796a725")
-	)
-	(no_connect
-		(at 177.8 73.66)
-		(uuid "43796ecc-8afd-4d71-ac03-b81ffec2c3e7")
 	)
 	(no_connect
 		(at 180.34 58.42)
@@ -1164,30 +1156,6 @@
 		(uuid "305f7bde-098e-4367-a631-eea28a6ed9ef")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 73.66 81.1809 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "PCIE0_WAKE"
-		(shape input)
-		(at 175.26 73.66 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "34e82e37-eac2-49ee-9fa5-e5648e96bf4c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 175.26 88.0751 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1607,6 +1575,30 @@
 			)
 		)
 	)
+	(global_label "MODEM_RESET_N"
+		(shape input)
+		(at 177.8 73.66 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "682599be-bf93-4f48-93a4-df4d42dcdfab")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 177.8 92.3083 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "GND"
 		(shape input)
 		(at 149.86 73.66 270)
@@ -1823,6 +1815,30 @@
 			)
 		)
 	)
+	(global_label "MODEM_WAKE"
+		(shape input)
+		(at 175.26 73.66 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "99b27f6f-70bc-4482-bd11-81be27e274bb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.26 89.2241 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "SD_D2"
 		(shape input)
 		(at 157.48 58.42 90)
@@ -1943,7 +1959,7 @@
 			)
 		)
 	)
-	(global_label "PCIE0_WAKE"
+	(global_label "MODEM_WAKE"
 		(shape input)
 		(at 86.36 71.12 270)
 		(fields_autoplaced yes)
@@ -1955,7 +1971,7 @@
 		)
 		(uuid "b7aabde0-8e81-473b-9261-ea6a82439128")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 86.36 85.5351 90)
+			(at 86.36 86.6841 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2580,6 +2596,30 @@
 		(uuid "fb2dda8d-f685-4751-85f6-9be10f9e9913")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 81.28 89.6477 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "MODEM_RESET_N"
+		(shape input)
+		(at 88.9 71.12 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fc97439e-aa6d-4e17-88cb-b32ee21ee07b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.9 89.7683 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

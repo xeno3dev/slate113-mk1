@@ -38554,10 +38554,6 @@
 		(uuid "f80c7390-4fc1-40ca-9a3e-32bfde4d3317")
 	)
 	(no_connect
-		(at 398.78 247.65)
-		(uuid "0b369ccb-ef81-4019-b623-eac1de6dbcaa")
-	)
-	(no_connect
 		(at 130.81 128.27)
 		(uuid "0cf37b23-68e7-4fe0-b221-b378cc6a61d6")
 	)
@@ -38576,10 +38572,6 @@
 	(no_connect
 		(at 156.21 177.8)
 		(uuid "1a8c0d58-a3b9-4f71-9a1b-6d169f2e57bc")
-	)
-	(no_connect
-		(at 92.71 128.27)
-		(uuid "1b15a1fb-d51a-41f9-abf0-5405542a590e")
 	)
 	(no_connect
 		(at 151.13 177.8)
@@ -38652,10 +38644,6 @@
 	(no_connect
 		(at 100.33 208.28)
 		(uuid "483a0031-e9d3-4dae-880b-ca5f059ef2b2")
-	)
-	(no_connect
-		(at 82.55 128.27)
-		(uuid "4c8d3500-beb4-4427-be59-fa21489ead39")
 	)
 	(no_connect
 		(at 254 213.36)
@@ -41712,6 +41700,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "MODEM_WAKE"
+		(shape input)
+		(at 401.32 247.65 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0b1cd9c0-46a3-4002-af53-d34b475760e7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 401.32 232.0859 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -44979,30 +44991,6 @@
 			)
 		)
 	)
-	(global_label "PCIE0_WAKE"
-		(shape input)
-		(at 401.32 247.65 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "5512f8a8-a13f-4de2-9a6a-fba1f9325b87")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 401.32 233.2349 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "GND"
 		(shape input)
 		(at 421.64 267.97 270)
@@ -45952,6 +45940,30 @@
 		(uuid "6b058ea6-20cb-4bd8-9f9c-56fa4c41e0a0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 366.5243 300.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "MODEM_RESET_N"
+		(shape input)
+		(at 82.55 128.27 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6b242f7c-7b2b-49c5-89a1-504fe624f586")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 82.55 146.9183 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -51723,6 +51735,30 @@
 			)
 		)
 	)
+	(global_label "MODEM_WAKE"
+		(shape input)
+		(at 92.71 128.27 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c9e30777-8a0d-49f6-b35d-5904ec1ccecd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 92.71 143.8341 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "FerriteGND_Carrier"
 		(shape input)
 		(at 123.19 339.09 0)
@@ -54480,6 +54516,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "MODEM_RESET_N"
+		(shape input)
+		(at 398.78 247.65 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fcabff5a-dc7b-4a0c-9472-7376023f5808")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 398.78 229.0017 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
