@@ -857,27 +857,19 @@
 	)
 	(no_connect
 		(at 91.44 71.12)
-		(uuid "170b5ec9-fe65-412d-9f46-8a723155f9d4")
+		(uuid "049afbd9-0cf8-4107-adba-0609ba6da2b3")
 	)
 	(no_connect
 		(at 91.44 55.88)
-		(uuid "1a7e5c9d-af63-40f3-9b67-4ee48796a725")
+		(uuid "2dac3127-57be-437e-81d9-653c35c5e9c8")
 	)
 	(no_connect
 		(at 180.34 58.42)
-		(uuid "87962326-778a-4280-8e5f-5012e16b8fc7")
-	)
-	(no_connect
-		(at 88.9 55.88)
-		(uuid "b9a18e7b-a663-4be4-aad7-2268f0a9d20e")
+		(uuid "3c5f45f6-5d96-4b9f-8ab6-b521a4034d2c")
 	)
 	(no_connect
 		(at 180.34 73.66)
-		(uuid "be42fa4a-bfc8-47d1-b8bb-2fbd6883745f")
-	)
-	(no_connect
-		(at 177.8 58.42)
-		(uuid "d0207be9-f358-4de7-8088-91b198724784")
+		(uuid "91defe50-dc8a-4687-90b6-1378b69ef3c5")
 	)
 	(global_label "M2_DP"
 		(shape input)
@@ -1071,6 +1063,30 @@
 			)
 		)
 	)
+	(global_label "1V8"
+		(shape input)
+		(at 88.9 55.88 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "19f1c28c-10fd-4060-99cb-cf4fa0bd0105")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.9 49.3872 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "PCIE0_CLKREQ"
 		(shape input)
 		(at 48.26 71.12 270)
@@ -1143,7 +1159,7 @@
 			)
 		)
 	)
-	(global_label "SD_VDD"
+	(global_label "3V3"
 		(shape input)
 		(at 73.66 71.12 270)
 		(fields_autoplaced yes)
@@ -1155,7 +1171,7 @@
 		)
 		(uuid "305f7bde-098e-4367-a631-eea28a6ed9ef")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 73.66 81.1809 90)
+			(at 73.66 77.6128 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1284,6 +1300,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "1V8"
+		(shape input)
+		(at 177.8 58.42 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "412742fb-a40d-4257-83f7-4eb94aa15ee4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 177.8 51.9272 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -1671,7 +1711,7 @@
 			)
 		)
 	)
-	(global_label "SD_VDD"
+	(global_label "3V3"
 		(shape input)
 		(at 162.56 73.66 270)
 		(fields_autoplaced yes)
@@ -1683,7 +1723,7 @@
 		)
 		(uuid "79a09e25-20dd-4788-af6e-0fcbf1bc70c8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 162.56 83.7209 90)
+			(at 162.56 80.1528 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

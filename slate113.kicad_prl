@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 10,
+    "active_layer": 25,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -33,6 +33,7 @@
       "vias",
       "footprint_text",
       "footprint_anchors",
+      "ratsnest",
       "grid",
       "footprints_front",
       "footprints_back",
@@ -121,12 +122,12 @@
     "files": [
       {
         "name": "slate113.kicad_sch",
-        "open": false,
+        "open": true,
         "window": {
           "display": 0,
           "maximized": false,
-          "pos_x": -11,
-          "pos_y": 485,
+          "pos_x": 265,
+          "pos_y": 193,
           "size_x": 2030,
           "size_y": 1176
         }
@@ -137,10 +138,22 @@
         "window": {
           "display": 0,
           "maximized": false,
-          "pos_x": 1099,
-          "pos_y": 214,
-          "size_x": 1403,
-          "size_y": 1552
+          "pos_x": 1055,
+          "pos_y": 202,
+          "size_x": 2180,
+          "size_y": 958
+        }
+      },
+      {
+        "name": "slate113.kicad_pro",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 603,
+          "pos_y": 142,
+          "size_x": 1973,
+          "size_y": 1189
         }
       }
     ]

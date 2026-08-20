@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLC-MCP:IPEX-SMD_BWIPX-1-001E"
+		(property "Footprint" "slate113:IPEX-SMD_BWIPX-1-001E"
 			(at -1.778 0 90)
 			(effects
 				(font

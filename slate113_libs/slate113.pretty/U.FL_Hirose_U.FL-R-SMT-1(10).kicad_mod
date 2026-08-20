@@ -360,7 +360,7 @@
 		(layer "F.CrtYd")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3RD_PARTY}/jlc_mcp/3dmodels/JLC-MCP.3dshapes/BWIPX-1-001E.step"
+	(model "${KIPRJMOD}/slate113_libs/slate113.3dshapes/BWIPX-1-001E.step"
 		(offset
 			(xyz 0.472 0 0)
 		)

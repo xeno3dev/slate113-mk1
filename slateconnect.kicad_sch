@@ -4042,6 +4042,10 @@
 		(uuid "fd78dd18-88e4-430c-9e8b-86f49f9738ec")
 	)
 	(no_connect
+		(at 138.43 154.94)
+		(uuid "1600a67d-76ac-4baa-ba7b-2d2bdfa95c17")
+	)
+	(no_connect
 		(at 158.75 134.62)
 		(uuid "17882766-3cab-46c9-85c3-c93fd9edb453")
 	)
@@ -4058,6 +4062,10 @@
 		(uuid "3a6ce70e-be93-422d-92ae-e8fdf8ea5ec2")
 	)
 	(no_connect
+		(at 128.27 134.62)
+		(uuid "63370c97-e489-43e6-ba9d-718d53c08bbd")
+	)
+	(no_connect
 		(at 213.36 132.08)
 		(uuid "66e49918-5992-4ec1-8389-8d8491d0bdf0")
 	)
@@ -4068,6 +4076,10 @@
 	(no_connect
 		(at 53.34 120.65)
 		(uuid "82b4e5d1-886a-432e-9e43-1070c05cabf7")
+	)
+	(no_connect
+		(at 130.81 154.94)
+		(uuid "87bf68c2-0ae4-43a2-8df8-db4cf9e6d299")
 	)
 	(no_connect
 		(at 213.36 127)
@@ -4090,12 +4102,32 @@
 		(uuid "be103b43-7949-4c18-aeff-2728de9b0ca9")
 	)
 	(no_connect
+		(at 130.81 134.62)
+		(uuid "c51ffa3b-9c4f-4680-ac03-05ac5be0bf12")
+	)
+	(no_connect
+		(at 135.89 154.94)
+		(uuid "cc62c96a-27a6-4ba3-85ad-14e0b57fae50")
+	)
+	(no_connect
+		(at 135.89 134.62)
+		(uuid "ce8cf406-d911-4a2e-94eb-22e03a722a0a")
+	)
+	(no_connect
 		(at 161.29 134.62)
 		(uuid "e66fee2b-ec8b-48ee-9cf0-87c4b1667504")
 	)
 	(no_connect
 		(at 213.36 129.54)
 		(uuid "ec41f368-9f04-45a6-b08a-5e8b83384ccd")
+	)
+	(no_connect
+		(at 133.35 134.62)
+		(uuid "eeff1229-e432-4080-9b86-13a3d0325a70")
+	)
+	(no_connect
+		(at 133.35 154.94)
+		(uuid "f977bc56-b7d4-4b50-916d-7e4e3c87388a")
 	)
 	(wire
 		(pts
@@ -4847,30 +4879,6 @@
 			)
 		)
 	)
-	(global_label "SC_SEL6"
-		(shape input)
-		(at 135.89 134.62 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "059487e2-2ba8-4fc6-93bb-e12ffea34348")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 135.89 123.5916 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "GND"
 		(shape input)
 		(at 53.34 128.27 0)
@@ -5183,30 +5191,6 @@
 			)
 		)
 	)
-	(global_label "SC_SEL3"
-		(shape input)
-		(at 133.35 154.94 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "16c8ece2-7859-46cd-9298-69bd99e76dba")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 133.35 165.9684 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "GND"
 		(shape input)
 		(at 267.97 30.48 0)
@@ -5460,30 +5444,6 @@
 		(uuid "223c32f2-56ce-4805-8881-966d1f3ea530")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 65.2757 22.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "SC_SEL2"
-		(shape input)
-		(at 130.81 134.62 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "238d283f-938b-43ce-8f43-076611f10eb6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.81 123.5916 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7703,30 +7663,6 @@
 			)
 		)
 	)
-	(global_label "SC_SEL5"
-		(shape input)
-		(at 135.89 154.94 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8ab944f1-4173-4855-bc3a-759b60f7e308")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 135.89 165.9684 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "CM5_ACC_AUX1"
 		(shape input)
 		(at 148.59 154.94 270)
@@ -7836,30 +7772,6 @@
 		(uuid "95eedf29-a721-4d02-9713-4e89c5d7ae5b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 148.59 119.7815 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "SC_SEL4"
-		(shape input)
-		(at 133.35 134.62 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "97116ccc-fcf2-421a-8088-f4d9cdaf3526")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 133.35 123.5916 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8012,30 +7924,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(global_label "SC_SEL7"
-		(shape input)
-		(at 138.43 154.94 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "a1e04e02-46a1-4250-ba45-de5da231b477")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 138.43 165.9684 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 	)
@@ -8375,30 +8263,6 @@
 			)
 		)
 	)
-	(global_label "SC_SEL0"
-		(shape input)
-		(at 128.27 134.62 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b8e63292-b67c-4fe4-be65-90b73afbf777")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 128.27 123.5916 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "3V3"
 		(shape input)
 		(at 16.51 87.63 90)
@@ -8508,30 +8372,6 @@
 		(uuid "bf2ea550-f3f2-4b10-8768-1125b18e06f9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 44.8516 156.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "SC_SEL1"
-		(shape input)
-		(at 130.81 154.94 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "bf39192b-2574-42a3-b604-d7cb4608fd93")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.81 165.9684 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

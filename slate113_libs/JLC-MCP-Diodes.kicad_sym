@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLC-MCP:TSSOP-24_L7.8-W4.4-P0.65-LS6.4-BL"
+		(property "Footprint" "slate113:TSSOP-24_L7.8-W4.4-P0.65-LS6.4-BL"
 			(at -1.778 0 90)
 			(effects
 				(font
