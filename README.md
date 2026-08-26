@@ -120,7 +120,7 @@ Total BOM [here](./Manufacturing%20Files/BOMs/slate113-mk1.csv)
 | Display | USD$55.49³ | [Alibaba Link](https://www.alibaba.com/product-detail/Industrial-5-5inch-Touch-Screen-720_1601790231031.html?spm=a2756.order-detail-ta-ta-b.0.0.fb3ef19cmzzMxB) |
 | PCBs | ~USD$531⁴ | [JLCPCB](https://jlcpcb.com/) |
 
-*Total Cost*: USD$
+**Estimated Total**: US$971.53–1,286.53
 
 ---
 
@@ -139,3 +139,7 @@ Total BOM [here](./Manufacturing%20Files/BOMs/slate113-mk1.csv)
 ---
 
 ⁴Estimate, as all PCBs haven't been made yet.
+
+---
+
+⁵All parts haven't been finalized, including items like enclosure, batteries, and others; subject to change
