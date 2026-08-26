@@ -8,6 +8,9 @@
 
 Slate113 Mk1 is a Beefy Phone-Like Cyberdeck, powered by the [ArmSOM CM5](https://www.armsom.org/product-page/cm5?variantId=052f14c0-9009-4c4c-8e45-79380a8dca78), and meant to be a more capable and feature-rich alternative to the Flipper One.
 
+## Inspired By
+[Pi Flux by Carbon Computers](https://carboncomputers.us/products/pi-flux) and the [Flipper One by Flipper Devices](https://blog.flipper.net/flipper-one-we-need-your-help/)
+
 ## Features
 - DP Alt Mode
 - ESP32 Co-Processor
