@@ -46,3 +46,6 @@ writeback-backups/
 
 # Local project settings
 *.kicad_prl
+
+# outputs
+Kicad Project/outputs/

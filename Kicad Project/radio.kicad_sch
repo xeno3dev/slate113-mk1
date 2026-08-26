@@ -11597,6 +11597,16 @@
 	)
 	(wire
 		(pts
+			(xy 40.64 34.29) (xy 34.29 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "046d6131-1b5e-463c-bdcf-9c5262913789")
+	)
+	(wire
+		(pts
 			(xy 367.03 190.5) (xy 373.38 190.5)
 		)
 		(stroke
@@ -11994,6 +12004,16 @@
 			(type default)
 		)
 		(uuid "5f92756d-d96e-4fd9-bce3-e3dd6c77383e")
+	)
+	(wire
+		(pts
+			(xy 34.29 34.29) (xy 34.29 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5fb7b2ad-84d6-45bb-8070-d302cff96051")
 	)
 	(wire
 		(pts
@@ -14377,6 +14397,30 @@
 			)
 		)
 	)
+	(global_label "RADIO_3V3"
+		(shape input)
+		(at 30.48 31.75 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "33d1264a-301e-4e71-8de3-28bd7f25d4ce")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 30.48 18.7257 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "GPS_VDD_RF"
 		(shape input)
 		(at 260.35 208.28 180)
@@ -14870,30 +14914,6 @@
 		(uuid "43737af2-2d62-448e-9380-e2167937b3d9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 58.42 96.8443 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "3V3"
-		(shape input)
-		(at 40.64 34.29 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "43db36b3-00bf-4405-bd16-85bd33ebde49")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 34.1472 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15649,6 +15669,30 @@
 			)
 		)
 	)
+	(global_label "RADIO_3V3"
+		(shape input)
+		(at 50.8 106.68 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5241f97b-bc8f-42ee-96fb-8071497ae8cc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 50.8 93.6557 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "RADIO_I2C0_SDA"
 		(shape input)
 		(at 40.64 59.69 180)
@@ -15926,6 +15970,30 @@
 		(uuid "5d7897b6-e4a6-43c2-bbbc-5cc49c599796")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 27.4343 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "RADIO_3V3"
+		(shape input)
+		(at 105.41 129.54 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5d79ee06-e401-40a9-9426-ae3693e8c12b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 105.41 142.5643 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17305,30 +17373,6 @@
 			)
 		)
 	)
-	(global_label "3V3"
-		(shape input)
-		(at 105.41 129.54 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8ccf5ee0-1fb5-4c26-82a8-bd0ed5e22d27")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 136.0328 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "RP_ACC_MISO"
 		(shape input)
 		(at 88.9 62.23 0)
@@ -17350,6 +17394,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "RADIO_3V3"
+		(shape input)
+		(at 102.87 129.54 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8dbe4332-bccc-460d-9248-a865a55ea416")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.87 142.5643 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -19345,30 +19413,6 @@
 			)
 		)
 	)
-	(global_label "3V3"
-		(shape input)
-		(at 50.8 106.68 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "d62022fa-c7f3-47f2-b097-9b224a16edae")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 50.8 100.1872 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "GND"
 		(shape input)
 		(at 237.49 204.47 0)
@@ -19382,30 +19426,6 @@
 		(uuid "d6a94890-a1a8-4be0-a9ae-f9052407a6ab")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 244.3457 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "3V3"
-		(shape input)
-		(at 30.48 31.75 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "d701886a-ca29-4af5-b39d-c58aa5cb106e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 30.48 25.2572 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19550,30 +19570,6 @@
 		(uuid "dcbe6a93-de4c-44ba-b848-02a9add1469e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 153.1643 259.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "3V3"
-		(shape input)
-		(at 102.87 129.54 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "de9e77e0-2c59-4d0c-b5ad-126ee93005b7")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 102.87 136.0328 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20494,6 +20490,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "RADIO_3V3"
+		(shape input)
+		(at 34.29 33.02 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f9554b2b-8e59-487d-b7e5-60c6001e9cff")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 34.29 19.9957 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -27332,7 +27352,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "71daec21-b307-49a5-b94b-511ddb3fedcc")
 		(property "Reference" "#PWR02"
 			(at 34.29 31.75 0)
@@ -27346,7 +27365,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 36.83 31.7499 90)
+			(at 41.656 28.956 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
