@@ -48,3 +48,5 @@ writeback-backups/
 
 # outputs
 Kicad Project/outputs/
+
+Kicad Project/.kico/*
