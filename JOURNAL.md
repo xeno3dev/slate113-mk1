@@ -17,9 +17,9 @@ I decided to build Slate because I've always wanted something like the Flipper Z
 As the starting point of this project, I decided to work on the Power System, and am almost done with it. I just need to fix a few wiring issues, and fix countless issues related to the Battery Boost IC, as I need to fix a few issues with the capacitors used, polarity, and overall for the power tree, start connecting it to the other boards and sections.
 
 **Timelapses**
-Video: Timelapse #1: [link](https://cdn.hackclub.com/019f40ac-bddb-7a27-b3a3-3d11d2861776/timelapse_recording_2026-07-07_22-59-48.mp4)
-Video: Timelapse #2: [link](https://cdn.hackclub.com/019f41eb-ce91-7891-b4af-4a7b57797483/timelapse_recording_2026-07-08_00-46-15.mp4)
-Video: Timelapse #3: [link](https://cdn.hackclub.com/019f40ad-fbb8-72db-bb06-92e5782ad97f/timelapse_recording_2026-07-08_01-09-29.mp4)
+Timelapsee #1: [link](https://cdn.hackclub.com/019f40ac-bddb-7a27-b3a3-3d11d2861776/timelapse_recording_2026-07-07_22-59-48.mp4)
+Timelapsee #2: [link](https://cdn.hackclub.com/019f41eb-ce91-7891-b4af-4a7b57797483/timelapse_recording_2026-07-08_00-46-15.mp4)
+Timelapsee #3: [link](https://cdn.hackclub.com/019f40ad-fbb8-72db-bb06-92e5782ad97f/timelapse_recording_2026-07-08_01-09-29.mp4)
 
 Lapse Broke On Me :(
 
@@ -65,7 +65,7 @@ Today was a bit more productive, I was able to start working on wiring the CM5 C
 With the B-Key being partially wired (PCIE wired, USB not). I almost used M-Key for this just for convenience and how much more it was supposedly used, but ended up with B-Key for LTE, Satellite, and more capabilities.
 
 **Timelapse**
-Video: Timelapse #4: [link](https://cdn.hackclub.com/019f49a3-20a2-7500-93b7-c8d6d9a0f06e/timelapse.mp4)
+Timelapsee #4: [link](https://cdn.hackclub.com/019f49a3-20a2-7500-93b7-c8d6d9a0f06e/timelapse.mp4)
 
 **Total time spent: 2.7 hours**
 
@@ -74,7 +74,7 @@ Video: Timelapse #4: [link](https://cdn.hackclub.com/019f49a3-20a2-7500-93b7-c8d
 **Work Done**
 I added a USB Hub to the schematic and wired it up, as well as wire up a nano sim slot, and finish up wiring the M.2.
 
-Video: Timelapse #5: [link](https://cdn.hackclub.com/019f5476-4859-70de-bd7f-614d8edeece7/timelapse.mp4)
+Timelapsee #5: [link](https://cdn.hackclub.com/019f5476-4859-70de-bd7f-614d8edeece7/timelapse.mp4)
 
 **Total time spent: 1 hour**
 
@@ -83,7 +83,7 @@ Video: Timelapse #5: [link](https://cdn.hackclub.com/019f5476-4859-70de-bd7f-614
 **What was done**
 I finished wiring the CM5 Connector to the current placed components, fixed some issues missed in the power tree, and added the ethernet port and wired it up.
 
-Video: Timelapse #6: [link](https://cdn.hackclub.com/019f590a-e018-79a5-91ce-3e56cb04b021/timelapse.mp4)
+Timelapsee #6: [link](https://cdn.hackclub.com/019f590a-e018-79a5-91ce-3e56cb04b021/timelapse.mp4)
 
 **Total time spent: 1 hour**
 
@@ -92,7 +92,7 @@ Video: Timelapse #6: [link](https://cdn.hackclub.com/019f590a-e018-79a5-91ce-3e5
 **What was done**
 I started work today on the board to board FPC connectors, as well as organize the schematics.
 
-Video: Timelapse #7: [link](https://cdn.hackclub.com/019f62ca-fd6f-7296-8bf4-bf5947586010/timelapse.mp4)
+Timelapsee #7: [link](https://cdn.hackclub.com/019f62ca-fd6f-7296-8bf4-bf5947586010/timelapse.mp4)
 
 **Total time spent: 1.2 hours**
 
@@ -111,7 +111,7 @@ I also created a simple schematic for my custom Tri-Direction FPCB Setup, as som
 
 **Timelapse**
 
-Video: Timelapse #8: [link](https://cdn.hackclub.com/019f67a4-22e2-71b1-9c33-ab5ef81e8cb7/timelapse_recording_2026-07-15_13-16-36.mp4)
+Timelapsee #8: [link](https://cdn.hackclub.com/019f67a4-22e2-71b1-9c33-ab5ef81e8cb7/timelapse_recording_2026-07-15_13-16-36.mp4)
 
 **Total time spent: 1.1 hours**
 
@@ -147,7 +147,7 @@ I got the mux situation in line, and went with the PI3USB302-AZBEX 1:2 mux, plac
 ![image](https://cdn.hackclub.com/019f723c-6342-7af8-99a5-aeecfccc84f8/image.png)
 
 **Timelapse**
-Video: Timelapse #9: [link](https://cdn.hackclub.com/019f723d-169a-7a61-b152-59fe4e85bf2a/timelapse_recording_2026-07-17_12-33-36.mp4)
+Timelapsee #9: [link](https://cdn.hackclub.com/019f723d-169a-7a61-b152-59fe4e85bf2a/timelapse_recording_2026-07-17_12-33-36.mp4)
 
 **Total time spent: 1 hour**
 
@@ -163,7 +163,7 @@ Today I made the symbol for the WIFi + BLE Combo Card, as well as wire up up, up
 ![image](https://cdn.hackclub.com/019f776f-db39-7af9-ae34-cf94e49c1073/image.png)
 
 **Timelapse**
-Video: Timelapse #10: [link](https://cdn.hackclub.com/019f7b7f-10b1-7c74-b3f1-37939690a9ec/timelapse_since_2026-07-17_20-00.mp4)
+Timelapsee #10: [link](https://cdn.hackclub.com/019f7b7f-10b1-7c74-b3f1-37939690a9ec/timelapse_since_2026-07-17_20-00.mp4)
 
 **Total time spent: 3 hours**
 
@@ -173,7 +173,7 @@ Video: Timelapse #10: [link](https://cdn.hackclub.com/019f7b7f-10b1-7c74-b3f1-37
 I wired up the DP Lines to the CM5 and fixed a plethora of DRC errors, with most of them being bloody "Output -> Output" or "Power Input isn't connected to Power Output" errors.
 
 **Timelapse**
-Video: Timelapse #11: [link](https://cdn.hackclub.com/019f7c8e-346b-7d6c-ada4-9ddd66274d07/timelapse_since_2026-07-19_new.mp4)
+Timelapsee #11: [link](https://cdn.hackclub.com/019f7c8e-346b-7d6c-ada4-9ddd66274d07/timelapse_since_2026-07-19_new.mp4)
 
 **Total time spent: 1 hour**
 
@@ -184,7 +184,7 @@ Video: Timelapse #11: [link](https://cdn.hackclub.com/019f7c8e-346b-7d6c-ada4-9d
 I started work on the Radio Board today, and specifically wired up the RP2350B completely (except for USB DP/DM), and started wiring up the CC1101.
 
 **Timelapse**
-Video: Timelapse #12: [link](https://cdn.hackclub.com/019f81b2-d924-7ef3-83f0-51ea41dd4f03/timelapse_recording_2026-07-20_16-08-46.mp4)
+Timelapsee #12: [link](https://cdn.hackclub.com/019f81b2-d924-7ef3-83f0-51ea41dd4f03/timelapse_recording_2026-07-20_16-08-46.mp4)
 
 **Total time spent: 1.1 hours**
 
@@ -223,7 +223,7 @@ I also ended up solving the BadUSB Problem from yesterday by simply adding a new
 ![image](https://cdn.hackclub.com/019f8c0a-d0fb-7867-965f-a1ee46c92048/1784760941879171594.png)
 
 **Timelapse**
-Video: Timelapse #13: [link](https://cdn.hackclub.com/019f8c0e-bc87-7bae-816e-367ee146a7c2/timelapse_merged.mp4)
+Timelapsee #13: [link](https://cdn.hackclub.com/019f8c0e-bc87-7bae-816e-367ee146a7c2/timelapse_merged.mp4)
 
 **Total time spent: 2.6 hours**
 
@@ -236,7 +236,7 @@ Today, I switched to a new NFC IC, Wired up the RFID IC, and found a problem tha
 I'm gonna keep this short, the NFC + RFID IC/Coils can't be wired in full (yet) due to the RFID Coil requiring the Q (quality factor) for a calculation, and the same thing for NFC, but for La and Ra (inductance and series resistance). This means I can't finish the radio board until I get those two coils.
 
 **Timelapse**
-Video: Timelapse #14: [link](https://cdn.hackclub.com/019f9116-7740-7642-b358-225b89b049a3/timelapse_recording_2026-07-23_12-18-15.mp4)
+Timelapsee #14: [link](https://cdn.hackclub.com/019f9116-7740-7642-b358-225b89b049a3/timelapse_recording_2026-07-23_12-18-15.mp4)
 
 **Total time spent: 2.1 hours**
 
@@ -254,8 +254,8 @@ When I started modeling this in Fusion, after making a very basic model of the b
 ![image](https://cdn.hackclub.com/019f9b08-355d-7dab-98c4-ac90f44e1708/image.png)
 
 **Timelapses**
-Video: Timelapse #15: [link](https://cdn.hackclub.com/019f9b2c-40a8-76b4-84ee-6805ac5900e7/timelapse_since_2026-07-23_12-16_1of2.mp4)
-Video: Timelapse #16: [link](https://cdn.hackclub.com/019f9b2c-f594-7f81-9407-04e0e323902b/timelapse_since_2026-07-23_12-16_2of2.mp4)
+Timelapsee #15: [link](https://cdn.hackclub.com/019f9b2c-40a8-76b4-84ee-6805ac5900e7/timelapse_since_2026-07-23_12-16_1of2.mp4)
+Timelapsee #16: [link](https://cdn.hackclub.com/019f9b2c-f594-7f81-9407-04e0e323902b/timelapse_since_2026-07-23_12-16_2of2.mp4)
 
 **Total time spent: 5.3 hours**
 
@@ -265,7 +265,7 @@ Video: Timelapse #16: [link](https://cdn.hackclub.com/019f9b2c-f594-7f81-9407-04
 Today I went back to Schematic Work and continued working on the Radio Schematic, specifically the GPS Part, which was the last part needed, closing it out (right after I finish the natenna placeholder stuff)
 
 **Timelapse**
-Video: Timelapse #17: [link](https://cdn.hackclub.com/019fa056-0363-7aa1-a1e0-004a0743cc0e/timelapse_since_2026-07-26_15-35.mp4)
+Timelapsee #17: [link](https://cdn.hackclub.com/019fa056-0363-7aa1-a1e0-004a0743cc0e/timelapse_since_2026-07-26_15-35.mp4)
 
 **Total time spent: 1.8 hours**
 
@@ -275,7 +275,7 @@ Video: Timelapse #17: [link](https://cdn.hackclub.com/019fa056-0363-7aa1-a1e0-00
 I finished up the Radio Board, added 2 Load Switches, and fixed an issue related to the wrong B2B connector being used on the flex and boards, in addition to adding the Flash for the RP2350B
 
 **Timelapse**
-Video: Timelapse #18: [link](https://cdn.hackclub.com/019fa59e-9dc5-71a0-9739-8a9648e0e136/timelapse_since_2026-07-26_19-32.mp4)
+Timelapsee #18: [link](https://cdn.hackclub.com/019fa59e-9dc5-71a0-9739-8a9648e0e136/timelapse_since_2026-07-26_19-32.mp4)
 
 **Total time spent: 1.2 hours**
 
@@ -297,7 +297,7 @@ A directional coupler sits inline on each SMA feed line, continuously sampling a
 The primary antenna on each radio stays hardwired to its onboard patch regardless; however RF Sense only governs the second (diversity/ANT1) antenna path. (PS: There are two antenna patches EACH for WiFi and Bluetooth)
 
 **Timelapse**
-Video: Timelapse #19: [link](https://cdn.hackclub.com/019fab20-5164-750b-8316-fad0dd421261/timelapse_since_2026-07-27_18-04.mp4)
+Timelapsee #19: [link](https://cdn.hackclub.com/019fab20-5164-750b-8316-fad0dd421261/timelapse_since_2026-07-27_18-04.mp4)
 
 **Total time spent: 2.2 hours**
 
@@ -312,7 +312,7 @@ Today I finished up RF Sense, closing out the IO Board for the x2 time, and star
 After finishing up working on the RF Sense system, I started work on the... Audio System! As part of the work on this, I also decided to also hook up PCM, or the ability to make Voice Calls. At first, I had just wired up everything as it was supposed to be wired, then realized, the GPIO, Config, AND I2C would possibly interfere with any other bloody M.2 B-Key Cards someone would plug into this, hence why I took LONGER wiring up THREE SPDT switches JUST to prevent short circuiting M.2 Cards.
 
 **Timelapse**
-Video: Timelapse #20: [link](https://cdn.hackclub.com/019fb112-6182-7cb7-8822-5b7983d38521/timelapse_since_2026-07-29_17-21.mp4)
+Timelapsee #20: [link](https://cdn.hackclub.com/019fb112-6182-7cb7-8822-5b7983d38521/timelapse_since_2026-07-29_17-21.mp4)
 
 **Total time spent: 1.3 hours**
 
@@ -326,7 +326,7 @@ Today I continued wiring up the Audio Subsystem and am almost done, and now just
 When looking for what speakers to use in this, I ended looking and searching through LCSC/Mouser/DigiKey, trying to find a Phone-Style Speaker (with the Port Location being on the Side) for 2 hours, as they barely exist, and I needed a specific kind. I ended up making Claude use Firecrawl and search and find one, and it did.
 
 **Timelapse**
-Video: Timelapse #21: [link](https://cdn.hackclub.com/019fb652-4ced-7b32-b7ab-b60cb094626a/timelapse_since_2026-07-30_12-23.mp4)
+Timelapsee #21: [link](https://cdn.hackclub.com/019fb652-4ced-7b32-b7ab-b60cb094626a/timelapse_since_2026-07-30_12-23.mp4)
 
 **Total time spent: 1 hour**
 
@@ -336,7 +336,7 @@ Video: Timelapse #21: [link](https://cdn.hackclub.com/019fb652-4ced-7b32-b7ab-b6
 Today I added an LDO for the Audio Subsystem, wire everything up to the GPIO, wired up a new SD/Sim Card Slot, and finished up the changes required on M.2/Audio, and can now move on to working on Slate Connect.
 
 **Timelapse**
-Video: Timelapse #22: [link](https://cdn.hackclub.com/019fbd5b-2171-7fe3-b74c-630b3bf08881/timelapse_since_2026-07-31_10-15.mp4)
+Timelapsee #22: [link](https://cdn.hackclub.com/019fbd5b-2171-7fe3-b74c-630b3bf08881/timelapse_since_2026-07-31_10-15.mp4)
 
 **Total time spent: 2.8 hours**
 
@@ -346,7 +346,7 @@ Video: Timelapse #22: [link](https://cdn.hackclub.com/019fbd5b-2171-7fe3-b74c-63
 Today, I work on and finished SlateConnect (except for the I2C Part)
 
 **Timelapse**
-Video: Timelapse #23: [link](https://cdn.hackclub.com/019fc673-d7b9-7834-b83f-3cbeed27a587/timelapse_since_2026-08-03_00-07.mp4)
+Timelapsee #23: [link](https://cdn.hackclub.com/019fc673-d7b9-7834-b83f-3cbeed27a587/timelapse_since_2026-08-03_00-07.mp4)
 
 **Total time spent: 2 hours**
 
@@ -356,7 +356,7 @@ Video: Timelapse #23: [link](https://cdn.hackclub.com/019fc673-d7b9-7834-b83f-3c
 Today, I FINALLY got down to the last thing i needed to finish for Slate, the LED Status Bar. I finished the last item from SlateConnect today (I2C GPIO Expander Addition), and wired up the display. Tomorrow I will be finishing up the Status LED Bar and running DRC, then assigning footprints and preparing for me to start work on the PCB.
 
 **Timelapse**
-Video: Timelapse #24: [link](https://cdn.hackclub.com/019fce43-aa56-75e4-95f3-793cb3441164/timelapse_since_2026-08-03_11-39.mp4)
+Timelapsee #24: [link](https://cdn.hackclub.com/019fce43-aa56-75e4-95f3-793cb3441164/timelapse_since_2026-08-03_11-39.mp4)
 
 **Total time spent: 2.9 hours**
 
@@ -366,7 +366,7 @@ Video: Timelapse #24: [link](https://cdn.hackclub.com/019fce43-aa56-75e4-95f3-79
 Today I fixed all DRC errors, and I have started making the BOM, assigning Footprints, and Making Footprints... i still have to go through ~200+ components out of over 500, assign LCSC/Digikey P#s, fillout missing fields, and whatnot, then i can start working the PCB.
 
 **Timelapse**
-Video: Timelapse #25: [link](https://cdn.hackclub.com/019fd2f5-bc21-7f17-a006-c62d8f45f734/timelapse_since_2026-08-04_11-20.mp4)
+Timelapsee #25: [link](https://cdn.hackclub.com/019fd2f5-bc21-7f17-a006-c62d8f45f734/timelapse_since_2026-08-04_11-20.mp4)
 
 **Total time spent: 3.2 hours**
 
@@ -375,7 +375,7 @@ Video: Timelapse #25: [link](https://cdn.hackclub.com/019fd2f5-bc21-7f17-a006-c6
 **What Work Was Done**
 Today, I continued assigning Footprints and MPNs, and am almost done with the BOM and Footprint work.
 
-Video: Timelapse #26: [link](https://cdn.hackclub.com/019fda3c-0100-7503-89d9-d974f94ecedc/timelapse_since_2026-08-05_22-56.mp4)
+Timelapsee #26: [link](https://cdn.hackclub.com/019fda3c-0100-7503-89d9-d974f94ecedc/timelapse_since_2026-08-05_22-56.mp4)
 
 **Total time spent: 1.8 hours**
 
@@ -385,7 +385,7 @@ Video: Timelapse #26: [link](https://cdn.hackclub.com/019fda3c-0100-7503-89d9-d9
 Today I finished the BOM, and started adding missing Footprints/Making Them. I also have to find and replace 20 Discontinued Parts, on top of the 10 I already replaced.
 
 **Timelapse**
-Video: Timelapse #27: [link](https://cdn.hackclub.com/019fdf11-b633-7b83-892d-72dd336d0c3e/timelapse_since_2026-08-07_20-17.mp4)
+Timelapsee #27: [link](https://cdn.hackclub.com/019fdf11-b633-7b83-892d-72dd336d0c3e/timelapse_since_2026-08-07_20-17.mp4)
 
 **Total time spent: 2 hours**
 
@@ -400,7 +400,7 @@ While making the SIM Footprint, I ended up realizing one of the crucial dimensio
 (Note: I ended up switching from the 3in2 SIM/SD Card Module I was using to 2 separate modules.) 
 
 **Timelapse**
-Video: Timelapse #28: [link](https://cdn.hackclub.com/019fe3cc-494c-7ab4-9b61-a2e2fd1ab261/timelapse_since_2026-08-08_13-12.mp4)
+Timelapsee #28: [link](https://cdn.hackclub.com/019fe3cc-494c-7ab4-9b61-a2e2fd1ab261/timelapse_since_2026-08-08_13-12.mp4)
 
 **Total time spent: 3.1 hours**
 
@@ -415,7 +415,7 @@ Today, I finished working on Footprints and started replacing components for the
 - + more
 
 **Timelapse**
-Video: Timelapse #29: [link](https://cdn.hackclub.com/019fe91c-bc2f-7a9e-b2f0-698b4a4da34a/timelapse_since_2026-08-09_01-41.mp4)
+Timelapsee #29: [link](https://cdn.hackclub.com/019fe91c-bc2f-7a9e-b2f0-698b4a4da34a/timelapse_since_2026-08-09_01-41.mp4)
 
 **Total time spent: 2.3 hours**
 
@@ -425,7 +425,7 @@ Video: Timelapse #29: [link](https://cdn.hackclub.com/019fe91c-bc2f-7a9e-b2f0-69
 I wired up the the USB Hub, a flash chip for it, and removed a few stale nets.
 
 **Timelapse**
-Video: Timelapse #30: [link](https://cdn.hackclub.com/019feead-11e6-720d-a34e-1eb31486fd3e/timelapse_since_2026-08-10_11-05.mp4)
+Timelapsee #30: [link](https://cdn.hackclub.com/019feead-11e6-720d-a34e-1eb31486fd3e/timelapse_since_2026-08-10_11-05.mp4)
 
 **Total time spent: 2.3 hours**
 
@@ -438,7 +438,7 @@ Today, I FINISHED working on the schematic, and now I just need to audit all the
 While updating some symbols, I accidentally clicked Update All Symbols, causing a LOT of ERC errors due to unconnected pins, and more. Took me ~5 mins to fix it all.
 
 **Timelapse**
-Video: Timelapse #31: [link](https://cdn.hackclub.com/019ff3d1-6480-7674-9577-e9751466338a/timelapse_since_2026-08-11_12-51.mp4)
+Timelapsee #31: [link](https://cdn.hackclub.com/019ff3d1-6480-7674-9577-e9751466338a/timelapse_since_2026-08-11_12-51.mp4)
 
 **Total time spent: 3.7 hours**
 # August 13: PCB At Last!
@@ -459,7 +459,7 @@ Today, I finished the Schematic Work at LAST and now I can start working on rout
 Today, I finished up a few final changes and got to work on the PCB! I set up the board layers and set it to 6, with the first two being GND and Power.
 
 **Timelapse**
-Video: Timelapse #32: [link](https://cdn.hackclub.com/019ffdcc-a64c-7745-a71a-6c325ed7daf9/timelapse_since_2026-08-13_11-37.mp4)
+Timelapsee #32: [link](https://cdn.hackclub.com/019ffdcc-a64c-7745-a71a-6c325ed7daf9/timelapse_since_2026-08-13_11-37.mp4)
 
 **Total time spent: 3.1 hours**
 
@@ -469,8 +469,8 @@ Video: Timelapse #32: [link](https://cdn.hackclub.com/019ffdcc-a64c-7745-a71a-6c
 Today I finished wiring up the Power Mezzanine and now I have started working on the IO Mezzanine. It got so complicated I had to start using Micro Vias AND make the board 8 layers, from the initial 6 + it's so jampacked around the connectors it's become an eyesore.
 
 **Timelapse**
-Video: Timelapse #33: [link](https://cdn.hackclub.com/01a00317-9c77-7cf0-bb05-6c8f7491d08c/timelapse_since_2026-08-14_11-57_part-1.mp4)
-Video: Timelapse #34: [link](https://cdn.hackclub.com/01a00323-48b4-78c5-9ef7-78036b50775a/timelapse_since_2026-08-14_11-57_part-2.mp4)
+Timelapsee #33: [link](https://cdn.hackclub.com/01a00317-9c77-7cf0-bb05-6c8f7491d08c/timelapse_since_2026-08-14_11-57_part-1.mp4)
+Timelapsee #34: [link](https://cdn.hackclub.com/01a00323-48b4-78c5-9ef7-78036b50775a/timelapse_since_2026-08-14_11-57_part-2.mp4)
 
 **Total time spent: 3.9 hours**
 
@@ -483,7 +483,7 @@ Today, I couldn't do much do to personal reasons, but I finished up the IO Port,
 ![image](https://cdn.hackclub.com/01a00be9-9998-777f-9db6-b6a58d2d4165/image.png)
 
 **Timelapse**
-Video: Timelapse #35: [link](https://cdn.hackclub.com/01a00bea-0cb7-7fa3-b0d8-e211283a013f/timelapse_since_2026-08-15_10-50.mp4)
+Timelapsee #35: [link](https://cdn.hackclub.com/01a00bea-0cb7-7fa3-b0d8-e211283a013f/timelapse_since_2026-08-15_10-50.mp4)
 
 **Total time spent: 1 hour**
 
@@ -493,7 +493,7 @@ Video: Timelapse #35: [link](https://cdn.hackclub.com/01a00bea-0cb7-7fa3-b0d8-e2
 Today I continued working on the Carrier Board, and started working on the M.2 Board, as I js wanted a break from the Carrier.
 
 **Timelapse**
-Video: Timelapse #36: [link](https://cdn.hackclub.com/01a01232-8a23-7de1-af61-dcff5c022341/timelapse_since_2026-08-17_13-33.mp4)
+Timelapsee #36: [link](https://cdn.hackclub.com/01a01232-8a23-7de1-af61-dcff5c022341/timelapse_since_2026-08-17_13-33.mp4)
 
 **Total time spent: 1.1 hours**
 
@@ -507,7 +507,7 @@ Today I finished up the M.2 Board, and setup the Pours
 Tomorrow, I'll just move onto the next easiest board.
 
 **Timelapse**
-Video: Timelapse #37: [link](https://cdn.hackclub.com/01a017cb-4110-76a9-9379-77de3b7122c0/timelapse_since_2026-08-18_11-51.mp4)
+Timelapsee #37: [link](https://cdn.hackclub.com/01a017cb-4110-76a9-9379-77de3b7122c0/timelapse_since_2026-08-18_11-51.mp4)
 
 **Total time spent: 1.6 hours**
 
@@ -520,7 +520,7 @@ Today was very productive. I completed the Antenna Bracket AND Power Board :D
 ![image](https://cdn.hackclub.com/01a01d61-9500-7cbe-874f-8e5b6fa5065c/shot-20260819-141447.png)
 
 **Timelapse**
-Video: Timelapse #38: [link](https://cdn.hackclub.com/01a01d62-6cd5-7f28-9aad-15430278cdf1/timelapse_since_2026-08-19_10-50.mp4)
+Timelapsee #38: [link](https://cdn.hackclub.com/01a01d62-6cd5-7f28-9aad-15430278cdf1/timelapse_since_2026-08-19_10-50.mp4)
 
 **Total time spent: 4.6 hours**
 
@@ -532,6 +532,16 @@ Today I completed the SC Board (Board Edge Connector System that's just a replac
 ![image](https://cdn.hackclub.com/01a0205d-cde2-7a80-87c8-790d8ee87d53/shot-20260820-134817.png)
 
 **Timelapse**
-Video: Timelapse #39: [link](https://cdn.hackclub.com/01a02064-cfc6-7106-a8a1-fdad60f2e3cb/timelapse_since_2026-08-20_11-53.mp4)
+Timelapsee #39: [link](https://cdn.hackclub.com/01a02064-cfc6-7106-a8a1-fdad60f2e3cb/timelapse_since_2026-08-20_11-53.mp4)
 
 **Total time spent: 3.7 hours**
+
+# September 1: Radio Started
+
+**What Work Was Done**
+Today I started working on the Radio Daughter Board, which includes stuff like the GPS, Sub-GHz, and the ESP32 Module. Where the project stands at the moment, I have wired up the ESP32-S3-WROOM, CC1101, 3V3 Power Switch, and a few other things.
+
+**Timelapse**
+Timelapsee #40: [link](./Assets/Timelapses/timelapse_timelapse-20260820-203526.mp4)
+
+**Total time spent: 1.55 hours**

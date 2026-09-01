@@ -23463,7 +23463,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1fe257d5-5622-4413-bc7b-4b7f0e7d01d1")
-		(property "Reference" "C?"
+		(property "Reference" "C240"
 			(at 274.32 57.15 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23558,7 +23558,7 @@
 		(instances
 			(project "slate113"
 				(path "/5f0cb96f-deec-4f06-b790-14dd96b4fe43"
-					(reference "C?")
+					(reference "C240")
 					(unit 1)
 				)
 			)
@@ -25202,7 +25202,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "35a2798a-8278-4f10-8ef8-d05aece06a68")
-		(property "Reference" "C?"
+		(property "Reference" "C237"
 			(at 248.92 57.15 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25297,7 +25297,7 @@
 		(instances
 			(project "slate113"
 				(path "/5f0cb96f-deec-4f06-b790-14dd96b4fe43"
-					(reference "C?")
+					(reference "C237")
 					(unit 1)
 				)
 			)
@@ -25314,7 +25314,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3661e1f6-a591-4145-97a9-c917c561cba7")
-		(property "Reference" "C?"
+		(property "Reference" "C238"
 			(at 248.92 67.31 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25409,7 +25409,7 @@
 		(instances
 			(project "slate113"
 				(path "/5f0cb96f-deec-4f06-b790-14dd96b4fe43"
-					(reference "C?")
+					(reference "C238")
 					(unit 1)
 				)
 			)
@@ -28089,7 +28089,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "72c20b10-a6c0-4faa-90f4-f5f2fb24b36c")
-		(property "Reference" "C?"
+		(property "Reference" "C236"
 			(at 247.65 118.1162 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28197,7 +28197,7 @@
 		(instances
 			(project "slate113"
 				(path "/5f0cb96f-deec-4f06-b790-14dd96b4fe43"
-					(reference "C?")
+					(reference "C236")
 					(unit 1)
 				)
 			)
@@ -28544,7 +28544,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "80151f61-f9d6-4c2c-9c4d-49452358e50e")
-		(property "Reference" "C?"
+		(property "Reference" "C241"
 			(at 294.132 73.914 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28639,7 +28639,7 @@
 		(instances
 			(project "slate113"
 				(path "/5f0cb96f-deec-4f06-b790-14dd96b4fe43"
-					(reference "C?")
+					(reference "C241")
 					(unit 1)
 				)
 			)
@@ -34795,7 +34795,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ed22021a-0a06-4d3e-900e-8342d072cdb9")
-		(property "Reference" "C?"
+		(property "Reference" "C239"
 			(at 251.206 141.478 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34903,7 +34903,7 @@
 		(instances
 			(project "slate113"
 				(path "/5f0cb96f-deec-4f06-b790-14dd96b4fe43"
-					(reference "C?")
+					(reference "C239")
 					(unit 1)
 				)
 			)
@@ -35272,7 +35272,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f36a89ec-961e-4743-9b9e-a1adb08eb18d")
-		(property "Reference" "C?"
+		(property "Reference" "C242"
 			(at 300.99 57.15 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35367,7 +35367,7 @@
 		(instances
 			(project "slate113"
 				(path "/5f0cb96f-deec-4f06-b790-14dd96b4fe43"
-					(reference "C?")
+					(reference "C242")
 					(unit 1)
 				)
 			)
