@@ -23,7 +23,7 @@ Video: Timelapse #3: [link](https://cdn.hackclub.com/019f40ad-fbb8-72db-bb06-92e
 
 Lapse Broke On Me :(
 
-**Total time spent: 1 hour**
+**Total time spent: 2 hours**
 
 # July 9: ERC and Improper Symbols
 
@@ -67,7 +67,7 @@ With the B-Key being partially wired (PCIE wired, USB not). I almost used M-Key 
 **Timelapse**
 Video: Timelapse #4: [link](https://cdn.hackclub.com/019f49a3-20a2-7500-93b7-c8d6d9a0f06e/timelapse.mp4)
 
-**Total time spent: 1 hour**
+**Total time spent: 2.7 hours**
 
 # July 12: USB and More USB
 
@@ -94,7 +94,7 @@ I started work today on the board to board FPC connectors, as well as organize t
 
 Video: Timelapse #7: [link](https://cdn.hackclub.com/019f62ca-fd6f-7296-8bf4-bf5947586010/timelapse.mp4)
 
-**Total time spent: 1 hour**
+**Total time spent: 1.2 hours**
 
 # July 15: More Connecting and Wiring
 
@@ -113,7 +113,7 @@ I also created a simple schematic for my custom Tri-Direction FPCB Setup, as som
 
 Video: Timelapse #8: [link](https://cdn.hackclub.com/019f67a4-22e2-71b1-9c33-ab5ef81e8cb7/timelapse_recording_2026-07-15_13-16-36.mp4)
 
-**Total time spent: 1 hour**
+**Total time spent: 1.1 hours**
 
 # July 16: Mux'n
 
@@ -136,7 +136,7 @@ Because of this, in short, I need to add a 2:1 SS mux between the first mux, and
 **Timelapse**
 None today sadly as Lapse decided to pause at 10 Minutes in, while not visually showing it, and I never realized.
 
-**Total time spent: 1 hour**
+**Total time spent: 1.2 hours**
 
 # July 17: Mux or Not To Mux
 
@@ -165,7 +165,7 @@ Today I made the symbol for the WIFi + BLE Combo Card, as well as wire up up, up
 **Timelapse**
 Video: Timelapse #10: [link](https://cdn.hackclub.com/019f7b7f-10b1-7c74-b3f1-37939690a9ec/timelapse_since_2026-07-17_20-00.mp4)
 
-**Total time spent: 1 hour**
+**Total time spent: 3 hours**
 
 # July 19: ERC Time!
 
@@ -186,7 +186,7 @@ I started work on the Radio Board today, and specifically wired up the RP2350B c
 **Timelapse**
 Video: Timelapse #12: [link](https://cdn.hackclub.com/019f81b2-d924-7ef3-83f0-51ea41dd4f03/timelapse_recording_2026-07-20_16-08-46.mp4)
 
-**Total time spent: 1 hour**
+**Total time spent: 1.1 hours**
 
 # July 21: GPS and Sub-GHz will see the light of day
 
@@ -205,7 +205,7 @@ On top of that, I forgot to add this into yesterday's devlog, but I realized tha
 ![image](https://cdn.hackclub.com/019f86e1-d43a-7860-82c8-00c158fa312e/image.png)
 ![image](https://cdn.hackclub.com/019f86e2-11ce-7424-8078-b33a165b5a4f/image.png)
 
-**Total time spent: 1 hour**
+**Total time spent: 1.1 hours**
 
 # July 22: Sub-GHz Problems
 
@@ -225,7 +225,7 @@ I also ended up solving the BadUSB Problem from yesterday by simply adding a new
 **Timelapse**
 Video: Timelapse #13: [link](https://cdn.hackclub.com/019f8c0e-bc87-7bae-816e-367ee146a7c2/timelapse_merged.mp4)
 
-**Total time spent: 1 hour**
+**Total time spent: 2.6 hours**
 
 # July 23: NFC and RFID Time
 
@@ -238,7 +238,7 @@ I'm gonna keep this short, the NFC + RFID IC/Coils can't be wired in full (yet) 
 **Timelapse**
 Video: Timelapse #14: [link](https://cdn.hackclub.com/019f9116-7740-7642-b358-225b89b049a3/timelapse_recording_2026-07-23_12-18-15.mp4)
 
-**Total time spent: 1 hour**
+**Total time spent: 2.1 hours**
 
 # July 25: CAD Time!
 
@@ -257,7 +257,7 @@ When I started modeling this in Fusion, after making a very basic model of the b
 Video: Timelapse #15: [link](https://cdn.hackclub.com/019f9b2c-40a8-76b4-84ee-6805ac5900e7/timelapse_since_2026-07-23_12-16_1of2.mp4)
 Video: Timelapse #16: [link](https://cdn.hackclub.com/019f9b2c-f594-7f81-9407-04e0e323902b/timelapse_since_2026-07-23_12-16_2of2.mp4)
 
-**Total time spent: 1 hour**
+**Total time spent: 5.3 hours**
 
 # July 26: Location Acquired
 
@@ -267,7 +267,7 @@ Today I went back to Schematic Work and continued working on the Radio Schematic
 **Timelapse**
 Video: Timelapse #17: [link](https://cdn.hackclub.com/019fa056-0363-7aa1-a1e0-004a0743cc0e/timelapse_since_2026-07-26_15-35.mp4)
 
-**Total time spent: 1 hour**
+**Total time spent: 1.8 hours**
 
 # July 27: Closed Out
 
@@ -277,7 +277,7 @@ I finished up the Radio Board, added 2 Load Switches, and fixed an issue related
 **Timelapse**
 Video: Timelapse #18: [link](https://cdn.hackclub.com/019fa59e-9dc5-71a0-9739-8a9648e0e136/timelapse_since_2026-07-26_19-32.mp4)
 
-**Total time spent: 1 hour**
+**Total time spent: 1.2 hours**
 
 # July 28: RF Sense
 
@@ -299,7 +299,7 @@ The primary antenna on each radio stays hardwired to its onboard patch regardles
 **Timelapse**
 Video: Timelapse #19: [link](https://cdn.hackclub.com/019fab20-5164-750b-8316-fad0dd421261/timelapse_since_2026-07-27_18-04.mp4)
 
-**Total time spent: 1 hour**
+**Total time spent: 2.2 hours**
 
 # July 30: IO Closed Again, Back To M.2
 
@@ -314,7 +314,7 @@ After finishing up working on the RF Sense system, I started work on the... Audi
 **Timelapse**
 Video: Timelapse #20: [link](https://cdn.hackclub.com/019fb112-6182-7cb7-8822-5b7983d38521/timelapse_since_2026-07-29_17-21.mp4)
 
-**Total time spent: 1 hour**
+**Total time spent: 1.3 hours**
 
 # July 31: Audio
 
@@ -338,7 +338,7 @@ Today I added an LDO for the Audio Subsystem, wire everything up to the GPIO, wi
 **Timelapse**
 Video: Timelapse #22: [link](https://cdn.hackclub.com/019fbd5b-2171-7fe3-b74c-630b3bf08881/timelapse_since_2026-07-31_10-15.mp4)
 
-**Total time spent: 1 hour**
+**Total time spent: 2.8 hours**
 
 # August 3: SlateConnect Down (almost)
 
@@ -348,7 +348,7 @@ Today, I work on and finished SlateConnect (except for the I2C Part)
 **Timelapse**
 Video: Timelapse #23: [link](https://cdn.hackclub.com/019fc673-d7b9-7834-b83f-3cbeed27a587/timelapse_since_2026-08-03_00-07.mp4)
 
-**Total time spent: 1 hour**
+**Total time spent: 2 hours**
 
 # August 4: Plenty Down, One More To Go
 
@@ -358,7 +358,7 @@ Today, I FINALLY got down to the last thing i needed to finish for Slate, the LE
 **Timelapse**
 Video: Timelapse #24: [link](https://cdn.hackclub.com/019fce43-aa56-75e4-95f3-793cb3441164/timelapse_since_2026-08-03_11-39.mp4)
 
-**Total time spent: 1 hour**
+**Total time spent: 2.9 hours**
 
 # August 5: Tiring Work.
 
@@ -368,7 +368,7 @@ Today I fixed all DRC errors, and I have started making the BOM, assigning Footp
 **Timelapse**
 Video: Timelapse #25: [link](https://cdn.hackclub.com/019fd2f5-bc21-7f17-a006-c62d8f45f734/timelapse_since_2026-08-04_11-20.mp4)
 
-**Total time spent: 1 hour**
+**Total time spent: 3.2 hours**
 
 # August 7: Assigning More Footprints and Stuff
 
@@ -377,7 +377,7 @@ Today, I continued assigning Footprints and MPNs, and am almost done with the BO
 
 Video: Timelapse #26: [link](https://cdn.hackclub.com/019fda3c-0100-7503-89d9-d974f94ecedc/timelapse_since_2026-08-05_22-56.mp4)
 
-**Total time spent: 1 hour**
+**Total time spent: 1.8 hours**
 
 # August 8: BOM Completed
 
@@ -387,7 +387,7 @@ Today I finished the BOM, and started adding missing Footprints/Making Them. I a
 **Timelapse**
 Video: Timelapse #27: [link](https://cdn.hackclub.com/019fdf11-b633-7b83-892d-72dd336d0c3e/timelapse_since_2026-08-07_20-17.mp4)
 
-**Total time spent: 1 hour**
+**Total time spent: 2 hours**
 
 # August 8: Footprints...
 
@@ -402,7 +402,7 @@ While making the SIM Footprint, I ended up realizing one of the crucial dimensio
 **Timelapse**
 Video: Timelapse #28: [link](https://cdn.hackclub.com/019fe3cc-494c-7ab4-9b61-a2e2fd1ab261/timelapse_since_2026-08-08_13-12.mp4)
 
-**Total time spent: 1 hour**
+**Total time spent: 3.1 hours**
 
 # August 10: Component Swap.
 
@@ -417,7 +417,7 @@ Today, I finished working on Footprints and started replacing components for the
 **Timelapse**
 Video: Timelapse #29: [link](https://cdn.hackclub.com/019fe91c-bc2f-7a9e-b2f0-698b4a4da34a/timelapse_since_2026-08-09_01-41.mp4)
 
-**Total time spent: 1 hour**
+**Total time spent: 2.3 hours**
 
 # August 11: USB Hub Done (Again)
 
@@ -427,7 +427,7 @@ I wired up the the USB Hub, a flash chip for it, and removed a few stale nets.
 **Timelapse**
 Video: Timelapse #30: [link](https://cdn.hackclub.com/019feead-11e6-720d-a34e-1eb31486fd3e/timelapse_since_2026-08-10_11-05.mp4)
 
-**Total time spent: 1 hour**
+**Total time spent: 2.3 hours**
 
 # August 12: Done, at LAST
 
@@ -440,8 +440,7 @@ While updating some symbols, I accidentally clicked Update All Symbols, causing 
 **Timelapse**
 Video: Timelapse #31: [link](https://cdn.hackclub.com/019ff3d1-6480-7674-9577-e9751466338a/timelapse_since_2026-08-11_12-51.mp4)
 
-**Total time spent: 1 hour**
-
+**Total time spent: 3.7 hours**
 # August 13: PCB At Last!
 
 **What Work Was Done**
@@ -452,7 +451,7 @@ Today, I finished the Schematic Work at LAST and now I can start working on rout
 ![sheet](https://cdn.hackclub.com/019ff8e8-9f89-7af6-80a9-55b0e8debb18/1786587411081069463.png)
 ![sheet](https://cdn.hackclub.com/019ff8e8-a309-73bc-a7b7-deff47bb0c83/1786587412921297256.png)
 
-**Total time spent: 1 hour**
+**Total time spent: 5.4 hours**
 
 # August 14: Routing Started
 
@@ -462,7 +461,7 @@ Today, I finished up a few final changes and got to work on the PCB! I set up th
 **Timelapse**
 Video: Timelapse #32: [link](https://cdn.hackclub.com/019ffdcc-a64c-7745-a71a-6c325ed7daf9/timelapse_since_2026-08-13_11-37.mp4)
 
-**Total time spent: 1 hour**
+**Total time spent: 3.1 hours**
 
 # August 15: Complexity
 
@@ -473,7 +472,7 @@ Today I finished wiring up the Power Mezzanine and now I have started working on
 Video: Timelapse #33: [link](https://cdn.hackclub.com/01a00317-9c77-7cf0-bb05-6c8f7491d08c/timelapse_since_2026-08-14_11-57_part-1.mp4)
 Video: Timelapse #34: [link](https://cdn.hackclub.com/01a00323-48b4-78c5-9ef7-78036b50775a/timelapse_since_2026-08-14_11-57_part-2.mp4)
 
-**Total time spent: 1 hour**
+**Total time spent: 3.9 hours**
 
 # August 16: More Complexity
 
@@ -496,7 +495,7 @@ Today I continued working on the Carrier Board, and started working on the M.2 B
 **Timelapse**
 Video: Timelapse #36: [link](https://cdn.hackclub.com/01a01232-8a23-7de1-af61-dcff5c022341/timelapse_since_2026-08-17_13-33.mp4)
 
-**Total time spent: 1 hour**
+**Total time spent: 1.1 hours**
 
 # August 19: M.2 Done
 
@@ -510,7 +509,7 @@ Tomorrow, I'll just move onto the next easiest board.
 **Timelapse**
 Video: Timelapse #37: [link](https://cdn.hackclub.com/01a017cb-4110-76a9-9379-77de3b7122c0/timelapse_since_2026-08-18_11-51.mp4)
 
-**Total time spent: 1 hour**
+**Total time spent: 1.6 hours**
 
 # August 20: Power AND Antenna Bracket Done
 
@@ -523,7 +522,7 @@ Today was very productive. I completed the Antenna Bracket AND Power Board :D
 **Timelapse**
 Video: Timelapse #38: [link](https://cdn.hackclub.com/01a01d62-6cd5-7f28-9aad-15430278cdf1/timelapse_since_2026-08-19_10-50.mp4)
 
-**Total time spent: 1 hour**
+**Total time spent: 4.6 hours**
 
 # August 20: SlateConnect Done, 4 More to Go
 
@@ -535,4 +534,4 @@ Today I completed the SC Board (Board Edge Connector System that's just a replac
 **Timelapse**
 Video: Timelapse #39: [link](https://cdn.hackclub.com/01a02064-cfc6-7106-a8a1-fdad60f2e3cb/timelapse_since_2026-08-20_11-53.mp4)
 
-**Total time spent: 1 hour**
+**Total time spent: 3.7 hours**
