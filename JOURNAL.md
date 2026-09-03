@@ -541,7 +541,21 @@ Timelapsee #39: [link](https://cdn.hackclub.com/01a02064-cfc6-7106-a8a1-fdad60f2
 **What Work Was Done**
 Today I started working on the Radio Daughter Board, which includes stuff like the GPS, Sub-GHz, and the ESP32 Module. Where the project stands at the moment, I have wired up the ESP32-S3-WROOM, CC1101, 3V3 Power Switch, and a few other things.
 
+**Pictures**
+![pic](./Assets/Devlogs/Pictures/Sept1.png)
+
 **Timelapse**
-Timelapsee #40: [link](./Assets/Timelapses/timelapse_timelapse-20260820-203526.mp4)
+Timelapsee #40: [link](./Assets/Devlogs/Timelapses/timelapse_timelapse-20260820-203526.mp4)
 
 **Total time spent: 1.55 hours**
+
+# September 2: NFC Work Galore
+
+**What Work Was Done**
+Today I started wiring up the NFC Stack, and ended up having to make some schematic changes due to me forgetting to wire up the TX1/TX2 + RXP/RXN pins on the PN7160 IC.
+
+**Pictures**
+![pic](./Assets/Devlogs/Pictures/Sept2_1of2.png)
+![pic](./Assets/Devlogs/Pictures/Sept2_2of2.png)
+
+**Total time spent: 1.1 hours**
