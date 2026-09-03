@@ -549,7 +549,7 @@ Timelapsee #40: [link](./Assets/Devlogs/Timelapses/timelapse_timelapse-20260820-
 
 **Total time spent: 1.55 hours**
 
-# September 2: NFC Work Galore
+# September 3: NFC Work Galore
 
 **What Work Was Done**
 Today I started wiring up the NFC Stack, and ended up having to make some schematic changes due to me forgetting to wire up the TX1/TX2 + RXP/RXN pins on the PN7160 IC.
