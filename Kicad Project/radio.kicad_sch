@@ -13169,7 +13169,7 @@
 			)
 		)
 	)
-	(global_label "3V3"
+	(global_label "RADIO_3V3"
 		(shape input)
 		(at 297.18 185.42 180)
 		(fields_autoplaced yes)
@@ -13181,7 +13181,7 @@
 		)
 		(uuid "021bd1b1-df5b-472f-8b17-0ea9167cd1b2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 290.6872 185.42 0)
+			(at 284.1557 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24292,7 +24292,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "24d290c7-f170-49d9-9243-53a2e0b11494")
-		(property "Reference" "L?"
+		(property "Reference" "L12"
 			(at 134.62 260.3499 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24389,7 +24389,7 @@
 		(instances
 			(project "slate113"
 				(path "/5f0cb96f-deec-4f06-b790-14dd96b4fe43"
-					(reference "L?")
+					(reference "L12")
 					(unit 1)
 				)
 			)
@@ -24639,7 +24639,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "26a59731-54dd-4a14-9073-bbe5096457f0")
-		(property "Reference" "L?"
+		(property "Reference" "L11"
 			(at 33.02 259.0799 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24736,7 +24736,7 @@
 		(instances
 			(project "slate113"
 				(path "/5f0cb96f-deec-4f06-b790-14dd96b4fe43"
-					(reference "L?")
+					(reference "L11")
 					(unit 1)
 				)
 			)
@@ -26408,7 +26408,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3a1315b5-9044-4b73-98cd-38ad6719822d")
-		(property "Reference" "R?"
+		(property "Reference" "R148"
 			(at 33.782 270.51 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26505,7 +26505,7 @@
 		(instances
 			(project "slate113"
 				(path "/5f0cb96f-deec-4f06-b790-14dd96b4fe43"
-					(reference "R?")
+					(reference "R148")
 					(unit 1)
 				)
 			)
@@ -26522,7 +26522,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3efef4ee-961b-4378-8c36-eadd763ae2be")
-		(property "Reference" "R?"
+		(property "Reference" "R152"
 			(at 135.382 271.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26619,7 +26619,7 @@
 		(instances
 			(project "slate113"
 				(path "/5f0cb96f-deec-4f06-b790-14dd96b4fe43"
-					(reference "R?")
+					(reference "R152")
 					(unit 1)
 				)
 			)
@@ -27086,132 +27086,6 @@
 			(project "slate113"
 				(path "/5f0cb96f-deec-4f06-b790-14dd96b4fe43"
 					(reference "C64")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "slate113:S2B-PH-K-S-GW")
-		(at 172.72 220.98 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4d24b586-775d-4494-b423-112d4b3ba015")
-		(property "Reference" "U32"
-			(at 179.07 219.7099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "S2B-PH-K-S-GW"
-			(at 179.07 222.2499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "slate113:CONN-TH_S2B-PH-K-S-GW"
-			(at 172.72 229.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://lcsc.com/product-detail/PH-Connectors_JST_S2B-PH-K-S-GW_PHsocket-1-2P-Curved-needle-pitch2mm_C157932.html"
-			(at 172.72 232.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 172.72 220.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "JST"
-			(at 172.72 234.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "S2B-PH-K-S-GW"
-			(at 172.72 237.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part" "C157932"
-			(at 172.72 240.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "DigiKey Part" ""
-			(at 0 0 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "946b7a79-4362-4b4f-ab92-e5a2e45c842b")
-		)
-		(pin "1"
-			(uuid "bc798230-ba50-43d7-a3be-712a6b30709a")
-		)
-		(instances
-			(project "slate113"
-				(path "/5f0cb96f-deec-4f06-b790-14dd96b4fe43"
-					(reference "U32")
 					(unit 1)
 				)
 			)
@@ -27748,7 +27622,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "56d52aaa-4696-4a60-9b76-b946f8410df0")
-		(property "Reference" "R?"
+		(property "Reference" "R150"
 			(at 55.372 262.636 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27845,7 +27719,7 @@
 		(instances
 			(project "slate113"
 				(path "/5f0cb96f-deec-4f06-b790-14dd96b4fe43"
-					(reference "R?")
+					(reference "R150")
 					(unit 1)
 				)
 			)
@@ -28702,7 +28576,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "67fc5bcf-4b95-4891-99c7-624ca162cb65")
-		(property "Reference" "C?"
+		(property "Reference" "C246"
 			(at 134.112 270.002 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28797,7 +28671,7 @@
 		(instances
 			(project "slate113"
 				(path "/5f0cb96f-deec-4f06-b790-14dd96b4fe43"
-					(reference "C?")
+					(reference "C246")
 					(unit 1)
 				)
 			)
@@ -29270,7 +29144,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "76658fe5-5801-4d67-8ba9-57834d68d2d6")
-		(property "Reference" "R?"
+		(property "Reference" "R151"
 			(at 135.382 251.46 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29367,7 +29241,7 @@
 		(instances
 			(project "slate113"
 				(path "/5f0cb96f-deec-4f06-b790-14dd96b4fe43"
-					(reference "R?")
+					(reference "R151")
 					(unit 1)
 				)
 			)
@@ -29950,7 +29824,7 @@
 				)
 			)
 		)
-		(property "Value" "20pF"
+		(property "Value" "15pF"
 			(at 374.6436 102.87 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29993,7 +29867,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1554"
+		(property "LCSC Part" "C26406"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -30004,7 +29878,7 @@
 				)
 			)
 		)
-		(property "MPN" "0402CG200J500NT"
+		(property "MPN" "CL05C120JB5NNNC"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -30114,6 +29988,132 @@
 			(project "slate113"
 				(path "/5f0cb96f-deec-4f06-b790-14dd96b4fe43"
 					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "slate113:S2B-PH-K-S-GW")
+		(at 172.72 220.98 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8b2172a4-ea4c-4b5d-98db-c47e8f3d90a7")
+		(property "Reference" "U73"
+			(at 179.07 219.7099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "B2B-PH-K-S"
+			(at 179.07 222.2499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "slate113:CONN-TH_B2B-PH-K-S"
+			(at 172.72 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/PH-Connectors_JST_S2B-PH-K-S-GW_PHsocket-1-2P-Curved-needle-pitch2mm_C157932.html"
+			(at 172.72 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 172.72 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "JST"
+			(at 172.72 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "B2B-PH-K-S(LF)(SN)"
+			(at 172.72 237.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C131337"
+			(at 172.72 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey Part" ""
+			(at 83.82 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "6d6e58f8-c7df-40c5-abee-bb9e8f587ad8")
+		)
+		(pin "1"
+			(uuid "a4419593-563d-476e-8419-58a78ef07bee")
+		)
+		(instances
+			(project "slate113"
+				(path "/5f0cb96f-deec-4f06-b790-14dd96b4fe43"
+					(reference "U73")
 					(unit 1)
 				)
 			)
@@ -30485,7 +30485,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8d748ca3-74ad-410a-a8f0-c5321a010cde")
-		(property "Reference" "R?"
+		(property "Reference" "R149"
 			(at 45.212 262.636 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30582,7 +30582,7 @@
 		(instances
 			(project "slate113"
 				(path "/5f0cb96f-deec-4f06-b790-14dd96b4fe43"
-					(reference "R?")
+					(reference "R149")
 					(unit 1)
 				)
 			)
@@ -30599,7 +30599,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8e964a8a-378f-421d-915b-ce6a8726010e")
-		(property "Reference" "C?"
+		(property "Reference" "C245"
 			(at 53.34 257.302 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30705,7 +30705,7 @@
 		(instances
 			(project "slate113"
 				(path "/5f0cb96f-deec-4f06-b790-14dd96b4fe43"
-					(reference "C?")
+					(reference "C245")
 					(unit 1)
 				)
 			)
@@ -30799,7 +30799,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "901ae848-df01-46e4-85ef-2b51763cad29")
-		(property "Reference" "R?"
+		(property "Reference" "R147"
 			(at 33.782 250.19 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30896,7 +30896,7 @@
 		(instances
 			(project "slate113"
 				(path "/5f0cb96f-deec-4f06-b790-14dd96b4fe43"
-					(reference "R?")
+					(reference "R147")
 					(unit 1)
 				)
 			)
@@ -31920,7 +31920,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "S2B-PH-K-S-GW"
+		(property "Value" "B2B-PH-K-S"
 			(at 95.25 234.9499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31931,7 +31931,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "slate113:CONN-TH_S2B-PH-K-S-GW"
+		(property "Footprint" "slate113:CONN-TH_B2B-PH-K-S"
 			(at 88.9 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -31975,7 +31975,7 @@
 				)
 			)
 		)
-		(property "MPN" "S2B-PH-K-S-GW"
+		(property "MPN" "B2B-PH-K-S(LF)(SN)"
 			(at 88.9 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -31986,7 +31986,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C157932"
+		(property "LCSC Part" "C131337"
 			(at 88.9 252.73 0)
 			(hide yes)
 			(show_name no)
@@ -33264,7 +33264,7 @@
 				)
 			)
 		)
-		(property "Value" "20pF"
+		(property "Value" "15pF"
 			(at 374.6564 92.71 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33307,7 +33307,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1554"
+		(property "LCSC Part" "C26406"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -33318,7 +33318,7 @@
 				)
 			)
 		)
-		(property "MPN" "0402CG200J500NT"
+		(property "MPN" "CL05C120JB5NNNC"
 			(at 0 0 0)
 			(hide yes)
 			(show_name no)
@@ -34363,7 +34363,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d0269c03-1c5b-4b1b-baad-a0ee9978efdd")
-		(property "Reference" "C?"
+		(property "Reference" "C243"
 			(at 32.512 268.732 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34458,7 +34458,7 @@
 		(instances
 			(project "slate113"
 				(path "/5f0cb96f-deec-4f06-b790-14dd96b4fe43"
-					(reference "C?")
+					(reference "C243")
 					(unit 1)
 				)
 			)
@@ -35835,7 +35835,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "ABRACON"
+		(property "Manufacturer" "Yajingxin"
 			(at 373.38 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -35846,7 +35846,7 @@
 				)
 			)
 		)
-		(property "MPN" "ABM8-272-T3"
+		(property "MPN" "TXM27.12M0004322DBBDO00T"
 			(at 373.38 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -35857,7 +35857,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C20625731"
+		(property "LCSC Part" "C362365"
 			(at 373.38 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -36350,7 +36350,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e8cd6699-d043-4ea5-94f1-5d0dee001a08")
-		(property "Reference" "C?"
+		(property "Reference" "C244"
 			(at 43.18 257.302 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36456,7 +36456,7 @@
 		(instances
 			(project "slate113"
 				(path "/5f0cb96f-deec-4f06-b790-14dd96b4fe43"
-					(reference "C?")
+					(reference "C244")
 					(unit 1)
 				)
 			)

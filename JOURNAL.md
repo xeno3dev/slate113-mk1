@@ -559,3 +559,19 @@ Today I started wiring up the NFC Stack, and ended up having to make some schema
 ![pic](./Assets/Devlogs/Pictures/Sept2_2of2.png)
 
 **Total time spent: 1.1 hours**
+
+# September 9: NFC + RFID + GPS Done, Sub-GHz Started
+
+**What Work Was Done**
+Today, I finished up wiring the NFC, GPS, and RFID Modules, made the Radio Board 6 Layers, and changed a crystal's caps for NFC to 15pf from 20pf. I also started wiring up the Sub-GHz system, starting with it's Switch (CC1101RGPR).
+
+**Pictures**
+![pic](./Assets/Devlogs/Pictures/{B2987DAD-AE46-4BAC-979C-1DB07A704D4B}.png)
+![pic](./Assets/Devlogs/Pictures/{8D70EC54-0FC0-418C-9895-10A2B5348596}.png)
+![pic](./Assets/Devlogs/Pictures/{F2F76208-4BD4-4846-9C38-DD42DFE410D8}.png)
+
+**Lapses**
+https://lapse.hackclub.com/timelapse/y2T4sG12nj0p
+https://lapse.hackclub.com/timelapse/Gu0pVbqT1uZI
+
+**Total time spent: 2 hours**
