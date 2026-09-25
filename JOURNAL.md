@@ -575,3 +575,16 @@ https://lapse.hackclub.com/timelapse/y2T4sG12nj0p
 https://lapse.hackclub.com/timelapse/Gu0pVbqT1uZI
 
 **Total time spent: 2 hours**
+
+# September 24: Radio Done at LAST
+
+**What Work Was Done**
+Today, I wired up the remaining part of the Radio Board, and it is now done! (I still have to get some 3D models for the board 3D Viewer tho)
+
+**Picture**
+![pic](./Assets/Devlogs/Pictures/image.png)
+
+**Lapse**
+https://lapse.hackclub.com/timelapse/kY6Kb9YMxmRD
+
+**Total time spent: 1.37 hours**
