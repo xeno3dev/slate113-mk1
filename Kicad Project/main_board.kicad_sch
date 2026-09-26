@@ -38884,10 +38884,6 @@
 		(uuid "d136f0ac-5ac7-45f4-9f58-cca183f43095")
 	)
 	(no_connect
-		(at 134.62 318.77)
-		(uuid "dcc81462-8f08-4aff-a3d4-0dc410afbbdd")
-	)
-	(no_connect
 		(at 204.47 208.28)
 		(uuid "dd95f376-e301-4830-b8ab-277f56c2dba9")
 	)
