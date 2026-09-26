@@ -588,3 +588,17 @@ Today, I wired up the remaining part of the Radio Board, and it is now done! (I 
 https://lapse.hackclub.com/timelapse/kY6Kb9YMxmRD
 
 **Total time spent: 1.37 hours**
+
+# September 25: Carrier is now back in "Business"
+
+**What Work Was Done**
+Today, I switched back to the Carrier Board and wired up the remaining B2B Connectors, excluding the LED lines.
+
+**Pictures**
+![pic](./Assets/Devlogs/Pictures/Screenshot2026-09-25%20215411.png)
+![pic2](./Assets/Devlogs/Pictures/Screenshot2026-09-25%20215419.png)
+
+**Lapse**
+https://lapse.hackclub.com/timelapse/8YyoD1BAMRV7
+
+**Total time spent: 1.42 hours**
