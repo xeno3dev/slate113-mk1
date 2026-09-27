@@ -602,3 +602,20 @@ Today, I switched back to the Carrier Board and wired up the remaining B2B Conne
 https://lapse.hackclub.com/timelapse/8YyoD1BAMRV7
 
 **Total time spent: 1.42 hours**
+
+# September 26: Almost Done with Carrier + Audio started!
+
+**What Work Was Done**
+Today, I continued working on the Carrier Board and finished up the LED Wiring on the Carrier side, and started work on the Audio Portion of the carrier board, which is almost done, same with the Carrier Board as a whole! After I wire up the rest of the remaining components, the remainder of boards I have to wire before doing ERC and making sure everything is good to go before working on CAD, is:
+
+- LED Strip
+- IO
+
+**Pictures**
+![pic](./Assets/Devlogs/Pictures/Screenshot2026-09-26%20223102.png)
+![pic2](./Assets/Devlogs/Pictures/Screenshot2026-09-26%20222316.png)
+
+**Lapse**
+https://lapse.hackclub.com/timelapse/3rZ-dbB4Doid
+
+**Total time spent: 1.45 hours**
