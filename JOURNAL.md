@@ -619,3 +619,21 @@ Today, I continued working on the Carrier Board and finished up the LED Wiring o
 https://lapse.hackclub.com/timelapse/3rZ-dbB4Doid
 
 **Total time spent: 1.45 hours**
+
+# September 27: Carrier Done!*
+
+**What Work Was Done**
+Today, I finished up the Carrier Board! Which leaves me to 2 more boards left to do, and man is it condense and an eyesore.
+
+*The RTC and Side Buttons aren't done yet, and I have been laxy to do that, so in the following days, that will be done and added to the Carrier Board...
+
+**Pictures**
+![pic](./Assets/Devlogs/Pictures/Screenshot%202026-09-27%20151654.png)
+![pic2](./Assets/Devlogs/Pictures/Screenshot%202026-09-27%20151743.png)
+![pic3](./Assets/Devlogs/Pictures/Screenshot%202026-09-27%20153711.png)
+![pic4](./Assets/Devlogs/Pictures/Screenshot%202026-09-27%20153719.png)
+
+**Lapse**
+https://lapse.hackclub.com/timelapse/zITSvOh60hjv
+
+**Total time spent: 1.78 hours**
