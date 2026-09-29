@@ -15412,30 +15412,6 @@
 			)
 		)
 	)
-	(global_label "FerriteGND"
-		(shape input)
-		(at 132.08 92.71 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "02ec4b84-ad48-4fd6-9c7b-b72a201126b3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 119.0556 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "GND"
 		(shape input)
 		(at 172.72 24.13 90)
@@ -20137,6 +20113,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "FerriteGND_IO"
+		(shape input)
+		(at 132.08 92.71 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "759eec4d-f4a2-49b2-80f5-c2adeab00f15")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 148.0073 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)

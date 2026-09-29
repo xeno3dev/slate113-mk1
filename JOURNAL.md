@@ -637,3 +637,18 @@ Today, I finished up the Carrier Board! Which leaves me to 2 more boards left to
 https://lapse.hackclub.com/timelapse/zITSvOh60hjv
 
 **Total time spent: 1.78 hours**
+
+# September 28: IO Daughter Board Started
+
+**What Work Was Done**
+Today, I started working on the IO board, and finished up the Mux stuff for DP.
+
+**Pictures**
+![pic](./Assets/Devlogs/Pictures/Screenshot%202026-09-28%20210624.png)
+![pic2](./Assets/Devlogs/Pictures/Screenshot%202026-09-28%20210652.png)
+![pic3](./Assets/Devlogs/Pictures/Screenshot%202026-09-28%20210624.png)
+
+**Lapse**
+https://lapse.hackclub.com/timelapse/zITSvOh60hjv
+
+**Total time spent: 1.01 hours**
