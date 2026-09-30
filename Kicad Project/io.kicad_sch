@@ -18292,30 +18292,6 @@
 			)
 		)
 	)
-	(global_label "FerriteGND"
-		(shape input)
-		(at 16.51 172.72 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "42b7ef3c-634d-4f60-b576-5bad191b8835")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 16.51 185.7444 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "VCC_CAPS"
 		(shape input)
 		(at 156.21 213.36 90)
@@ -18892,9 +18868,9 @@
 			)
 		)
 	)
-	(global_label "FerriteGND"
+	(global_label "FerriteGND_IO"
 		(shape input)
-		(at 49.53 172.72 270)
+		(at 16.51 172.72 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -18902,9 +18878,9 @@
 			)
 			(justify right)
 		)
-		(uuid "51f71100-8fe1-4acb-828d-37c5af403223")
+		(uuid "517c6bfb-e9dc-455d-8414-0ec2d7047df9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 49.53 185.7444 90)
+			(at 16.51 188.6473 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19897,6 +19873,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "FerriteGND_IO"
+		(shape input)
+		(at 49.53 172.72 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6d8dd4a2-a3ec-4951-a1dd-59b15f276610")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 49.53 188.6473 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)

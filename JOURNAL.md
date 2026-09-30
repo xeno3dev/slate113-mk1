@@ -652,3 +652,18 @@ Today, I started working on the IO board, and finished up the Mux stuff for DP.
 https://lapse.hackclub.com/timelapse/zITSvOh60hjv
 
 **Total time spent: 1.01 hours**
+
+# September 29: WiFi/BLE Combo Module started
+
+**What Work Was Done**
+Today, I started working on the WiFi/BLE Combo Module, and continued working on the USB Hub, as well as wire up a few Power Controllers, and a started on a few of the U.FL chains.
+
+**Pictures**
+![pic](./Assets/Devlogs/Pictures/Screenshot%202026-09-29%20213655.png)
+![pic2](./Assets/Devlogs/Pictures/Screenshot%202026-09-29%20213701.png)
+![pic3](./Assets/Devlogs/Pictures/Screenshot%202026-09-29%20213719.png)
+
+**Lapse**
+https://lapse.hackclub.com/timelapse/a03S0GiyGh9B
+
+**Total time spent: 1.01 hours**
