@@ -667,3 +667,19 @@ Today, I started working on the WiFi/BLE Combo Module, and continued working on 
 https://lapse.hackclub.com/timelapse/a03S0GiyGh9B
 
 **Total time spent: 1.01 hours**
+
+# October 5: Schematic Changes
+
+**What Work Was Done**
+For the last few days, I have started making/adding some changes to the schematics, as some stuff was wired incorrectly, and to wire up stuff like the new forced shutoff stuff, among other things, like the side buttons, which i have stopped procrastinating on getting done.
+
+**Pictures**
+![pic](./Assets/Devlogs/Pictures/Screenshot%202026-10-05%20195315.png)
+![pic2](./Assets/Devlogs/Pictures/Screenshot%202026-10-05%20195320.png)
+![pic3](./Assets/Devlogs/Pictures/Screenshot%202026-10-05%20195328.png)
+
+**Lapse**
+https://lapse.hackclub.com/timelapse/hkR5yiOKIn4A
+https://lapse.hackclub.com/timelapse/4n1fdlYJfO4r
+
+**Total time spent: 1.95 hours**

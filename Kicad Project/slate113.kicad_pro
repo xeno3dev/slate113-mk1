@@ -69,7 +69,13 @@
           "thermal_relief_spoke_width": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -153,7 +159,7 @@
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.2,
+        "min_track_width": 0.13,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
         "solder_mask_to_copper_clearance": 0.0,
@@ -203,7 +209,9 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -230,7 +238,12 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -511,6 +524,45 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "clearance": 0.2,
+        "diff_pair_gap": 0.2,
+        "diff_pair_width": 0.1349,
+        "name": "DIFF_100_FCU",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 3,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.1349,
+        "tuning_profile": ""
+      },
+      {
+        "clearance": 0.2,
+        "diff_pair_gap": 0.2,
+        "diff_pair_width": 0.1707,
+        "name": "DIFF_90_FCU",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.1707,
+        "tuning_profile": ""
+      },
+      {
+        "clearance": 0.2,
+        "name": "RF_50",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.1707,
+        "tuning_profile": ""
+      },
+      {
+        "clearance": 0.14,
+        "name": "U37",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "tuning_profile": ""
       }
     ],
     "meta": {
@@ -518,7 +570,220 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "RF_50",
+        "pattern": "GPS_ANT"
+      },
+      {
+        "netclass": "RF_50",
+        "pattern": "GPS_RF_IN"
+      },
+      {
+        "netclass": "RF_50",
+        "pattern": "U.FL_OUT"
+      },
+      {
+        "netclass": "RF_50",
+        "pattern": "315MHZ_OUT"
+      },
+      {
+        "netclass": "RF_50",
+        "pattern": "433MHZ_OUT"
+      },
+      {
+        "netclass": "RF_50",
+        "pattern": "slash"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "BADUSB_DM"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "BADUSB_DP"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "M2_DM"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "M2_DP"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "PCIE0_REFCLKN"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "PCIE0_REFCLKP"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "PCIE0_RXN"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "PCIE0_RXP"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "PCIE0_TXN"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "PCIE0_TXP"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "USB1_DN"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "USB1_DP"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "USB1_MUXCOM_RXN"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "USB1_MUXCOM_RXP"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "USB1_MUXCOM_TXN"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "USB1_MUXCOM_TXP"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "USB1_RX1N"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "USB1_RX1P"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "USB1_RX2N"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "USB1_TX1N"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "USB1_TX1P"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "USB1_TX2N"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "USB1_TX2P"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "USB2_H_DM"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "USB2_H_DP"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "USB_A_DM"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "USB_A_DP"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "WIFI_DM"
+      },
+      {
+        "netclass": "DIFF_90_FCU",
+        "pattern": "WIFI_DP"
+      },
+      {
+        "netclass": "DIFF_100_FCU",
+        "pattern": "DSI_CLKN"
+      },
+      {
+        "netclass": "DIFF_100_FCU",
+        "pattern": "DSI_CLKP"
+      },
+      {
+        "netclass": "DIFF_100_FCU",
+        "pattern": "DSI_D0N"
+      },
+      {
+        "netclass": "DIFF_100_FCU",
+        "pattern": "DSI_D0P"
+      },
+      {
+        "netclass": "DIFF_100_FCU",
+        "pattern": "DSI_D1N"
+      },
+      {
+        "netclass": "DIFF_100_FCU",
+        "pattern": "DSI_D1P"
+      },
+      {
+        "netclass": "DIFF_100_FCU",
+        "pattern": "DSI_D2N"
+      },
+      {
+        "netclass": "DIFF_100_FCU",
+        "pattern": "DSI_D2P"
+      },
+      {
+        "netclass": "DIFF_100_FCU",
+        "pattern": "DSI_D3N"
+      },
+      {
+        "netclass": "DIFF_100_FCU",
+        "pattern": "DSI_D3P"
+      },
+      {
+        "netclass": "DIFF_100_FCU",
+        "pattern": "ETH_MDI0N"
+      },
+      {
+        "netclass": "DIFF_100_FCU",
+        "pattern": "ETH_MDI0P"
+      },
+      {
+        "netclass": "DIFF_100_FCU",
+        "pattern": "ETH_MDI1N"
+      },
+      {
+        "netclass": "DIFF_100_FCU",
+        "pattern": "ETH_MDI1P"
+      },
+      {
+        "netclass": "DIFF_100_FCU",
+        "pattern": "ETH_MDI2N"
+      },
+      {
+        "netclass": "DIFF_100_FCU",
+        "pattern": "ETH_MDI2P"
+      },
+      {
+        "netclass": "DIFF_100_FCU",
+        "pattern": "ETH_MDI3N"
+      },
+      {
+        "netclass": "DIFF_100_FCU",
+        "pattern": "ETH_MDI3P"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -722,7 +987,7 @@
         "uuid": "0f372028-524b-4273-acdc-7aa2b492ee5d"
       }
     ],
-    "used_designators": "C236-246,R24,R142-154,L11-12,U73,FB11",
+    "used_designators": "C9,C30-31,C41,C157,C236-265,R6,R10,R24,R34-35,R111,R121,R123,R125,R142-158,BT1,#PWR15,#PWR30-34,L11-12,U7,U73,FB11,CN1-2,CN23-24,D53",
     "variants": []
   },
   "sheets": [

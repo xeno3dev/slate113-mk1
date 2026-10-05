@@ -42,7 +42,7 @@
 	(fp_line (start 1.76 -0.92) (end 1.76 0.93) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 1.76 0.93) (end -1.76 0.93) (layer F.CrtYd) (width 0.05))
 	(fp_poly (pts (xy -1.598701 -1.659865) (xy -1.998701 -1.659865) (xy -1.798726 -1.159916) (xy -1.598701 -1.659865)) (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS"))
-	(model "/home/xeno3ra/projects/slate113-mk1/slate113_libs/slate113.3dshapes/CONN-SMD_DF40C-WS-10P-P0.4.wrl"
+	(model "${KIPRJMOD}/slate113_libs/slate113.3dshapes/CONN-SMD_DF40C-WS-10P-P0.4.wrl"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))
