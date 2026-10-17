@@ -683,3 +683,35 @@ https://lapse.hackclub.com/timelapse/hkR5yiOKIn4A
 https://lapse.hackclub.com/timelapse/4n1fdlYJfO4r
 
 **Total time spent: 1.95 hours**
+
+# October 15: Schmatic Cleanup + Fixes
+
+**What Work Was Done**
+I have cleaned up the Main Board Schematic as I have been previously told it was a bit of a mess, so i made it Hierarchical, and added some components, including a RTC Battery Holder, and ANOTHER mezzanine for the Side Buttons. I also did end up fixing some issues in the Power Schematic, and am almost done with updating the schematic.
+
+**Pictures**
+![pic1](./Assets/Devlogs/Pictures/image-4.png)
+![pic2](./Assets/Devlogs/Pictures/image-3.png)
+![pic3](./Assets/Devlogs/Pictures/image-2.png)
+![pic4](./Assets/Devlogs/Pictures/image-1.png)
+![pic5](./Assets/Devlogs/Pictures/image-5.png)
+
+**Lapses**
+https://lapse.hackclub.com/timelapse/4n1fdlYJfO4r
+https://lapse.hackclub.com/timelapse/YiXjDRxWO5Yz
+
+**Total time spent 1.63 hours**
+
+# October 16: Flex Cables Started
+
+**What Work Was Done**
+Today, I fixed the remaining schematic problems, and moved all flex remalted PCBs to the new Kicad Prpject, [here](./Flex%20Cables%20Kicad%20Project/). I also wired up the Power Flex Cable too.
+
+**Pictures**
+![pic1](./Assets/Devlogs/Pictures/image%20copy.png)
+![pic2](./Assets/Devlogs/Pictures/image%20copy%22.png)
+
+**Lapse**
+https://lapse.hackclub.com/timelapse/gkpg-v2yaTSu
+
+**Total time spent: 1.3 hours**

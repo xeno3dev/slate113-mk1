@@ -942,29 +942,9 @@
         "uuid": "94414cfb-47f8-4293-934c-b1b4e6e41e9f"
       },
       {
-        "filename": "m.2flex.kicad_sch",
-        "name": "M.2Flex",
-        "uuid": "f307ba30-5fb8-413d-b39f-b3fc9784889c"
-      },
-      {
-        "filename": "ioflex.kicad_sch",
-        "name": "IOFlex",
-        "uuid": "6c6befcf-f225-4414-af92-dd623bb72590"
-      },
-      {
-        "filename": "powerflex.kicad_sch",
-        "name": "PowerFlex",
-        "uuid": "911781d1-2594-482b-972d-6ebe3a608599"
-      },
-      {
         "filename": "radio.kicad_sch",
         "name": "Radio",
         "uuid": "5f0cb96f-deec-4f06-b790-14dd96b4fe43"
-      },
-      {
-        "filename": "radioflex.kicad_sch",
-        "name": "RadioFlex",
-        "uuid": "43a4e077-05be-4520-a0b4-5cfdc96f90d7"
       },
       {
         "filename": "antennabracket.kicad_sch",
@@ -980,14 +960,9 @@
         "filename": "ledbar.kicad_sch",
         "name": "LEDBar",
         "uuid": "9144d9eb-e8ae-422f-a98d-7eba2889072a"
-      },
-      {
-        "filename": "slateconnectflex.kicad_sch",
-        "name": "SlateConnectFlex",
-        "uuid": "0f372028-524b-4273-acdc-7aa2b492ee5d"
       }
     ],
-    "used_designators": "C9,C30-31,C41,C157,C236-265,R6,R10,R24,R34-35,R111,R121,R123,R125,R142-158,BT1,#PWR15,#PWR30-34,L11-12,U7,U73,FB11,CN1-2,CN23-24,D53",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
@@ -1012,24 +987,8 @@
       "M.2"
     ],
     [
-      "911781d1-2594-482b-972d-6ebe3a608599",
-      "PowerFlex"
-    ],
-    [
-      "f307ba30-5fb8-413d-b39f-b3fc9784889c",
-      "M.2Flex"
-    ],
-    [
-      "6c6befcf-f225-4414-af92-dd623bb72590",
-      "IOFlex"
-    ],
-    [
       "5f0cb96f-deec-4f06-b790-14dd96b4fe43",
       "Radio"
-    ],
-    [
-      "43a4e077-05be-4520-a0b4-5cfdc96f90d7",
-      "RadioFlex"
     ],
     [
       "91b7b2cb-870f-4b9b-aff7-8953b62455b3",
@@ -1044,8 +1003,24 @@
       "LEDBar"
     ],
     [
-      "0f372028-524b-4273-acdc-7aa2b492ee5d",
-      "SlateConnectFlex"
+      "7288887a-1d71-4cbc-8b40-909dee32ada3",
+      "Main Board Interfaces"
+    ],
+    [
+      "50bb923d-ba7b-433f-a501-3cbf6cd992df",
+      "Main Board LED"
+    ],
+    [
+      "48cb223f-8909-45d0-9ffd-73d143f9bcd7",
+      "Main Board Display"
+    ],
+    [
+      "ebc14161-7f4e-408b-bdcd-c308deb23e51",
+      "Main Board Audio"
+    ],
+    [
+      "5f66139e-415d-4088-8931-e3914eb8480c",
+      "Main Board Misc"
     ]
   ],
   "text_variables": {},

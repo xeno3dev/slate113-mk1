@@ -1,5 +1,336 @@
-(kicad_sch (version 20250114) (generator "eeschema")
- (uuid "31b9d3d5-8733-48f7-9584-bc468f4e67d0") (paper "A4") (lib_symbols)
- (sheet_instances (path "/" (page "1")))
- (embedded_fonts no)
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "31b9d3d5-8733-48f7-9584-bc468f4e67d0")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 72.39 15.24)
+		(size 53.34 50.292)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "0f9e4996-b2ae-4e49-ac9c-80a796eed915")
+		(property "Sheetname" "IO Flex"
+			(at 72.39 14.5284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "IOFlex.kicad_sch"
+			(at 72.39 66.1166 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Flex Cables Kicad Project"
+				(path "/31b9d3d5-8733-48f7-9584-bc468f4e67d0"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 129.54 72.39)
+		(size 53.34 50.292)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "5b3ec8b3-0999-4010-89f4-cb02635867e1")
+		(property "Sheetname" "LED Bar"
+			(at 129.54 71.6784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LEDBar.kicad_sch"
+			(at 129.54 123.2666 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Flex Cables Kicad Project"
+				(path "/31b9d3d5-8733-48f7-9584-bc468f4e67d0"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 72.39)
+		(size 53.34 50.292)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "5e74dbae-09bd-4bfc-a991-68bebf15b8d6")
+		(property "Sheetname" "Power Flex"
+			(at 15.24 71.6784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PowerFlex.kicad_sch"
+			(at 15.24 123.2666 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Flex Cables Kicad Project"
+				(path "/31b9d3d5-8733-48f7-9584-bc468f4e67d0"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 129.54 15.24)
+		(size 53.34 50.292)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "69eb4382-634f-4d24-81bb-5e4fe36669a6")
+		(property "Sheetname" "Slate Connect Flex"
+			(at 129.54 14.5284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SlateConnectFlex.kicad_sch"
+			(at 129.54 66.1166 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Flex Cables Kicad Project"
+				(path "/31b9d3d5-8733-48f7-9584-bc468f4e67d0"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 15.494)
+		(size 53.34 50.292)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "70f17198-6b0a-4362-a9bc-51ecfc692ee2")
+		(property "Sheetname" "M.2 Flex"
+			(at 15.24 14.7824 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "M.2Flex.kicad_sch"
+			(at 15.24 66.3706 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Flex Cables Kicad Project"
+				(path "/31b9d3d5-8733-48f7-9584-bc468f4e67d0"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 185.42 15.24)
+		(size 53.34 50.292)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e70b57f0-6f8d-4768-ad46-5bff0409be21")
+		(property "Sheetname" "Side Buttons Flex"
+			(at 185.42 14.5284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SideButtonsFlex.kicad_sch"
+			(at 185.42 66.1166 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Flex Cables Kicad Project"
+				(path "/31b9d3d5-8733-48f7-9584-bc468f4e67d0"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 72.39 72.39)
+		(size 53.34 50.292)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e837d1e0-4d7f-4b27-b19e-d6ce3c6449e5")
+		(property "Sheetname" "Radio Flex"
+			(at 72.39 71.6784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RadioFlex.kicad_sch"
+			(at 72.39 123.2666 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Flex Cables Kicad Project"
+				(path "/31b9d3d5-8733-48f7-9584-bc468f4e67d0"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
 )

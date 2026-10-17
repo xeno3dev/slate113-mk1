@@ -11544,6 +11544,18 @@
 		(uuid "3c0e5e8d-21a4-4668-8ac3-f752693a5cca")
 	)
 	(rectangle
+		(start 167.894 88.9)
+		(end 189.23 137.414)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "4824f989-6138-4387-8de6-98c170cf5df1")
+	)
+	(rectangle
 		(start 13.97 88.9)
 		(end 91.44 139.7)
 		(stroke
@@ -11834,6 +11846,16 @@
 			)
 		)
 		(uuid "b57d2747-5eab-42d9-9db5-8296e4c81369")
+	)
+	(text "Random Resistor\n"
+		(exclude_from_sim no)
+		(at 176.022 136.906 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "bfe06927-cdf1-4429-8e9a-3e296d0691eb")
 	)
 	(text "Hub Flash\n"
 		(exclude_from_sim no)
@@ -17231,6 +17253,30 @@
 			)
 		)
 	)
+	(global_label "3V3"
+		(shape input)
+		(at 180.34 107.95 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4e52b466-9e02-473d-ba27-df7f65c712eb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 180.34 101.4572 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "GND"
 		(shape input)
 		(at 44.45 185.42 270)
@@ -19524,6 +19570,30 @@
 		(uuid "8b57cbe9-a050-4809-b22d-3e0e9fa6f6da")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 209.55 240.5357 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "USB_HUB_EN"
+		(shape input)
+		(at 180.34 113.03 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8c21270a-6549-4abb-af82-52da97cdfb6b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 180.34 128.1709 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34852,6 +34922,86 @@
 			(project "slate113"
 				(path "/d9c968d6-de70-422d-aa76-11643c5e786e"
 					(reference "R27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 180.34 110.49 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a49b0c78-ae3a-4212-96dd-b5b931c8f69d")
+		(property "Reference" "R124"
+			(at 175.26 110.49 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Value" "10kΩ"
+			(at 177.8 110.49 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 180.34 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 180.34 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 180.34 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a0a71eba-09c0-40a0-b064-414f109ec5a0")
+		)
+		(pin "2"
+			(uuid "aa867de5-4f82-4523-99b9-92a32a688e38")
+		)
+		(instances
+			(project "slate113"
+				(path "/d9c968d6-de70-422d-aa76-11643c5e786e"
+					(reference "R124")
 					(unit 1)
 				)
 			)
