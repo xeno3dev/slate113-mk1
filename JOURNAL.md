@@ -715,3 +715,17 @@ Today, I fixed the remaining schematic problems, and moved all flex remalted PCB
 https://lapse.hackclub.com/timelapse/gkpg-v2yaTSu
 
 **Total time spent: 1.3 hours**
+
+# October 18: 2 more Flex Cables Down
+
+**What Work Was Done**
+Today, I worked on more of the Flex Cables, and finished up the SlateConnect Flex Cable, as well as the M.2 Flex Cable. I also did start the Radio Flex.
+
+**Pictures**
+![pic1](./Assets/Devlogs/Pictures/image%20copy%203.png)
+
+**Lapse**
+https://lapse.hackclub.com/timelapse/m_YKxVkk0KLD
+
+
+**Total time spent: 1.01 hours**

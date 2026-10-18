@@ -826,7 +826,7 @@
         "uuid": "31b9d3d5-8733-48f7-9584-bc468f4e67d0"
       }
     ],
-    "used_designators": "CN2-3",
+    "used_designators": "CN2-3,CN5,CN8",
     "variants": []
   },
   "sheets": [
